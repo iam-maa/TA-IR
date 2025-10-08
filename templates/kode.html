@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Pencarian Berita</title>
+    <style>
+        html, body {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+        }
+        .container {
+            display: flex;
+            min-height: 100vh;
+        }
+        .sidebar {
+            width: 250px;
+            background: #333;
+            color: white;
+            padding: 20px;
+        }
+        .main {
+            flex-grow: 1;
+            padding: 20px;
+        }
+        .form-group { margin-bottom: 15px; }
+        .form-group label { display: block; font-weight: bold; }
+        select, input[type="text"], button {
+            width: 100%;
+            padding: 8px;
+            margin-top: 5px;
+        }
+        .card {
+            background: white;
+            padding: 15px;
+            border-radius: 10px;
+            margin-bottom: 15px;
+            box-shadow: 0 0 8px rgba(0,0,0,0.1);
+        }
+        .highlight { color: darkblue; font-weight: bold; }
+
+
+    </style>
+    <script>
+        function updateModels(selectedModel = "") {
+            const mode = document.getElementById("mode").value;
+            const modelSelect = document.getElementById("model");
+
+            const models = {
+                "QE_STR": [
+                    { value: "ujimodelgr-100-3-0.01", label: "model-skipgramstr(100-3-0.01)" },
+                    { value: "ujimodelgr-100-3-0.001", label: "model-skipgramstr(100-3-0.001)" },
+                    { value: "ujimodelgr-100-5-0.01", label: "model-skipgramstr(100-5-0.01)" },
+                    { value: "ujimodelgr-100-5-0.001", label: "model-skipgramstr(100-5-0.001)" },
+                    { value: "ujimodelgr-100-9-0.01", label: "model-skipgramstr(100-9-0.01)" },
+                    { value: "ujimodelgr-100-9-0.001", label: "model-skipgramstr(100-9-0.001)" },
+                    { value: "ujimodelgr-300-3-0.01", label: "model-skipgramstr(300-3-0.01)" },
+                    { value: "ujimodelgr-300-3-0.001", label: "model-skipgramstr(300-3-0.001)" },
+                    { value: "ujimodelgr-300-5-0.01", label: "model-skipgramstr(300-5-0.01)" },
+                    { value: "ujimodelgr-300-5-0.001", label: "model-skipgramstr(300-5-0.001)" },
+                    { value: "ujimodelgr-300-9-0.01", label: "model-skipgramstr(300-9-0.01)" },
+                    { value: "ujimodelgr-300-9-0.001", label: "model-skipgramstr(300-9-0.001)" }
+                ],
+                "QE_NOSTR": [
+                    { value: "modelNoSTR-100-3-0.01", label: "model-skipgram-nostr(100-3-0.01)" },
+                    { value: "modelNoSTR-100-3-0.001", label: "model-skipgram-nostr(100-3-0.001)" },
+                    { value: "modelNoSTR-100-5-0.01", label: "model-skipgram-nostr(100-5-0.01)" },
+                    { value: "modelNoSTR-100-5-0.001", label: "model-skipgram-nostr(100-5-0.001)" },
+                    { value: "modelNoSTR-100-9-0.01", label: "model-skipgram-nostr(100-9-0.01)" },
+                    { value: "modelNoSTR-100-9-0.001", label: "model-skipgram-nostr(100-9-0.001)" },
+                    { value: "modelNoSTR-300-3-0.01", label: "model-skipgram-nostr(300-3-0.01)" },
+                    { value: "modelNoSTR-300-3-0.001", label: "model-skipgram-nostr(300-3-0.001)" },
+                    { value: "modelNoSTR-300-5-0.01", label: "model-skipgram-nostr(300-5-0.01)" },
+                    { value: "modelNoSTR-300-5-0.001", label: "model-skipgram-nostr(300-5-0.001)" },
+                    { value: "modelNoSTR-300-9-0.01", label: "model-skipgram-nostr(300-9-0.01)" },
+                    { value: "modelNoSTR-300-9-0.001", label: "model-skipgram-nostr(300-9-0.001)" }
+                ],
+                "NO_QE": [
+                    { value: "Tanpa QE", label: "Tidak Ada" }
+                ]
+            };
+
+            modelSelect.innerHTML = "";
+            models[mode].forEach(m => {
+                const opt = document.createElement("option");
+                opt.value = m.value;
+                opt.textContent = m.label;
+                if (m.value === selectedModel) {
+                    opt.selected = true;
+                }
+                modelSelect.appendChild(opt);
+            });
+        }
+
+        window.onload = function () {
+            const selectedModel = "{{ model or '' }}";
+            updateModels(selectedModel);
+        };
+    </script>
+</head>
+<body>
+<div class="container">
+    <div class="sidebar">
+        <h2>📂 Pencarian Berita</h2>
+        <form method="POST" action="{{ url_for('lihat_kode') }}">
+            <div class="form-group">
+                <label>Pilih Skenario:</label>
+                <select name="mode" id="mode" onchange="updateModels()">
+                    <option value="QE_STR" {% if mode == 'QE_STR' %}selected{% endif %}>QE Dengan Stopword Removal</option>
+                    <option value="QE_NOSTR" {% if mode == 'QE_NOSTR' %}selected{% endif %}>QE Tanpa Stopword Removal</option>
+                    <option value="NO_QE" {% if mode == 'NO_QE' %}selected{% endif %}>Tanpa QE</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label>Pilih Model:</label>
+                <select name="model" id="model"></select>
+            </div>
+            <div class="form-group">
+                <label>Kata Kunci:</label>
+                <input type="text" name="query" value="{{ query or '' }}">
+            </div>
+            <button type="submit">🔍 Cari</button>
+        </form>
+    </div>
+    <div class="sidebar-nav">
+    <a href= "{{ url_for('index') }}" style="display:block; margin-top:20px; background:#444; color:white; padding:10px; text-align:center; border-radius:5px; text-decoration:none;">ℹ️ Home</a>
+    <a href="{{ url_for('lihat_relevansi', page=page) }}" style="display:block; margin-top:10px; background:#444; color:white; padding:10px; text-align:center; border-radius:5px; text-decoration:none;">📄 Lihat Relevansi</a>
+    </div>
+
+
+    <div class="main">
+    {% if mode == 'QE_STR' or mode == 'QE_NOSTR' %}
+        {% if expanded_query %}
+        <div class="card">
+            <strong>Query Diperluas:</strong>
+            <p class="highlight">{{ expanded_query | join(', ') }}</p>
+        </div>
+        {% endif %}
+    {% elif mode == 'NO_QE' %}
+        {% if query %}
+        <div class="card">
+            <strong>Query:</strong>
+            <p class="highlight">{{ expanded_query | join(', ') }}</p>
+        </div>
+        {% endif %}
+     {% endif %}
+
+        {% if selected_model_label %}
+        <div class="card">
+            <strong>Model yang Digunakan:</strong>
+            <p class="highlight">{{ selected_model_label }}</p>
+        </div>
+        {% endif %}
+
+       {% if results %}
+    <form id="relevansiForm" method="POST" action="{{ url_for('simpan_relevansi') }}">
+        <input type="hidden" name="page" id="pageHidden" value="{{ page }}">
+        <input type="hidden" name="expanded_query" value="{{ expanded_query | join(', ') }}">
+        <input type="hidden" name="query" value="{{ query }}">
+        <input type="hidden" name="model" value="{{ selected_model_label }}">
+        <input type="hidden" name="validator" id="validatorInput">
+
+        {% for r in results %}
+        <div class="card">
+            <h3>{{ r.Judul }}</h3>
+            <p><strong>Tanggal:</strong> {{ r.Tanggal }} | <strong>Kategori:</strong> {{ r.Kategori }}</p>
+            <p><strong>Skor BM25+:</strong> {{ r.Skor }}</p>
+            <p><strong>Dokumen:</strong> {{ r.No }}</p>
+            <p>{{ r.Berita }}</p>
+            <a href="{{ r.Link }}" target="_blank">🔗 Baca Selengkapnya</a>
+
+            <label>
+                <input type="radio" name="relevansi_{{ r.No }}" value="relevan"> Relevan
+            </label>
+            <label>
+                <input type="radio" name="relevansi_{{ r.No }}" value="tidak"> Tidak Relevan
+            </label>
+        </div>
+        {% endfor %}
+
+        <button type="button" onclick="tambahValidator()">💾 Simpan Relevansi</button>
+    </form>
+    {% endif %}
+    </div>
+</div>
+
+<script>
+function tambahValidator() {
+  let nama = prompt("Masukkan nama validator:");
+  if (nama && nama.trim() !== "") {
+    document.getElementById("validatorInput").value = nama.trim();
+
+    // ambil page dari URL kalau hidden kosong
+    let urlParams = new URLSearchParams(window.location.search);
+    let currentPage = urlParams.get("page") || "1";
+    document.getElementById("pageHidden").value = currentPage;
+
+    document.getElementById("relevansiForm").submit();
+  } else {
+    alert("Nama validator wajib diisi!");
+  }
+}
+
+</script>
+</body>
+</html>

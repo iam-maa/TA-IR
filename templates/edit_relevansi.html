@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Edit Relevansi</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; display: flex; }
+        .sidebar {
+            width: 250px;
+            background: #333;
+            color: white;
+            padding: 20px;
+            min-height: 100vh;
+        }
+        .main {
+            flex-grow: 1;
+            padding: 20px;
+        }
+        input[type="text"], textarea {
+            width: 100%;
+            padding: 8px;
+            margin: 8px 0 16px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+        label {
+            font-weight: bold;
+        }
+        button {
+            padding: 10px 20px;
+            background: #28a745;
+            border: none;
+            color: white;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        .btn-secondary {
+            background: #6c757d;
+            margin-left: 10px;
+            text-decoration: none;
+            padding: 10px 20px;
+            border-radius: 4px;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <div class="sidebar">
+        <h2>📂 Pencarian Berita</h2>
+        <a href="{{ url_for('index') }}" class="btn-secondary">🔍 Pencarian</a>
+        <br><br>
+        <a href="{{ url_for('lihat_relevansi') }}" class="btn-secondary">📊 Data Relevansi</a>
+    </div>
+
+    <div class="main">
+        <h1>Edit Data Relevansi</h1>
+
+        <form method="POST" action="{{ url_for('update_relevansi', index=index) }}">
+            <p><strong>Query:</strong> {{ item.query }}</p>
+            <p><strong>Model:</strong> {{ item.model }}</p>
+
+            <p><strong>Total Dokumen Relevan:</strong> {{ item.dokumen_relevan|length }}</p>
+            <p><strong>Total Dokumen Tidak Relevan:</strong> {{ item.dokumen_tidak_relevan|length }}</p>
+
+            <label for="dokumen_relevan">Nomor Dokumen Relevan (pisahkan dengan koma):</label>
+            <input type="text" name="dokumen_relevan" value="{{ item.dokumen_relevan | join(', ') }}">
+
+            <label for="dokumen_tidak_relevan">Nomor Dokumen Tidak Relevan (pisahkan dengan koma):</label>
+            <input type="text" name="dokumen_tidak_relevan" value="{{ item.dokumen_tidak_relevan | join(', ') }}">
+
+            <button type="submit">💾 Simpan Perubahan</button>
+            <a href="{{ url_for('lihat_relevansi') }}" class="btn-secondary">🔙 Kembali</a>
+        </form>
+    </div>
+</body>
+</html>

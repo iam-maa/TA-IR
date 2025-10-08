@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Halaman Pencarian Berita</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #E6E6FA;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+        }
+        .container {
+            width: 80%;
+            margin-top: 50px;
+        }
+        h2 {
+            text-align: center;
+            color: #333;
+        }
+        form {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        input[type="text"] {
+            width: 50%;
+            padding: 10px;
+            font-size: 16px;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+        }
+        .card {
+            background: white;
+            padding: 15px;
+            border-radius: 10px;
+            margin-bottom: 15px;
+            box-shadow: 0 0 5px rgba(0,0,0,0.1);
+        }
+        .highlight {
+            color: darkblue;
+            font-weight: bold;
+        }
+        .logo-container {
+            text-align: right;
+            margin-bottom: 20px;
+        }
+        .logo-container a {
+            text-decoration: none;
+            font-size: 20px;
+        }
+
+        .floating-info {
+    position: fixed;      /* bikin ngambang */
+    top: 10px;            /* jarak dari atas */
+    left: 10px;           /* jarak dari kiri */
+    z-index: 1000;        /* agar selalu di atas elemen lain */
+    }
+
+    .floating-info a {
+    display: block;
+    background: #444;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+    transition: background 0.3s;
+}
+
+.floating-info a:hover {
+    background: #555;
+}
+    </style>
+</head>
+<body>
+<div class="container">
+
+    <!-- Logo / Tombol info ke halaman skenario -->
+    <div class="floating-info">
+    <a href="{{ url_for('lihat_kode') }}" title="Lihat seluruh skenario">ℹ️ Info</a>
+    </div>
+
+
+    <h2>📰 Temukan Berita Sesuai Kebutuhan Anda Disini</h2>
+    <div style="text-align:center; margin:20px 0;">
+    <img src="{{ url_for('static', filename='berita3.jpg') }}" 
+         alt="Gambar Selamat Datang" 
+         style="max-width:390px; border-radius:6x;">
+    </div>
+
+    <form method="POST">
+        <input type="text" name="query" placeholder="Masukkan kata kunci..." value="{{ query or '' }}">
+        <button type="submit">🔍 Cari</button>
+    </form>
+
+    {% if query %}
+    <div class="card">
+        <strong>Query Awal:</strong>
+        <p class="highlight">{{ query }}</p>
+    </div>
+    {% endif %}
+
+    {% if expanded_query %}
+    <div class="card">
+        <strong>Query Diperluas:</strong>
+        <p class="highlight">{{ expanded_query | join(', ') }}</p>
+    </div>
+    {% endif %}
+
+    {% for r in results %}
+    <div class="card">
+        <h3>{{ r.Judul }}</h3>
+        <p><strong>Tanggal:</strong> {{ r.Tanggal }} | <strong>Kategori:</strong> {{ r.Kategori }}</p>
+        <p><strong>Skor BM25+:</strong> {{ r.Skor }}</p>
+        <p>{{ r.Berita }}</p>
+        <a href="{{ r.Link }}" target="_blank">🔗 Baca Selengkapnya</a>
+    </div>
+    {% endfor %}
+
+</div>
+</body>
+</html>

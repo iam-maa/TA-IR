@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Data Relevansi</title>
+    <style>
+        body { display: flex; font-family: Arial, sans-serif; margin: 0; }
+        .sidebar {
+            width: 250px;
+            background: #333;
+            color: white;
+            padding: 20px;
+            min-height: 100vh;
+        }
+        .main {
+            flex-grow: 1;
+            padding: 20px;
+        }
+        table { width: 100%; border-collapse: collapse; }
+        th, td { padding: 10px; border: 1px solid #ccc; text-align: left; }
+        .button {
+            padding: 6px 12px;
+            font-size: 13px;
+            border-radius: 4px;
+            text-decoration: none;
+            color: white;
+            display: inline-block;
+        }
+
+        .btn-hapus {
+            background-color: #e74c3c; /* merah */
+        }
+
+        .btn-edit {
+            background-color: #3498db; /* biru */
+        }
+
+        .btn-hapus:hover {
+            background-color: #c0392b;
+        }
+
+        .btn-edit:hover {
+            background-color: #2980b9;
+        }
+
+        .button-container {
+            display: flex;
+            gap: 8px;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="sidebar">
+        <h2>📂 Pencarian Berita</h2>
+        <a href="{{ url_for('lihat_kode') }}" class="button" style="background:#444;">🔍 Pencarian</a>
+    </div>
+    <div class="main">
+        <h1>📊 Data Penilaian Relevansi</h1>
+         <p><a href="{{ url_for('download_csv') }}" class="button" style="background:green;">⬇ Download CSV</a></p>
+        <table>
+            <tr>
+                <th>No</th>
+                <th>Query</th>
+                <th>Expanded Query</th>
+                <th>Model</th>
+                <th>Validator</th>
+                <th>Dok Relevan</th>
+                <th>Dok Tidak Relevan</th>
+                <th>Total Relevan</th>
+                <th>Total Tidak Relevan</th>
+                <th>Aksi</th>
+            </tr>
+            {% for item in data %}
+            <tr>
+                <td>{{ (page - 1) * per_page + loop.index }}</td>
+                <td>{{ item.query }}</td>
+                <td>{{ item.expanded_query }}</td>
+                <td>{{ item.model }}</td>
+                <td>{{ item.validator }}</td>
+                <td>{{ item.dokumen_relevan | join(', ') }}</td>
+                <td>{{ item.dokumen_tidak_relevan | join(', ') }}</td>
+                <td>{{ item.total_relevan }}</td>
+                <td>{{ item.total_tidak_relevan }}</td>
+                <td>
+                    <div class="button-container">
+                    <a href="{{ url_for('hapus_relevansi', index=((page-1)*per_page)+loop.index0) }}" class="button btn-hapus">Hapus</a>
+                    <a href="{{ url_for('edit_relevansi', index=((page-1)*25)+loop.index0) }}" class="button btn-edit">Edit</a>
+                    </div>
+                </td> 
+            </tr>
+            {% endfor %}
+        </table>
+         <!-- Navigasi halaman -->
+    <div style="margin-top: 20px;">
+        {% if page > 1 %}
+        <a href="{{ url_for('lihat_relevansi', page=page-1, query=query) }}">⬅ Prev</a>
+        {% endif %}
+
+        Halaman {{ page }} dari {{ total_pages }}
+
+        {% if page < total_pages %}
+        <a href="{{ url_for('lihat_relevansi', page=page+1, query=query) }}">Next ➡</a>
+        {% endif %}
+    </div>
+</div>
+    </div>
+</body>
+</html>
+
