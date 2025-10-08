@@ -1,3 +1,5 @@
+setuptools>=65.5.0
+wheel==0.43.0
 blinker==1.9.0
 click==8.1.8
 colorama==0.4.6
@@ -15,6 +17,7 @@ pandas==2.2.2
 #NLP & IR
 nltk==3.8.1
 gensim==4.3.2
-rank_bm25
+rank_bm25==0.2.2
 numpy==1.24.3
 scipy==1.10.1
+gunicorn==21.2.0
