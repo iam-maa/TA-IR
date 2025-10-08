@@ -1,0 +1,9897 @@
+[
+  {
+    "query": "perolehan suara",
+    "model": "Tanpa QE",
+    "validator": "denny",
+    "dokumen_relevan": [
+      "781",
+      "988",
+      "784",
+      "787",
+      "786",
+      "946",
+      "911"
+    ],
+    "dokumen_tidak_relevan": [
+      "748",
+      "563",
+      "729"
+    ],
+    "total_relevan": 7,
+    "total_tidak_relevan": 3
+  },
+  {
+    "query": "Perolehan suara",
+    "model": "model-skipgramstr(100-3-0.01)",
+    "validator": "denny",
+    "expanded_query": [
+      "perolehan",
+      "suara",
+      "rekapitulasi",
+      "tps",
+      "pilgub",
+      "suswono",
+      "183"
+    ],
+    "dokumen_relevan": [
+      "781",
+      "787",
+      "778",
+      "946",
+      "786",
+      "766",
+      "784",
+      "782",
+      "780"
+    ],
+    "dokumen_tidak_relevan": [
+      "783"
+    ],
+    "total_relevan": 9,
+    "total_tidak_relevan": 1
+  },
+  {
+    "query": "Perolehan suara",
+    "model": "model-skipgramstr(100-3-0.001)",
+    "validator": "denny",
+    "expanded_query": [
+      "perolehan",
+      "suara",
+      "data",
+      "keterangan",
+      "ya",
+      "surabaya",
+      "mobil"
+    ],
+    "dokumen_relevan": [
+      "781",
+      "988",
+      "786",
+      "766"
+    ],
+    "dokumen_tidak_relevan": [
+      "1018",
+      "1065",
+      "948",
+      "748",
+      "853",
+      "1016"
+    ],
+    "total_relevan": 4,
+    "total_tidak_relevan": 6
+  },
+  {
+    "query": "Perolehan suara",
+    "model": "model-skipgramstr(100-5-0.01)",
+    "validator": "denny",
+    "expanded_query": [
+      "perolehan",
+      "suara",
+      "kun",
+      "rekapitulasi",
+      "pilgub",
+      "pongrekun",
+      "pleno"
+    ],
+    "dokumen_relevan": [
+      "787",
+      "781",
+      "778",
+      "946",
+      "786",
+      "806",
+      "756",
+      "784",
+      "766",
+      "969"
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0
+  },
+  {
+    "query": "Perolehan suara",
+    "model": "model-skipgramstr(100-5-0.001)",
+    "validator": "denny",
+    "expanded_query": [
+      "perolehan",
+      "suara",
+      "perdagangan",
+      "surabaya",
+      "tingkat",
+      "wartawan",
+      "menetapkan"
+    ],
+    "dokumen_relevan": [
+      "781",
+      "766",
+      "787",
+      "988",
+      "784",
+      "756",
+      "778"
+    ],
+    "dokumen_tidak_relevan": [
+      "825",
+      "1061",
+      "748"
+    ],
+    "total_relevan": 7,
+    "total_tidak_relevan": 3
+  },
+  {
+    "query": "Perolehan suara",
+    "model": "model-skipgramstr(100-9-0.01)",
+    "validator": "denny",
+    "expanded_query": [
+      "perolehan",
+      "suara",
+      "kun",
+      "pongrekun",
+      "pleno",
+      "pilgub",
+      "rekapitulasi"
+    ],
+    "dokumen_relevan": [
+      "787",
+      "781",
+      "778",
+      "946",
+      "786",
+      "806",
+      "756",
+      "784",
+      "766",
+      "969"
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0
+  },
+  {
+    "query": "Perolehan suara",
+    "model": "model-skipgramstr(100-9-0.001)",
+    "validator": "denny",
+    "expanded_query": [
+      "perolehan",
+      "suara",
+      "urut",
+      "pilgub",
+      "sah",
+      "dihubungi",
+      "petang"
+    ],
+    "dokumen_relevan": [
+      "781",
+      "784",
+      "787",
+      "756",
+      "813",
+      "946",
+      "959",
+      "766",
+      "786",
+      "778"
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0
+  },
+  {
+    "query": "Perolehan suara",
+    "model": "model-skipgramstr(300-3-0.01)",
+    "validator": "denny",
+    "expanded_query": [
+      "perolehan",
+      "suara",
+      "rekapitulasi",
+      "pilgub",
+      "tps",
+      "183",
+      "suswono"
+    ],
+    "dokumen_relevan": [
+      "781",
+      "787",
+      "778",
+      "946",
+      "786",
+      "766",
+      "784",
+      "782",
+      "780"
+    ],
+    "dokumen_tidak_relevan": [
+      "783"
+    ],
+    "total_relevan": 9,
+    "total_tidak_relevan": 1
+  },
+  {
+    "query": "Perolehan suara",
+    "model": "model-skipgramstr(300-3-0.001)",
+    "validator": "denny",
+    "expanded_query": [
+      "perolehan",
+      "suara",
+      "kondisi",
+      "surat",
+      "proses",
+      "rapat",
+      "polisi"
+    ],
+    "dokumen_relevan": [
+      "781",
+      "946",
+      "784",
+      "806",
+      "787",
+      "756",
+      "780"
+    ],
+    "dokumen_tidak_relevan": [
+      "1183",
+      "1495",
+      "954"
+    ],
+    "total_relevan": 7,
+    "total_tidak_relevan": 3
+  },
+  {
+    "query": "Perolehan suara",
+    "model": "model-skipgramstr(300-5-0.01)",
+    "validator": "denny",
+    "expanded_query": [
+      "perolehan",
+      "suara",
+      "rekapitulasi",
+      "kun",
+      "pongrekun",
+      "pilgub",
+      "pemungutan"
+    ],
+    "dokumen_relevan": [
+      "787",
+      "778",
+      "781",
+      "786",
+      "756",
+      "784",
+      "946",
+      "766",
+      "959",
+      "969"
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0
+  },
+  {
+    "query": "Perolehan suara",
+    "model": "model-skipgramstr(300-5-0.001)",
+    "validator": "denny",
+    "expanded_query": [
+      "perolehan",
+      "suara",
+      "gedung",
+      "menetapkan",
+      "polri",
+      "pengadilan",
+      "sekretaris"
+    ],
+    "dokumen_relevan": [
+      "781",
+      "978",
+      "988",
+      "787",
+      "940"
+    ],
+    "dokumen_tidak_relevan": [
+      "825",
+      "840",
+      "828",
+      "820",
+      "1098"
+    ],
+    "total_relevan": 5,
+    "total_tidak_relevan": 5
+  },
+  {
+    "query": "Perolehan suara",
+    "model": "model-skipgramstr(300-9-0.01)",
+    "validator": "denny",
+    "expanded_query": [
+      "perolehan",
+      "suara",
+      "kun",
+      "pongrekun",
+      "cagub",
+      "airin",
+      "rekapitulasi"
+    ],
+    "dokumen_relevan": [
+      "787",
+      "946",
+      "781",
+      "778",
+      "786",
+      "756",
+      "969",
+      "784",
+      "766",
+      "752"
+    ],
+    "dokumen_tidak_relevan": [
+
+    ],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0
+  },
+  {
+    "query": "Perolehan suara",
+    "model": "model-skipgramstr(300-9-0.001)",
+    "validator": "denny",
+    "expanded_query": [
+      "perolehan",
+      "suara",
+      "pilgub",
+      "sah",
+      "dihubungi",
+      "rano",
+      "kantornya"
+    ],
+    "dokumen_relevan": [
+      "787",
+      "781",
+      "778",
+      "786",
+      "756",
+      "784",
+      "813",
+      "946",
+      "782",
+      "959"
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0
+  },
+  {
+    "query": "Perolehan suara",
+    "model": "model-skipgram-nostr(100-3-0.01)",
+    "validator": "denny",
+    "expanded_query": [
+      "perolehan",
+      "suara",
+      "rekapitulasi",
+      "204",
+      "pemungutan",
+      "kokpit",
+      "pilgub"
+    ],
+    "dokumen_relevan": [
+      "781",
+      "784",
+      "946",
+      "787",
+      "786",
+      "766",
+      "778",
+      "959",
+      "806",
+      "813"
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0
+  },
+  {
+    "query": "Perolehan suara",
+    "model": "model-skipgram-nostr(100-3-0.001)",
+    "validator": "denny",
+    "expanded_query": [
+      "perolehan",
+      "suara",
+      "imbas",
+      "makassar",
+      "buka",
+      "akui",
+      "berupa"
+    ],
+    "dokumen_relevan": [
+      "781",
+      "988",
+      "946",
+      "806",
+      "959",
+      "784",
+      "787"
+    ],
+    "dokumen_tidak_relevan": [
+      "827",
+      "748",
+      "510"
+    ],
+    "total_relevan": 7,
+    "total_tidak_relevan": 3
+  },
+  {
+    "query": "Perolehan suara",
+    "model": "model-skipgram-nostr(100-5-0.01)",
+    "validator": "denny",
+    "expanded_query": [
+      "perolehan",
+      "suara",
+      "rekapitulasi",
+      "pilgub",
+      "204",
+      "pemungutan",
+      "pleno"
+    ],
+    "dokumen_relevan": [
+      "781",
+      "946",
+      "787",
+      "784",
+      "806",
+      "786",
+      "766",
+      "778",
+      "959",
+      "813"
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0
+  },
+  {
+    "query": "Perolehan suara",
+    "model": "model-skipgram-nostr(100-5-0.001)",
+    "validator": "denny",
+    "expanded_query": [
+      "perolehan",
+      "suara",
+      "makassar",
+      "seluas",
+      "merak",
+      "tanjung",
+      "pemprov"
+    ],
+    "dokumen_relevan": [
+      "781",
+      "784",
+      "988"
+    ],
+    "dokumen_tidak_relevan": [
+      "1084",
+      "827",
+      "748",
+      "399",
+      "928",
+      "1022",
+      "878"
+    ],
+    "total_relevan": 3,
+    "total_tidak_relevan": 7
+  },
+  {
+    "query": "Perolehan suara",
+    "model": "model-skipgram-nostr(100-9-0.01)",
+    "validator": "denny",
+    "expanded_query": [
+      "perolehan",
+      "suara",
+      "pilgub",
+      "rekapitulasi",
+      "rido",
+      "kun",
+      "pleno"
+    ],
+    "dokumen_relevan": [
+      "787",
+      "786",
+      "781",
+      "946",
+      "778",
+      "784",
+      "806",
+      "756",
+      "766",
+      "780"
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0
+  },
+  {
+    "query": "Perolehan suara",
+    "model": "model-skipgramstr-nostr(100-9-0.001)",
+    "validator": "denny",
+    "expanded_query": [
+      "perolehan",
+      "suara",
+      "rekapitulasi",
+      "akbp",
+      "pilgub",
+      "pn",
+      "kombes"
+    ],
+    "dokumen_relevan": [
+      "781",
+      "784",
+      "946",
+      "787",
+      "786",
+      "766",
+      "778",
+      "806",
+      "813",
+      "752"
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0
+  },
+  {
+    "query": "Perolehan suara",
+    "model": "model-skipgram-nostr(300-3-0.01)",
+    "validator": "denny",
+    "expanded_query": [
+      "perolehan",
+      "suara",
+      "rekapitulasi",
+      "pilgub",
+      "pemungutan",
+      "204",
+      "kokpit"
+    ],
+    "dokumen_relevan": [
+      "781",
+      "784",
+      "946",
+      "787",
+      "786",
+      "766",
+      "778",
+      "959",
+      "806",
+      "813"
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0
+  },
+  {
+    "query": "Perolehan suara",
+    "model": "model-skipgram-nostr(300-3-0.001)",
+    "validator": "denny",
+    "expanded_query": [
+      "perolehan",
+      "suara",
+      "buka",
+      "doni",
+      "airlangga",
+      "puluhan",
+      "makassar"
+    ],
+    "dokumen_relevan": [
+      "781",
+      "784"
+    ],
+    "dokumen_tidak_relevan": [
+      "244",
+      "365",
+      "246",
+      "748",
+      "239",
+      "273",
+      "1407",
+      "286"
+    ],
+    "total_relevan": 2,
+    "total_tidak_relevan": 8
+  },
+  {
+    "query": "Perolehan suara",
+    "model": "model-skipgramstr-nostr(300-5-0.01)",
+    "validator": "denny",
+    "expanded_query": [
+      "perolehan",
+      "suara",
+      "rekapitulasi",
+      "pilgub",
+      "204",
+      "pemungutan",
+      "192"
+    ],
+    "dokumen_relevan": [
+      "781",
+      "946",
+      "787",
+      "784",
+      "806",
+      "786",
+      "766",
+      "778",
+      "959",
+      "813"
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0
+  },
+  {
+    "query": "Perolehan suara",
+    "model": "model-skipgram-nostr(300-5-0.001)",
+    "validator": "denny",
+    "expanded_query": [
+      "perolehan",
+      "suara",
+      "makassar",
+      "seluas",
+      "tanjung",
+      "merak",
+      "buka"
+    ],
+    "dokumen_relevan": [
+      "781",
+      "784",
+      "988"
+    ],
+    "dokumen_tidak_relevan": [
+      "928",
+      "1084",
+      "748",
+      "399",
+      "1457",
+      "878",
+      "73"
+    ],
+    "total_relevan": 3,
+    "total_tidak_relevan": 7
+  },
+  {
+    "query": "Perolehan suara",
+    "model": "model-skipgram-nostr(300-9-0.01)",
+    "validator": "denny",
+    "expanded_query": [
+      "perolehan",
+      "suara",
+      "rekapitulasi",
+      "pilgub",
+      "kun",
+      "pleno",
+      "rido"
+    ],
+    "dokumen_relevan": [
+      "787",
+      "786",
+      "781",
+      "946",
+      "778",
+      "784",
+      "806",
+      "756",
+      "766",
+      "780"
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0
+  },
+  {
+    "query": "Perolehan suara",
+    "model": "model-skipgram-nostr(300-9-0.001)",
+    "validator": "denny",
+    "expanded_query": [
+      "perolehan",
+      "suara",
+      "kombes",
+      "akbp",
+      "pn",
+      "rekapitulasi",
+      "pilgub"
+    ],
+    "dokumen_relevan": [
+      "781",
+      "784",
+      "946",
+      "787",
+      "786",
+      "766",
+      "778",
+      "806",
+      "813",
+      "752"
+    ],
+    "dokumen_tidak_relevan": [
+    
+    ],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0
+  },
+  {
+    "query": "koruptor",
+    "model": "model-skipgramstr(100-3-0.01)",
+    "validator": "denny",
+    "dokumen_relevan": [
+      "874",
+      "841",
+      "835",
+      "847",
+      "840",
+      "1116"
+    ],
+    "dokumen_tidak_relevan": [
+      "1314",
+      "919",
+      "1377",
+      "903"
+    ],
+    "total_relevan": 6,
+    "total_tidak_relevan": 4,
+    "expanded_query": [
+      "koruptor",
+      "memaafkan",
+      "maafkan",
+      "kembalikan",
+      "threshold",
+      "masukan"
+    ]
+  },
+  {
+    "query": "koruptor",
+    "model": "model-skipgramstr(100-3-0.001)",
+    "validator": "denny",
+    "dokumen_relevan": [
+      "841",
+      "1116",
+      "847",
+      "835"
+    ],
+    "dokumen_tidak_relevan": [
+      "135",
+      "1199",
+      "12",
+      "168",
+      "128",
+      "1257"
+    ],
+    "total_relevan": 4,
+    "total_tidak_relevan": 6,
+    "expanded_query": [
+      "koruptor",
+      "akses",
+      "rusia",
+      "bos",
+      "kpu",
+      "pertamina"
+    ]
+  },
+  {
+    "query": "koruptor",
+    "model": "model-skipgramstr(100-5-0.01)",
+    "validator": "denny",
+    "dokumen_relevan": [
+      "874",
+      "835",
+      "841",
+      "847",
+      "840",
+      "1116",
+      "1006"
+    ],
+    "dokumen_tidak_relevan": [
+      "1377",
+      "869",
+      "1434"
+    ],
+    "total_relevan": 7,
+    "total_tidak_relevan": 3,
+    "expanded_query": [
+      "koruptor",
+      "memaafkan",
+      "maafkan",
+      "amnesti",
+      "mengembalikan",
+      "kembalikan"
+    ]
+  },
+  {
+    "query": "koruptor",
+    "model": "model-skipgramstr(100-5-0.001)",
+    "validator": "denny",
+    "dokumen_relevan": [
+      "1006",
+      "841",
+      "976",
+      "1116"
+    ],
+    "dokumen_tidak_relevan": [
+      "867",
+      "183",
+      "822",
+      "122",
+      "816",
+      "24"
+    ],
+    "total_relevan": 4,
+    "total_tidak_relevan": 6,
+    "expanded_query": [
+      "koruptor",
+      "sambungnya",
+      "ma",
+      "ulang",
+      "teman",
+      "bos"
+    ]
+  },
+  {
+    "query": "koruptor",
+    "model": "model-skipgramstr(100-9-0.01)",
+    "validator": "denny",
+    "dokumen_relevan": [
+      "874",
+      "835",
+      "841",
+      "847",
+      "1116",
+      "840",
+      "1118",
+      "1006"
+    ],
+    "dokumen_tidak_relevan": [
+      "1377",
+      "869"
+    ],
+    "total_relevan": 8,
+    "total_tidak_relevan": 2,
+    "expanded_query": [
+      "koruptor",
+      "memaafkan",
+      "maafkan",
+      "amnesti",
+      "laode",
+      "kembalikan"
+    ]
+  },
+  {
+    "query": "koruptor",
+    "model": "model-skipgramstr(100-9-0.001)",
+    "validator": "denny",
+    "dokumen_relevan": [
+      "847",
+      "841"
+    ],
+    "dokumen_tidak_relevan": [
+      "1052",
+      "61",
+      "1023",
+      "1021",
+      "167",
+      "1302",
+      "6",
+      "331"
+    ],
+    "total_relevan": 2,
+    "total_tidak_relevan": 8,
+    "expanded_query": [
+      "koruptor",
+      "legislatif",
+      "anwar",
+      "biro",
+      "basuki",
+      "menyinggung"
+    ]
+  },
+  {
+    "query": "koruptor",
+    "model": "model-skipgramstr(300-3-0.01)",
+    "validator": "denny",
+    "dokumen_relevan": [
+      "874",
+      "841",
+      "835",
+      "847",
+      "840",
+      "796",
+      "1116"
+    ],
+    "dokumen_tidak_relevan": [
+      "919",
+      "1314",
+      "1377"
+    ],
+    "total_relevan": 7,
+    "total_tidak_relevan": 3,
+    "expanded_query": [
+      "koruptor",
+      "maafkan",
+      "memaafkan",
+      "kembalikan",
+      "threshold",
+      "nasir"
+    ]
+  },
+  {
+    "query": "koruptor",
+    "model": "model-skipgramstr(300-3-0.001)",
+    "validator": "denny",
+    "dokumen_relevan": [
+      "874",
+      "841",
+      "847",
+      "835",
+      "1116"
+    ],
+    "dokumen_tidak_relevan": [
+      "1199",
+      "57",
+      "1363",
+      "27",
+      "1484"
+    ],
+    "total_relevan": 5,
+    "total_tidak_relevan": 5,
+    "expanded_query": [
+      "koruptor",
+      "kendaraan",
+      "salah",
+      "menerima",
+      "rakyat",
+      "internasional"
+    ]
+  },
+  {
+    "query": "koruptor",
+    "model": "model-skipgramstr(300-5-0.01)",
+    "validator": "denny",
+    "dokumen_relevan": [
+      "874",
+      "841",
+      "835",
+      "847",
+      "840",
+      "1116",
+      "1006"
+    ],
+    "dokumen_tidak_relevan": [
+      "919",
+      "1377",
+      "903"
+    ],
+    "total_relevan": 7,
+    "total_tidak_relevan": 3,
+    "expanded_query": [
+      "koruptor",
+      "maafkan",
+      "memaafkan",
+      "kembalikan",
+      "threshold",
+      "mengembalikan"
+    ]
+  },
+  {
+    "query": "koruptor",
+    "model": "model-skipgramstr(300-5-0.001)",
+    "validator": "denny",
+    "dokumen_relevan": [
+      "874",
+      "847",
+      "1098",
+      "841",
+      "1100"
+    ],
+    "dokumen_tidak_relevan": [
+      "1199",
+      "102",
+      "228",
+      "913",
+      "919"
+    ],
+    "total_relevan": 5,
+    "total_tidak_relevan": 5,
+    "expanded_query": [
+      "koruptor",
+      "pekerjaan",
+      "putusan",
+      "layanan",
+      "menyinggung",
+      "elektronik"
+    ]
+  },
+  {
+    "query": "koruptor",
+    "model": "model-skipgramstr(300-9-0.01)",
+    "validator": "denny",
+    "dokumen_relevan": [
+      "874",
+      "835",
+      "841",
+      "847",
+      "1116",
+      "840",
+      "1118",
+      "1006"
+    ],
+    "dokumen_tidak_relevan": [
+      "1377",
+      "869"
+    ],
+    "total_relevan": 8,
+    "total_tidak_relevan": 2,
+    "expanded_query": [
+      "koruptor",
+      "maafkan",
+      "memaafkan",
+      "amnesti",
+      "laode",
+      "kembalikan"
+    ]
+  },
+  {
+    "query": "koruptor",
+    "model": "model-skipgramstr(300-9-0.001)",
+    "validator": "denny",
+    "dokumen_relevan": [
+      "874",
+      "847",
+      "841",
+      "1116",
+      "835"
+    ],
+    "dokumen_tidak_relevan": [
+      "341",
+      "61",
+      "312",
+      "1052",
+      "1021"
+    ],
+    "total_relevan": 5,
+    "total_tidak_relevan": 5,
+    "expanded_query": [
+      "koruptor",
+      "anwar",
+      "menyinggung",
+      "mengurangi",
+      "2028",
+      "l"
+    ]
+  },
+  {
+    "query": "koruptor",
+    "model": "model-skipgram-nostr(100-3-0.01)",
+    "validator": "denny",
+    "dokumen_relevan": [
+      "874",
+      "841",
+      "835",
+      "847",
+      "840",
+      "1116"
+    ],
+    "dokumen_tidak_relevan": [
+      "1163",
+      "123",
+      "1377",
+      "864"
+    ],
+    "total_relevan": 6,
+    "total_tidak_relevan": 4,
+    "expanded_query": [
+      "koruptor",
+      "memaafkan",
+      "maafkan",
+      "suaka",
+      "masukan",
+      "mandat"
+    ]
+  },
+  {
+    "query": "koruptor",
+    "model": "model-skipgram-nostr(100-3-0.001)",
+    "validator": "denny",
+    "dokumen_relevan": [
+      "841",
+      "847",
+      "1006",
+      "1116",
+      "1048",
+      "835"
+    ],
+    "dokumen_tidak_relevan": [
+      "11",
+      "911",
+      "181",
+      "1033"
+    ],
+    "total_relevan": 6,
+    "total_tidak_relevan": 4,
+    "expanded_query": [
+      "koruptor",
+      "ekspor",
+      "turut",
+      "layanan",
+      "bahlil",
+      "gabungan"
+    ]
+  },
+  {
+    "query": "koruptor",
+    "model": "model-skipgram-nostr(100-5-0.01)",
+    "validator": "denny",
+    "dokumen_relevan": [
+      "874",
+      "841",
+      "835",
+      "847",
+      "1006",
+      "840",
+      "1005",
+      "1116"
+    ],
+    "dokumen_tidak_relevan": [
+      "919",
+      "1377"
+    ],
+    "total_relevan": 8,
+    "total_tidak_relevan": 2,
+    "expanded_query": [
+      "koruptor",
+      "memaafkan",
+      "maafkan",
+      "hero",
+      "berdasar",
+      "presidential"
+    ]
+  },
+  {
+    "query": "koruptor",
+    "model": "model-skipgram-nostr(100-5-0.001)",
+    "validator": "denny",
+    "dokumen_relevan": [
+      "841",
+      "1116"
+    ],
+    "dokumen_tidak_relevan": [
+      "803",
+      "911",
+      "91",
+      "220",
+      "187",
+      "1456",
+      "80",
+      "1176"
+    ],
+    "total_relevan": 2,
+    "total_tidak_relevan": 8,
+    "expanded_query": [
+      "koruptor",
+      "bahlil",
+      "kritik",
+      "imbuh",
+      "tambahnya",
+      "usulan"
+    ]
+  },
+  {
+    "query": "koruptor",
+    "model": "model-skipgram-nostr(100-9-0.01)",
+    "validator": "denny",
+    "dokumen_relevan": [
+      "874",
+      "835",
+      "841",
+      "847",
+      "840",
+      "796",
+      "1116",
+      "1006"
+    ],
+    "dokumen_tidak_relevan": [
+      "1377",
+      "1434"
+    ],
+    "total_relevan": 8,
+    "total_tidak_relevan": 2,
+    "expanded_query": [
+      "koruptor",
+      "memaafkan",
+      "maafkan",
+      "nasir",
+      "amnesti",
+      "penghukuman"
+    ]
+  },
+  {
+    "query": "koruptor",
+    "model": "model-skipgram-nostr(100-9-0.001)",
+    "validator": "denny",
+    "dokumen_relevan": [
+      "978",
+      "841",
+      "949"
+    ],
+    "dokumen_tidak_relevan": [
+      "184",
+      "187",
+      "124",
+      "87",
+      "183",
+      "161",
+      "1226"
+    ],
+    "total_relevan": 3,
+    "total_tidak_relevan": 7,
+    "expanded_query": [
+      "koruptor",
+      "undangan",
+      "ronny",
+      "online",
+      "sambung",
+      "sritex"
+    ]
+  },
+  {
+    "query": "koruptor",
+    "model": "model-skipgram-nostr(300-3-0.01)",
+    "validator": "denny",
+    "dokumen_relevan": [
+      "874",
+      "841",
+      "835",
+      "847",
+      "840",
+      "1116"
+    ],
+    "dokumen_tidak_relevan": [
+      "1163",
+      "123",
+      "1377",
+      "864"
+    ],
+    "total_relevan": 6,
+    "total_tidak_relevan": 4,
+    "expanded_query": [
+      "koruptor",
+      "memaafkan",
+      "maafkan",
+      "masukan",
+      "mandat",
+      "suaka"
+    ]
+  },
+  {
+    "query": "koruptor",
+    "model": "model-skipgram-nostr(300-3-0.001)",
+    "validator": "denny",
+    "dokumen_relevan": [
+      "841",
+      "1116",
+      "840",
+      "789",
+      "788",
+      "847"
+    ],
+    "dokumen_tidak_relevan": [
+      "867",
+      "891",
+      "47",
+      "326"
+    ],
+    "total_relevan": 6,
+    "total_tidak_relevan": 4,
+    "expanded_query": [
+      "koruptor",
+      "jaksa",
+      "organisasi",
+      "pelayanan",
+      "rangka",
+      "investasi"
+    ]
+  },
+  {
+    "query": "koruptor",
+    "model": "model-skipgram-nostr(300-5-0.01)",
+    "validator": "denny",
+    "dokumen_relevan": [
+      "874",
+      "835",
+      "841",
+      "847",
+      "840",
+      "1116"
+    ],
+    "dokumen_tidak_relevan": [
+      "772",
+      "767",
+      "1377",
+      "864"
+    ],
+    "total_relevan": 6,
+    "total_tidak_relevan": 4,
+    "expanded_query": [
+      "koruptor",
+      "memaafkan",
+      "maafkan",
+      "hina",
+      "masukan",
+      "ucapan"
+    ]
+  },
+  {
+    "query": "koruptor",
+    "model": "model-skipgram-nostr(300-5-0.001)",
+    "validator": "denny",
+    "dokumen_relevan": [
+      "841",
+      "847"
+    ],
+    "dokumen_tidak_relevan": [
+      "81",
+      "8",
+      "802",
+      "801",
+      "147",
+      "1464",
+      "187",
+      "1136"
+    ],
+    "total_relevan": 2,
+    "total_tidak_relevan": 8,
+    "expanded_query": [
+      "koruptor",
+      "bahlil",
+      "oposisi",
+      "menko",
+      "zulhas",
+      "tambahnya"
+    ]
+  },
+  {
+    "query": "koruptor",
+    "model": "model-skipgram-nostr(300-9-0.01)",
+    "validator": "denny",
+    "dokumen_relevan": [
+      "874",
+      "841",
+      "835",
+      "847",
+      "840",
+      "796",
+      "1116",
+      "1006"
+    ],
+    "dokumen_tidak_relevan": [
+      "1377",
+      "1434"
+    ],
+    "total_relevan": 8,
+    "total_tidak_relevan": 2,
+    "expanded_query": [
+      "koruptor",
+      "memaafkan",
+      "maafkan",
+      "nasir",
+      "amnesti",
+      "mengembalikan"
+    ]
+  },
+  {
+    "query": "koruptor",
+    "model": "model-skipgram-nostr(300-9-0.001)",
+    "validator": "denny",
+    "dokumen_relevan": [
+      "841",
+      "949",
+      "854",
+      "796"
+    ],
+    "dokumen_tidak_relevan": [
+      "245",
+      "1226",
+      "243",
+      "806",
+      "220",
+      "752"
+    ],
+    "total_relevan": 4,
+    "total_tidak_relevan": 6,
+    "expanded_query": [
+      "koruptor",
+      "luhut",
+      "sekjen",
+      "nasir",
+      "online",
+      "ronny"
+    ]
+  },
+  {
+    "query": "koruptor",
+    "model": "Tanpa QE",
+    "validator": "denny",
+    "dokumen_relevan": [
+      841,
+      1116,
+      847,
+      835,
+      1006,
+      869,
+      840,
+      874
+    ],
+    "dokumen_tidak_relevan": [
+      867,
+      1199
+    ],
+    "total_relevan": 8,
+    "total_tidak_relevan": 2
+  },
+   {
+    "query": "migran",
+    "model": "model-skipgram(100-3-0.01)",
+    "validator": "risti",
+    "dokumen_relevan": [
+      41,
+      1093,
+      1490,
+      84,
+      1106,
+      1459,
+      1205,
+      307,
+      850,
+      1488
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0,
+    "expanded_query": [
+      "migran",
+      "pelindungan",
+      "pmi",
+      "christina",
+      "p2mi",
+      "bp3mi"
+    ]
+  },
+  {
+    "query": "migran",
+    "model": "model-skipgram(100-3-0.001)",
+    "validator": "risti",
+    "dokumen_relevan": [
+      1093,
+      1490,
+      1205,
+      1106,
+      1488,
+      84
+    ],
+    "dokumen_tidak_relevan": [
+      218,
+      166,
+      1039,
+      144
+    ],
+    "total_relevan": 6,
+    "total_tidak_relevan": 4,
+    "expanded_query": [
+      "migran",
+      "menjaga",
+      "bahan",
+      "petugas",
+      "pangan",
+      "bergabung"
+    ]
+  },
+  {
+    "query": "migran",
+    "model": "model-skipgram(100-5-0.01)",
+    "validator": "risti",
+    "dokumen_relevan": [
+      1490,
+      41,
+      1093,
+      1106,
+      1459,
+      84,
+      1205,
+      1488
+    ],
+    "dokumen_tidak_relevan": [
+      1033,
+      970
+    ],
+    "total_relevan": 8,
+    "total_tidak_relevan": 2,
+    "expanded_query": [
+      "migran",
+      "pelindungan",
+      "p2mi",
+      "bp3mi",
+      "christina",
+      "karding"
+    ]
+  },
+  {
+    "query": "migran",
+    "model": "model-skipgram(100-5-0.001)",
+    "validator": "risti",
+    "dokumen_relevan": [
+      84,
+      1093,
+      307,
+      850,
+      1459,
+      41,
+      1106,
+      1205
+    ],
+    "dokumen_tidak_relevan": [
+      913,
+      203
+    ],
+    "total_relevan": 8,
+    "total_tidak_relevan": 2,
+    "expanded_query": [
+      "migran",
+      "positif",
+      "fokus",
+      "menjaga",
+      "komentar",
+      "pmi"
+    ]
+  },
+  {
+    "query": "migran",
+    "model": "model-skipgram(100-9-0.01)",
+    "validator": "risti",
+    "dokumen_relevan": [
+      1490,
+      41,
+      1093,
+      1106,
+      1459,
+      84,
+      1205,
+      1488
+    ],
+    "dokumen_tidak_relevan": [
+      1033,
+      970
+    ],
+    "total_relevan": 8,
+    "total_tidak_relevan": 2,
+    "expanded_query": [
+      "migran",
+      "p2mi",
+      "pelindungan",
+      "karding",
+      "bp3mi",
+      "christina"
+    ]
+  },
+  {
+    "query": "migran",
+    "model": "model-skipgram(100-9-0.001)",
+    "validator": "risti",
+    "dokumen_relevan": [
+      84,
+      307,
+      1093,
+      850,
+      1459,
+      41,
+      1106
+    ],
+    "dokumen_tidak_relevan": [
+      326,
+      793,
+      550
+    ],
+    "total_relevan": 7,
+    "total_tidak_relevan": 3,
+    "expanded_query": [
+      "migran",
+      "pmi",
+      "santoso",
+      "universitas",
+      "pengaturan",
+      "optimal"
+    ]
+  },
+  {
+    "query": "migran",
+    "model": "model-skipgram(300-3-0.01)",
+    "validator": "risti",
+    "dokumen_relevan": [
+      41,
+      84,
+      1093,
+      1490,
+      1459,
+      1106,
+      1205,
+      850,
+      307
+    ],
+    "dokumen_tidak_relevan": [
+      1033
+    ],
+    "total_relevan": 9,
+    "total_tidak_relevan": 1,
+    "expanded_query": [
+      "migran",
+      "pmi",
+      "pelindungan",
+      "christina",
+      "perlindungan",
+      "pekerja"
+    ]
+  },
+  {
+    "query": "migran",
+    "model": "model-skipgram(300-3-0.001)",
+    "validator": "risti",
+    "dokumen_relevan": [
+      41,
+      84
+    ],
+    "dokumen_tidak_relevan": [
+      485,
+      77,
+      73,
+      476,
+      432,
+      122,
+      1095,
+      1313
+    ],
+    "total_relevan": 2,
+    "total_tidak_relevan": 8,
+    "expanded_query": [
+      "migran",
+      "cepat",
+      "penuh",
+      "tulis",
+      "kesempatan",
+      "sektor"
+    ]
+  },
+  {
+    "query": "migran",
+    "model": "model-skipgram(300-5-0.01)",
+    "validator": "risti",
+    "dokumen_relevan": [
+      41,
+      1093,
+      1490,
+      84,
+      1106,
+      1459,
+      1205,
+      307,
+      850,
+      1488
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0,
+    "expanded_query": [
+      "migran",
+      "pelindungan",
+      "p2mi",
+      "bp3mi",
+      "christina",
+      "pmi"
+    ]
+  },
+  {
+    "query": "migran",
+    "model": "model-skipgram(300-5-0.001)",
+    "validator": "risti",
+    "dokumen_relevan": [
+      41,
+      1459,
+      1205,
+      84,
+      1488
+    ],
+    "dokumen_tidak_relevan": [
+      1097,
+      1095,
+      893,
+      1434,
+      913
+    ],
+    "total_relevan": 5,
+    "total_tidak_relevan": 5,
+    "expanded_query": [
+      "migran",
+      "positif",
+      "menjaga",
+      "cepat",
+      "dianggap",
+      "usia"
+    ]
+  },
+  {
+    "query": "migran",
+    "model": "model-skipgram(300-9-0.01)",
+    "validator": "risti",
+    "dokumen_relevan": [
+      1490,
+      41,
+      1093,
+      1106,
+      1459,
+      84,
+      1205,
+      1488
+    ],
+    "dokumen_tidak_relevan": [
+      1033,
+      970
+    ],
+    "total_relevan": 8,
+    "total_tidak_relevan": 2,
+    "expanded_query": [
+      "migran",
+      "p2mi",
+      "pelindungan",
+      "bp3mi",
+      "karding",
+      "christina"
+    ]
+  },
+  {
+    "query": "migran",
+    "model": "model-skipgram(300-9-0.001)",
+    "validator": "risti",
+    "dokumen_relevan": [
+      84,
+      307,
+      1093,
+      850,
+      1459,
+      41,
+      1106
+    ],
+    "dokumen_tidak_relevan": [
+      180,
+      1117,
+      1462
+    ],
+    "total_relevan": 7,
+    "total_tidak_relevan": 3,
+    "expanded_query": [
+      "migran",
+      "universitas",
+      "pmi",
+      "perilaku",
+      "diajukan",
+      "beragam"
+    ]
+  },
+  {
+    "query": "migran",
+    "model": "model-skipgram-nostr(100-3-0.01)",
+    "validator": "risti",
+    "dokumen_relevan": [
+      "1093",
+      "84",
+      "41",
+      "1490",
+      "1106",
+      "1459",
+      "1205",
+      "307",
+      "850",
+      "1488"
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0,
+    "expanded_query": [
+      "migran",
+      "pelindungan",
+      "bp3mi",
+      "pmi",
+      "p2mi",
+      "mikro"
+    ]
+  },
+  {
+    "query": "migran",
+    "model": "model-skipgram-nostr(100-3-0.001)",
+    "validator": "risti",
+    "dokumen_relevan": [
+      "41"
+    ],
+    "dokumen_tidak_relevan": [
+      "416",
+      "589",
+      "646",
+      "643",
+      "464",
+      "414",
+      "430",
+      "659",
+      "505"
+    ],
+    "total_relevan": 1,
+    "total_tidak_relevan": 9,
+    "expanded_query": [
+      "migran",
+      "bank",
+      "mantan",
+      "menguasai",
+      "atlet",
+      "ganda"
+    ]
+  },
+  {
+    "query": "migran",
+    "model": "model-skipgram-nostr(100-5-0.01)",
+    "validator": "risti",
+    "dokumen_relevan": [
+      "1106",
+      "1093",
+      "1459",
+      "1490",
+      "41",
+      "84",
+      "1205",
+      "1488",
+      "1241"
+    ],
+    "dokumen_tidak_relevan": [
+      "1033"
+    ],
+    "total_relevan": 9,
+    "total_tidak_relevan": 1,
+    "expanded_query": [
+      "migran",
+      "pelindungan",
+      "p2mi",
+      "bp3mi",
+      "karding",
+      "kadir"
+    ]
+  },
+  {
+    "query": "migran",
+    "model": "model-skipgram-nostr(100-5-0.001)",
+    "validator": "risti",
+    "dokumen_relevan": [
+      "1093",
+      "307",
+      "41",
+      "84"
+    ],
+    "dokumen_tidak_relevan": [
+      "193",
+      "351",
+      "546",
+      "409",
+      "532",
+      "531"
+    ],
+    "total_relevan": 4,
+    "total_tidak_relevan": 6,
+    "expanded_query": [
+      "migran",
+      "bank",
+      "ketat",
+      "golden",
+      "penyelamatan",
+      "beber"
+    ]
+  },
+  {
+    "query": "migran",
+    "model": "model-skipgram-nostr(100-9-0.01)",
+    "validator": "risti",
+    "dokumen_relevan": [
+      "1106",
+      "1093",
+      "1459",
+      "1490",
+      "41",
+      "84",
+      "1205",
+      "1488",
+      "1241"
+    ],
+    "dokumen_tidak_relevan": [
+      "1033"
+    ],
+    "total_relevan": 9,
+    "total_tidak_relevan": 1,
+    "expanded_query": [
+      "migran",
+      "karding",
+      "pelindungan",
+      "p2mi",
+      "bp3mi",
+      "kadir"
+    ]
+  },
+  {
+    "query": "migran",
+    "model": "model-skipgram-nostr(100-9-0.001)",
+    "validator": "risti",
+    "dokumen_relevan": [
+      "1093",
+      "41"
+    ],
+    "dokumen_tidak_relevan": [
+      "1061",
+      "1045",
+      "985",
+      "839",
+      "372",
+      "1069",
+      "987",
+      "10"
+    ],
+    "total_relevan": 2,
+    "total_tidak_relevan": 8,
+    "expanded_query": [
+      "migran",
+      "setyo",
+      "komisaris",
+      "singkong",
+      "memfasilitasi",
+      "tom"
+    ]
+  },
+  {
+    "query": "migran",
+    "model": "model-skipgram-nostr(300-3-0.01)",
+    "validator": "risti",
+    "dokumen_relevan": [
+      "1093",
+      "84",
+      "41",
+      "1490",
+      "1106",
+      "1459",
+      "1205",
+      "307",
+      "850",
+      "1488"
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0,
+    "expanded_query": [
+      "migran",
+      "pelindungan",
+      "bp3mi",
+      "pmi",
+      "p2mi",
+      "tangkis"
+    ]
+  },
+  {
+    "query": "migran",
+    "model": "model-skipgram-nostr(300-3-0.001)",
+    "validator": "risti",
+    "dokumen_relevan": [],
+    "dokumen_tidak_relevan": [
+      "416",
+      "636",
+      "659",
+      "414",
+      "675",
+      "683",
+      "589",
+      "632",
+      "680",
+      "642"
+    ],
+    "total_relevan": 0,
+    "total_tidak_relevan": 10,
+    "expanded_query": [
+      "migran",
+      "putra",
+      "ronaldo",
+      "kim",
+      "pensiun",
+      "tulis"
+    ]
+  },
+  {
+    "query": "migran",
+    "model": "model-skipgram-nostr(300-5-0.01)",
+    "validator": "risti",
+    "dokumen_relevan": [
+      "1106",
+      "1093",
+      "1459",
+      "1490",
+      "41",
+      "84",
+      "1205",
+      "1488",
+      "1241"
+    ],
+    "dokumen_tidak_relevan": [
+      "1033"
+    ],
+    "total_relevan": 9,
+    "total_tidak_relevan": 1,
+    "expanded_query": [
+      "migran",
+      "pelindungan",
+      "bp3mi",
+      "p2mi",
+      "karding",
+      "kadir"
+    ]
+  },
+  {
+    "query": "migran",
+    "model": "model-skipgram-nostr(300-5-0.001)",
+    "validator": "risti",
+    "dokumen_relevan": [],
+    "dokumen_tidak_relevan": [
+      "570",
+      "414",
+      "646",
+      "649",
+      "676",
+      "643",
+      "572",
+      "571",
+      "659",
+      "683"
+    ],
+    "total_relevan": 0,
+    "total_tidak_relevan": 10,
+    "expanded_query": [
+      "migran",
+      "lee",
+      "penonton",
+      "and",
+      "klok",
+      "setiawan"
+    ]
+  },
+  {
+    "query": "migran",
+    "model": "model-skipgram-nostr(300-9-0.01)",
+    "validator": "risti",
+    "dokumen_relevan": [
+      "1106",
+      "1093",
+      "1459",
+      "1490",
+      "41",
+      "84",
+      "1205",
+      "1488",
+      "1241"
+    ],
+    "dokumen_tidak_relevan": [
+      "1033"
+    ],
+    "total_relevan": 9,
+    "total_tidak_relevan": 1,
+    "expanded_query": [
+      "migran",
+      "p2mi",
+      "karding",
+      "pelindungan",
+      "bp3mi",
+      "kadir"
+    ]
+  },
+  {
+    "query": "migran",
+    "model": "model-skipgram-nostr(300-9-0.001)",
+    "validator": "risti",
+    "dokumen_relevan": [
+      "1093"
+    ],
+    "dokumen_tidak_relevan": [
+      "1061",
+      "989",
+      "1045",
+      "987",
+      "1466",
+      "100",
+      "168",
+      "128",
+      "12"
+    ],
+    "total_relevan": 1,
+    "total_tidak_relevan": 9,
+    "expanded_query": [
+      "migran",
+      "universitas",
+      "tom",
+      "penuntut",
+      "adian",
+      "simon"
+    ]
+  },
+  {
+    "query": "migran",
+    "model": "Tanpa QE",
+    "validator": "risti",
+    "dokumen_relevan": [
+      "1093",
+      "41",
+      "84",
+      "1459",
+      "1205",
+      "1106",
+      "1490",
+      "1476",
+      "1488"
+    ],
+    "dokumen_tidak_relevan": [
+      "1033"
+    ],
+    "total_relevan": 9,
+    "total_tidak_relevan": 1
+  },
+  {
+    "query": "hubungan diplomatik",
+    "model": "Tanpa QE",
+    "validator": "risti",
+    "dokumen_relevan": [
+      "1132",
+      "1290",
+      "1294",
+      "1310",
+      "1206",
+      "1193",
+      "1106",
+      "1474"
+    ],
+    "dokumen_tidak_relevan": [
+      "1253",
+      "1455"
+    ],
+    "total_relevan": 8,
+    "total_tidak_relevan": 2
+  },
+  {
+    "query": "hubungan diplomatik",
+    "model": "model-skipgram-nostr(100-3-0.01)",
+    "validator": "risti",
+    "expanded_query": [
+      "hubungan",
+      "diplomatik",
+      "bilateral",
+      "menjalin",
+      "pemutusan",
+      "ide",
+      "sekutunya"
+    ],
+    "dokumen_relevan": [
+      "1294",
+      "1132",
+      "1310",
+      "1290",
+      "1206",
+      "1193",
+      "1113",
+      "1302"
+    ],
+    "dokumen_tidak_relevan": [
+      "19",
+      "1253"
+    ],
+    "total_relevan": 8,
+    "total_tidak_relevan": 2
+  },
+  {
+    "query": "hubungan diplomatik",
+    "model": "model-skipgram-nostr(100-3-0.001)",
+    "validator": "risti",
+    "expanded_query": [
+      "hubungan",
+      "diplomatik",
+      "mengenai",
+      "menjaga",
+      "cara",
+      "tujuan",
+      "potensi"
+    ],
+    "dokumen_relevan": [
+      "1127",
+      "1312",
+      "1132",
+      "1302",
+      "1290",
+      "1306",
+      "1193",
+      "1294"
+    ],
+    "dokumen_tidak_relevan": [
+      "484",
+      "1253"
+    ],
+    "total_relevan": 8,
+    "total_tidak_relevan": 2
+  },
+  {
+    "query": "hubungan diplomatik",
+    "model": "model-skipgram-nostr(100-5-0.01)",
+    "validator": "risti",
+    "expanded_query": [
+      "hubungan",
+      "diplomatik",
+      "menjalin",
+      "bilateral",
+      "pemutusan",
+      "peru",
+      "menghormati"
+    ],
+    "dokumen_relevan": [
+      "1132",
+      "1294",
+      "1290",
+      "1206",
+      "1193",
+      "1113",
+      "1302",
+      "1293"
+    ],
+    "dokumen_tidak_relevan": [
+      "654",
+      "1253"
+    ],
+    "total_relevan": 8,
+    "total_tidak_relevan": 2
+  },
+  {
+    "query": "hubungan diplomatik",
+    "model": "model-skipgram-nostr(100-5-0.001)",
+    "validator": "risti",
+    "expanded_query": [
+      "hubungan",
+      "diplomatik",
+      "berkomitmen",
+      "bentuk",
+      "peran",
+      "dinilai",
+      "menolak"
+    ],
+    "dokumen_relevan": [
+      "1294",
+      "1206",
+      "1193",
+      "1132",
+      "1290",
+      "1442",
+      "1310"
+    ],
+    "dokumen_tidak_relevan": [
+      "1271",
+      "1455",
+      "1410"
+    ],
+    "total_relevan": 7,
+    "total_tidak_relevan": 3
+  },
+  {
+    "query": "hubungan diplomatik",
+    "model": "model-skipgram-nostr(100-9-0.01)",
+    "validator": "risti",
+    "expanded_query": [
+      "hubungan",
+      "diplomatik",
+      "menjalin",
+      "peru",
+      "kremlin",
+      "kerajaan",
+      "memutus"
+    ],
+    "dokumen_relevan": [
+      "1132",
+      "1294",
+      "1290",
+      "1206",
+      "1454",
+      "1113",
+      "1106",
+      "1310",
+      "1300",
+      "1182"
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0
+  },
+  {
+    "query": "hubungan diplomatik",
+    "model": "model-skipgram-nostr(100-9-0.001)",
+    "validator": "risti",
+    "expanded_query": [
+      "hubungan",
+      "diplomatik",
+      "sikap",
+      "peran",
+      "perkembangan",
+      "panama",
+      "menolak"
+    ],
+    "dokumen_relevan": [
+      "1294",
+      "1290",
+      "1310",
+      "1309",
+      "1301",
+      "1306",
+      "1193",
+      "1312"
+    ],
+    "dokumen_tidak_relevan": [
+      "1483",
+      "1218"
+    ],
+    "total_relevan": 8,
+    "total_tidak_relevan": 2
+  },
+  {
+    "query": "hubungan diplomatik",
+    "model": "model-skipgram-nostr(300-3-0.01)",
+    "validator": "risti",
+    "expanded_query": [
+      "hubungan",
+      "diplomatik",
+      "bilateral",
+      "pemutusan",
+      "menjalin",
+      "mou",
+      "ide"
+    ],
+    "dokumen_relevan": [
+      "1294",
+      "1132",
+      "1290",
+      "1206",
+      "1193",
+      "1451",
+      "1113",
+      "1302"
+    ],
+    "dokumen_tidak_relevan": [
+      "19",
+      "1253"
+    ],
+    "total_relevan": 8,
+    "total_tidak_relevan": 2
+  },
+  {
+    "query": "hubungan diplomatik",
+    "model": "model-skipgram-nostr(300-3-0.001)",
+    "validator": "risti",
+    "expanded_query": [
+      "hubungan",
+      "diplomatik",
+      "dirinya",
+      "menjaga",
+      "komunikasi",
+      "potensi",
+      "fasilitas"
+    ],
+    "dokumen_relevan": [
+      "1290",
+      "1193",
+      "1132",
+      "1474",
+      "1294",
+      "1310"
+    ],
+    "dokumen_tidak_relevan": [
+      "1253",
+      "484",
+      "59",
+      "244"
+    ],
+    "total_relevan": 6,
+    "total_tidak_relevan": 4
+  },
+  {
+    "query": "hubungan diplomatik",
+    "model": "model-skipgram-nostr(300-5-0.01)",
+    "validator": "risti",
+    "expanded_query": [
+      "hubungan",
+      "diplomatik",
+      "menjalin",
+      "bilateral",
+      "pemutusan",
+      "peru",
+      "sekutunya"
+    ],
+    "dokumen_relevan": [
+      "1132",
+      "1294",
+      "1310",
+      "1290",
+      "1206",
+      "1300",
+      "1193",
+      "1113",
+      "1302"
+    ],
+    "dokumen_tidak_relevan": [
+      "1253"
+    ],
+    "total_relevan": 9,
+    "total_tidak_relevan": 1
+  },
+  {
+    "query": "hubungan diplomatik",
+    "model": "model-skipgram-nostr(300-5-0.001)",
+    "validator": "risti",
+    "expanded_query": [
+      "hubungan",
+      "diplomatik",
+      "bentuk",
+      "greenland",
+      "tugas",
+      "peran",
+      "berkomitmen"
+    ],
+    "dokumen_relevan": [
+      "1294",
+      "1310",
+      "1206",
+      "1193",
+      "1314",
+      "1132",
+      "1308",
+      "1300"
+    ],
+    "dokumen_tidak_relevan": [
+      "21",
+      "1271"
+    ],
+    "total_relevan": 8,
+    "total_tidak_relevan": 2
+  },
+  {
+    "query": "hubungan diplomatik",
+    "model": "model-skipgram-nostr(300-9-0.01)",
+    "validator": "risti",
+    "expanded_query": [
+      "hubungan",
+      "diplomatik",
+      "menjalin",
+      "kremlin",
+      "peru",
+      "pemutusan",
+      "nota"
+    ],
+    "dokumen_relevan": [
+      "1132",
+      "1294",
+      "1290",
+      "1474",
+      "1206",
+      "1490",
+      "1454",
+      "1475",
+      "1476"
+    ],
+    "dokumen_tidak_relevan": [
+      "1253"
+    ],
+    "total_relevan": 9,
+    "total_tidak_relevan": 1
+  },
+  {
+    "query": "hubungan diplomatik",
+    "model": "model-skipgram-nostr(300-9-0.001)",
+    "validator": "risti",
+    "expanded_query": [
+      "hubungan",
+      "diplomatik",
+      "sikap",
+      "panama",
+      "peran",
+      "menolak",
+      "perkembangan"
+    ],
+    "dokumen_relevan": [
+      "1294",
+      "1290",
+      "1310",
+      "1309",
+      "1301",
+      "1306",
+      "1193",
+      "1312"
+    ],
+    "dokumen_tidak_relevan": [
+      "1483",
+      "1218"
+    ],
+    "total_relevan": 8,
+    "total_tidak_relevan": 2
+  },
+  {
+    "query": "hubungan diplomatik",
+    "model": "model-skipgramstr(100-3-0.01)",
+    "validator": "risti",
+    "expanded_query": [
+      "hubungan",
+      "diplomatik",
+      "menjalin",
+      "pemutusan",
+      "bilateral",
+      "memperjuangkan",
+      "amelia"
+    ],
+    "dokumen_relevan": [
+      "1294",
+      "1132",
+      "1290",
+      "1206",
+      "1193",
+      "1113",
+      "1302",
+      "1133",
+      "1293"
+    ],
+    "dokumen_tidak_relevan": [
+      "1253"
+    ],
+    "total_relevan": 9,
+    "total_tidak_relevan": 1
+  },
+  {
+    "query": "hubungan diplomatik",
+    "model": "model-skipgramstr(100-3-0.001)",
+    "validator": "risti",
+    "expanded_query": [
+      "hubungan",
+      "diplomatik",
+      "kondisi",
+      "politik",
+      "rusia",
+      "berharap",
+      "polisi"
+    ],
+    "dokumen_relevan": [
+      "1300",
+      "1310",
+      "1132",
+      "1314",
+      "1290",
+      "1312",
+      "1178",
+      "1288"
+    ],
+    "dokumen_tidak_relevan": [
+      "1495",
+      "1432"
+    ],
+    "total_relevan": 8,
+    "total_tidak_relevan": 2
+  },
+  {
+    "query": "hubungan diplomatik",
+    "model": "model-skipgramstr(100-5-0.01)",
+    "validator": "risti",
+    "expanded_query": [
+      "hubungan",
+      "diplomatik",
+      "menjalin",
+      "kerajaan",
+      "amelia",
+      "bilateral",
+      "pemutusan"
+    ],
+    "dokumen_relevan": [
+      "1113",
+      "1294",
+      "1132",
+      "1290",
+      "1206",
+      "1193",
+      "1106",
+      "1302",
+      "1133"
+    ],
+    "dokumen_tidak_relevan": [
+      "1253"
+    ],
+    "total_relevan": 9,
+    "total_tidak_relevan": 1
+  },
+  {
+    "query": "hubungan diplomatik",
+    "model": "model-skipgramstr(100-5-0.001)",
+    "validator": "risti",
+    "expanded_query": [
+      "hubungan",
+      "diplomatik",
+      "politik",
+      "sikap",
+      "berharap",
+      "komitmen",
+      "mengeluarkan"
+    ],
+    "dokumen_relevan": [
+      "1132",
+      "1294",
+      "1106",
+      "1290",
+      "1310",
+      "1178",
+      "1300",
+      "1127",
+      "1314",
+      "1312"
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0
+  },
+  {
+    "query": "hubungan diplomatik",
+    "model": "model-skipgramstr(100-9-0.01)",
+    "validator": "risti",
+    "expanded_query": [
+      "hubungan",
+      "diplomatik",
+      "kerajaan",
+      "mengedepankan",
+      "dihormati",
+      "kremlin",
+      "senator"
+    ],
+    "dokumen_relevan": [
+      "1113",
+      "1106",
+      "1454",
+      "1132",
+      "1290",
+      "1294",
+      "1403",
+      "1310",
+      "1182",
+      "1308"
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0
+  },
+  {
+    "query": "hubungan diplomatik",
+    "model": "model-skipgramstr(100-9-0.001)",
+    "validator": "risti",
+    "expanded_query": [
+      "hubungan",
+      "diplomatik",
+      "sikap",
+      "eksekutif",
+      "mengeluarkan",
+      "perwakilan",
+      "intelijen"
+    ],
+    "dokumen_relevan": [
+      "1294",
+      "1106",
+      "1290",
+      "1310",
+      "1132",
+      "1314"
+    ],
+    "dokumen_tidak_relevan": [
+      "1253",
+      "582",
+      "1483",
+      "1410"
+    ],
+    "total_relevan": 6,
+    "total_tidak_relevan": 4
+  },
+  {
+    "query": "hubungan diplomatik",
+    "model": "model-skipgramstr(300-3-0.01)",
+    "validator": "risti",
+    "expanded_query": [
+      "hubungan",
+      "diplomatik",
+      "pemutusan",
+      "menjalin",
+      "amelia",
+      "memperjuangkan",
+      "bilateral"
+    ],
+    "dokumen_relevan": [
+      "1294",
+      "1132",
+      "1290",
+      "1206",
+      "1193",
+      "1113",
+      "1302",
+      "1133",
+      "1293"
+    ],
+    "dokumen_tidak_relevan": [
+      "1253"
+    ],
+    "total_relevan": 9,
+    "total_tidak_relevan": 1
+  },
+  {
+    "query": "hubungan diplomatik",
+    "model": "model-skipgramstr(300-3-0.001)",
+    "validator": "risti",
+    "expanded_query": [
+      "hubungan",
+      "diplomatik",
+      "alasan",
+      "sisi",
+      "kondisi",
+      "membantu",
+      "data"
+    ],
+    "dokumen_relevan": [
+      "1193",
+      "1294",
+      "1132",
+      "1223",
+      "1290",
+      "1293",
+      "1310",
+      "1474",
+      "1300"
+    ],
+    "dokumen_tidak_relevan": [
+      "1326"
+    ],
+    "total_relevan": 9,
+    "total_tidak_relevan": 1
+  },
+  {
+    "query": "hubungan diplomatik",
+    "model": "model-skipgramstr(300-5-0.01)",
+    "validator": "risti",
+    "expanded_query": [
+      "hubungan",
+      "diplomatik",
+      "menjalin",
+      "amelia",
+      "kerajaan",
+      "memperjuangkan",
+      "pemutusan"
+    ],
+    "dokumen_relevan": [
+      "1294",
+      "1132",
+      "1290",
+      "1206",
+      "1113",
+      "1106",
+      "1133",
+      "1310",
+      "1297"
+    ],
+    "dokumen_tidak_relevan": [
+      "1253"
+    ],
+    "total_relevan": 9,
+    "total_tidak_relevan": 1
+  },
+  {
+    "query": "hubungan diplomatik",
+    "model": "model-skipgramstr(300-5-0.001)",
+    "validator": "risti",
+    "expanded_query": [
+      "hubungan",
+      "diplomatik",
+      "alasan",
+      "membantu",
+      "komitmen",
+      "mengajukan",
+      "mengeluarkan"
+    ],
+    "dokumen_relevan": [
+      "1132",
+      "1294",
+      "1193",
+      "1127",
+      "1290",
+      "1106",
+      "1310"
+    ],
+    "dokumen_tidak_relevan": [
+      "1272",
+      "1253",
+      "1483"
+    ],
+    "total_relevan": 7,
+    "total_tidak_relevan": 3
+  },
+  {
+    "query": "hubungan diplomatik",
+    "model": "model-skipgramstr(300-9-0.01)",
+    "validator": "risti",
+    "expanded_query": [
+      "hubungan",
+      "diplomatik",
+      "kerajaan",
+      "mengedepankan",
+      "piagam",
+      "senator",
+      "kremlin"
+    ],
+    "dokumen_relevan": [
+      "1106",
+      "1454",
+      "1113",
+      "1127",
+      "1132",
+      "1290",
+      "1294",
+      "1310",
+      "1439",
+      "1182"
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0
+  },
+  {
+    "query": "hubungan diplomatik",
+    "model": "model-skipgramstr(300-9-0.001)",
+    "validator": "risti",
+    "expanded_query": [
+      "hubungan",
+      "diplomatik",
+      "sikap",
+      "eksekutif",
+      "utusan",
+      "mengeluarkan",
+      "intelijen"
+    ],
+    "dokumen_relevan": [
+      "1294",
+      "1106",
+      "1290",
+      "1310",
+      "1132"
+    ],
+    "dokumen_tidak_relevan": [
+      "779",
+      "582",
+      "1483",
+      "1253",
+      "1410"
+    ],
+    "total_relevan": 5,
+    "total_tidak_relevan": 5
+  },
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "query": "pasar",
+    "model": "model-skipgramstr(100-3-0.01)",
+    "validator": "abdul",
+    "expanded_query": [
+      "pasar",
+      "domestik",
+      "bapok",
+      "alpukat",
+      "bruto",
+      "induk"
+    ],
+    "dokumen_relevan": [
+      "165",
+      "13",
+      "256",
+      "291",
+      "133",
+      "77",
+      "59",
+      "50",
+      "1180",
+      "3"
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0
+  },
+  {
+    "query": "pasar",
+    "model": "model-skipgramstr(100-3-0.001)",
+    "validator": "abdul",
+    "expanded_query": [
+      "pasar",
+      "rusia",
+      "upaya",
+      "sistem",
+      "penyidik",
+      "cepat"
+    ],
+    "dokumen_relevan": [
+      "252",
+      "850",
+      "237",
+      "336"
+    ],
+    "dokumen_tidak_relevan": [
+      "1215",
+      "1182",
+      "1266",
+      "1235",
+      "243",
+      "947"
+    ],
+    "total_relevan": 4,
+    "total_tidak_relevan": 6
+  },
+  {
+    "query": "pasar",
+    "model": "model-skipgramstr(100-5-0.01)",
+    "validator": "abdul",
+    "expanded_query": [
+      "pasar",
+      "domestik",
+      "naiknya",
+      "alpukat",
+      "bapok",
+      "induk"
+    ],
+    "dokumen_relevan": [
+      "165",
+      "13",
+      "256",
+      "291",
+      "133",
+      "59",
+      "185",
+      "193",
+      "361",
+      "1180"
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0
+  },
+  {
+    "query": "pasar",
+    "model": "model-skipgramstr(100-5-0.001)",
+    "validator": "abdul",
+    "expanded_query": [
+      "pasar",
+      "bbm",
+      "peningkatan",
+      "pengusaha",
+      "minyakita",
+      "putusan"
+    ],
+    "dokumen_relevan": [
+      "236",
+      "184",
+      "24",
+      "303",
+      "185",
+      "235",
+      "361",
+      "17",
+      "59",
+      "6"
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0
+  },
+  {
+    "query": "pasar",
+    "model": "model-skipgramstr(100-9-0.01)",
+    "validator": "abdul",
+    "expanded_query": [
+      "pasar",
+      "induk",
+      "domestik",
+      "naiknya",
+      "market",
+      "berproduksi"
+    ],
+    "dokumen_relevan": [
+      "184",
+      "372",
+      "715",
+      "291",
+      "133",
+      "59",
+      "185",
+      "165",
+      "193",
+      "361"
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0
+  },
+  {
+    "query": "pasar",
+    "model": "model-skipgramstr(100-9-0.001)",
+    "validator": "abdul",
+    "expanded_query": [
+      "pasar",
+      "minyakita",
+      "peningkatan",
+      "komoditas",
+      "pungutan",
+      "pasokan"
+    ],
+    "dokumen_relevan": [
+      "236",
+      "185",
+      "361",
+      "13",
+      "235",
+      "31",
+      "303",
+      "247",
+      "136",
+      "237"
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0
+  },
+  {
+    "query": "pasar",
+    "model": "model-skipgramstr(300-3-0.01)",
+    "validator": "abdul",
+    "expanded_query": [
+      "pasar",
+      "domestik",
+      "bapok",
+      "alpukat",
+      "bijih",
+      "rendah"
+    ],
+    "dokumen_relevan": [
+      "165",
+      "256",
+      "13",
+      "182",
+      "291",
+      "179",
+      "133",
+      "1180",
+      "372",
+      "71"
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0
+  },
+  {
+    "query": "pasar",
+    "model": "model-skipgramstr(300-3-0.001)",
+    "validator": "abdul",
+    "expanded_query": [
+      "pasar",
+      "sisi",
+      "kondisi",
+      "menerima",
+      "keputusan",
+      "sidang"
+    ],
+    "dokumen_relevan": [
+      "66",
+      "13",
+      "136",
+      "1487",
+      "73",
+      "291",
+      "902"
+    ],
+    "dokumen_tidak_relevan": [
+      "1397",
+      "785",
+      "1141"
+    ],
+    "total_relevan": 7,
+    "total_tidak_relevan": 3
+  },
+  {
+    "query": "pasar",
+    "model": "model-skipgramstr(300-5-0.01)",
+    "validator": "abdul",
+    "expanded_query": [
+      "pasar",
+      "domestik",
+      "naiknya",
+      "induk",
+      "alpukat",
+      "bapok"
+    ],
+    "dokumen_relevan": [
+      "165",
+      "13",
+      "256",
+      "291",
+      "133",
+      "59",
+      "185",
+      "193",
+      "361",
+      "1180"
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0
+  },
+  {
+    "query": "pasar",
+    "model": "model-skipgramstr(300-5-0.001)",
+    "validator": "abdul",
+    "expanded_query": [
+      "pasar",
+      "beli",
+      "bbm",
+      "peningkatan",
+      "produk",
+      "layanan"
+    ],
+    "dokumen_relevan": [
+      "11",
+      "59",
+      "80",
+      "372",
+      "106",
+      "58",
+      "102",
+      "60",
+      "771"
+    ],
+    "dokumen_tidak_relevan": [
+      "1216"
+    ],
+    "total_relevan": 9,
+    "total_tidak_relevan": 1
+  },
+  {
+    "query": "pasar",
+    "model": "model-skipgramstr(300-9-0.01)",
+    "validator": "abdul",
+    "expanded_query": [
+      "pasar",
+      "naiknya",
+      "induk",
+      "berproduksi",
+      "domestik",
+      "market"
+    ],
+    "dokumen_relevan": [
+      "184",
+      "372",
+      "715",
+      "291",
+      "133",
+      "59",
+      "185",
+      "165",
+      "193",
+      "361"
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0
+  },
+  {
+    "query": "pasar",
+    "model": "model-skipgramstr(300-9-0.001)",
+    "validator": "abdul",
+    "expanded_query": [
+      "pasar",
+      "minyakita",
+      "djp",
+      "pengusaha",
+      "peningkatan",
+      "perpajakan"
+    ],
+    "dokumen_relevan": [
+      "303",
+      "242",
+      "236",
+      "185",
+      "235",
+      "361",
+      "191"
+    ],
+    "dokumen_tidak_relevan": [
+      "228",
+      "254",
+      "259"
+    ],
+    "total_relevan": 7,
+    "total_tidak_relevan": 3
+  },
+  {
+    "query": "pasar",
+    "model": "model-skipgram-nostr(100-3-0.01)",
+    "validator": "abdul",
+    "expanded_query": [
+      "pasar",
+      "domestik",
+      "bapok",
+      "pdb",
+      "peningkatan",
+      "manufaktur"
+    ],
+    "dokumen_relevan": [
+      "13",
+      "291",
+      "133",
+      "136",
+      "256",
+      "210",
+      "179",
+      "180",
+      "182",
+      "242"
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0
+  },
+  {
+    "query": "pasar",
+    "model": "model-skipgram-nostr(100-3-0.001)",
+    "validator": "abdul",
+    "expanded_query": [
+      "pasar",
+      "kaki",
+      "eropa",
+      "ancaman",
+      "yaitu",
+      "sipil"
+    ],
+    "dokumen_relevan": [
+      "864",
+      "237",
+      "1309",
+      "177"
+    ],
+    "dokumen_tidak_relevan": [
+      "526",
+      "1127",
+      "1483",
+      "1284",
+      "749",
+      "1230"
+    ],
+    "total_relevan": 4,
+    "total_tidak_relevan": 6
+  },
+  {
+    "query": "pasar",
+    "model": "model-skipgram-nostr(100-5-0.01)",
+    "validator": "abdul",
+    "expanded_query": [
+      "pasar",
+      "domestik",
+      "bapok",
+      "penyimpanan",
+      "gudang",
+      "pasaran"
+    ],
+    "dokumen_relevan": [
+      "13",
+      "369",
+      "256",
+      "291",
+      "771",
+      "344",
+      "276",
+      "133",
+      "1180",
+      "361"
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0
+  },
+  {
+    "query": "pasar",
+    "model": "model-skipgram-nostr(100-5-0.001)",
+    "validator": "abdul",
+    "expanded_query": [
+      "pasar",
+      "minyakita",
+      "kelas",
+      "rendah",
+      "peserta",
+      "subsidi"
+    ],
+    "dokumen_relevan": [
+      "236",
+      "303",
+      "235",
+      "361",
+      "185",
+      "51",
+      "13",
+      "344",
+      "277",
+      "771"
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0
+  },
+  {
+    "query": "pasar",
+    "model": "model-skipgram-nostr(100-9-0.01)",
+    "validator": "abdul",
+    "expanded_query": [
+      "pasar",
+      "domestik",
+      "melimpah",
+      "induk",
+      "industri",
+      "penyimpanan"
+    ],
+    "dokumen_relevan": [
+      "1180",
+      "133",
+      "59",
+      "31",
+      "291",
+      "77",
+      "715",
+      "66",
+      "165"
+    ],
+    "dokumen_tidak_relevan": [
+      "666"
+    ],
+    "total_relevan": 9,
+    "total_tidak_relevan": 1
+  },
+  {
+    "query": "pasar",
+    "model": "model-skipgram-nostr(100-9-0.001)",
+    "validator": "abdul",
+    "expanded_query": [
+      "pasar",
+      "minyakita",
+      "subsidi",
+      "kelas",
+      "peningkatan",
+      "penerapan"
+    ],
+    "dokumen_relevan": [
+      "236",
+      "303",
+      "235",
+      "361",
+      "185",
+      "60",
+      "67",
+      "107",
+      "13",
+      "363"
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0
+  },
+  {
+    "query": "pasar",
+    "model": "model-skipgram-nostr(300-3-0.01)",
+    "validator": "abdul",
+    "expanded_query": [
+      "pasar",
+      "domestik",
+      "bapok",
+      "manufaktur",
+      "konsumsi",
+      "pdb"
+    ],
+    "dokumen_relevan": [
+      "13",
+      "133",
+      "180",
+      "256",
+      "179",
+      "136",
+      "291",
+      "210",
+      "77",
+      "1180"
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0
+  },
+  {
+    "query": "pasar",
+    "model": "model-skipgram-nostr(300-3-0.001)",
+    "validator": "abdul",
+    "expanded_query": [
+      "pasar",
+      "peningkatan",
+      "bri",
+      "brasil",
+      "mata",
+      "asing"
+    ],
+    "dokumen_relevan": [
+      "165",
+      "39",
+      "307",
+      "1291",
+      "66",
+      "63",
+      "1288",
+      "255",
+      "1180"
+    ],
+    "dokumen_tidak_relevan": [
+      "119"
+    ],
+    "total_relevan": 9,
+    "total_tidak_relevan": 1
+  },
+  {
+    "query": "pasar",
+    "model": "model-skipgram-nostr(300-5-0.01)",
+    "validator": "abdul",
+    "expanded_query": [
+      "pasar",
+      "domestik",
+      "bapok",
+      "gudang",
+      "induk",
+      "penyimpanan"
+    ],
+    "dokumen_relevan": [
+      "13",
+      "369",
+      "256",
+      "291",
+      "771",
+      "276",
+      "133",
+      "59",
+      "165",
+      "1180"
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0
+  },
+  {
+    "query": "pasar",
+    "model": "model-skipgram-nostr(300-5-0.001)",
+    "validator": "abdul",
+    "expanded_query": [
+      "pasar",
+      "peserta",
+      "sasaran",
+      "panen",
+      "listrik",
+      "minyakita"
+    ],
+    "dokumen_relevan": [
+      "303",
+      "236",
+      "235",
+      "361",
+      "185",
+      "107",
+      "13",
+      "31",
+      "208",
+      "344"
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0
+  },
+  {
+    "query": "pasar",
+    "model": "model-skipgram-nostr(300-9-0.01)",
+    "validator": "abdul",
+    "expanded_query": [
+      "pasar",
+      "domestik",
+      "bapok",
+      "naiknya",
+      "manufaktur",
+      "induk"
+    ],
+    "dokumen_relevan": [
+      "13",
+      "133",
+      "256",
+      "179",
+      "136",
+      "291",
+      "59",
+      "193",
+      "210",
+      "361"
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0
+  },
+  {
+    "query": "pasar",
+    "model": "model-skipgram-nostr(300-9-0.001)",
+    "validator": "abdul",
+    "expanded_query": [
+      "pasar",
+      "minyakita",
+      "pasokan",
+      "subsidi",
+      "kelas",
+      "bbm"
+    ],
+    "dokumen_relevan": [
+      "236",
+      "361",
+      "185",
+      "80",
+      "24",
+      "251",
+      "13",
+      "199",
+      "60",
+      "303"
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0
+  },
+  {
+    "query": "pasar",
+    "model": "Tanpa QE",
+    "validator": "abdul",
+    "dokumen_relevan": [
+      66,
+      165,
+      291,
+      11,
+      184,
+      13,
+      133,
+      1180,
+      59
+    ],
+    "dokumen_tidak_relevan": [
+      1216
+    ],
+    "total_relevan": 9,
+    "total_tidak_relevan": 1
+  },
+   {
+    "query": "ekspor impor",
+    "model": "model-skipgramstr(100-3-0.01)",
+    "validator": "abdul",
+    "expanded_query": [
+      "ekspor",
+      "impor",
+      "cpo",
+      "produsen",
+      "gula",
+      "komoditi",
+      "proyeksi"
+    ],
+    "dokumen_relevan": [
+      "236",
+      "372",
+      "1061",
+      "1045",
+      "317",
+      "139",
+      "350",
+      "247",
+      "182"
+    ],
+    "dokumen_tidak_relevan": [
+      "110"
+    ],
+    "total_relevan": 9,
+    "total_tidak_relevan": 1
+  },
+  {
+    "query": "ekspor impor",
+    "model": "model-skipgramstr(100-3-0.001)",
+    "validator": "abdul",
+    "expanded_query": [
+      "ekspor",
+      "impor",
+      "ya",
+      "pertamina",
+      "sisi",
+      "kondisi",
+      "china"
+    ],
+    "dokumen_relevan": [
+      "77",
+      "350",
+      "182",
+      "247",
+      "1300",
+      "95",
+      "89",
+      "195",
+      "136"
+    ],
+    "dokumen_tidak_relevan": [
+      "168"
+    ],
+    "total_relevan": 9,
+    "total_tidak_relevan": 1
+  },
+  {
+    "query": "ekspor impor",
+    "model": "model-skipgramstr(100-5-0.01)",
+    "validator": "abdul",
+    "expanded_query": [
+      "ekspor",
+      "impor",
+      "cpo",
+      "produsen",
+      "produksinya",
+      "gandum",
+      "komoditi"
+    ],
+    "dokumen_relevan": [
+      "236",
+      "372",
+      "139",
+      "350",
+      "247",
+      "182",
+      "89",
+      "233",
+      "287"
+    ],
+    "dokumen_tidak_relevan": [
+      "83"
+    ],
+    "total_relevan": 9,
+    "total_tidak_relevan": 1
+  },
+  {
+    "query": "ekspor impor",
+    "model": "model-skipgramstr(100-5-0.001)",
+    "validator": "abdul",
+    "expanded_query": [
+      "ekspor",
+      "impor",
+      "memenuhi",
+      "petani",
+      "pengusaha",
+      "wajib",
+      "peningkatan"
+    ],
+    "dokumen_relevan": [
+      "236",
+      "372",
+      "11",
+      "182",
+      "350",
+      "139",
+      "247",
+      "142"
+    ],
+    "dokumen_tidak_relevan": [
+      "129",
+      "228"
+    ],
+    "total_relevan": 8,
+    "total_tidak_relevan": 2
+  },
+  {
+    "query": "ekspor impor",
+    "model": "model-skipgramstr(100-9-0.01)",
+    "validator": "abdul",
+    "expanded_query": [
+      "ekspor",
+      "impor",
+      "komoditi",
+      "produksinya",
+      "cpo",
+      "gandum",
+      "gejolak"
+    ],
+    "dokumen_relevan": [
+      "372",
+      "236",
+      "139",
+      "247",
+      "89",
+      "336",
+      "287",
+      "136",
+      "182"
+    ],
+    "dokumen_tidak_relevan": [
+      "83"
+    ],
+    "total_relevan": 9,
+    "total_tidak_relevan": 1
+  },
+  {
+    "query": "ekspor impor",
+    "model": "model-skipgramstr(100-9-0.001)",
+    "validator": "abdul",
+    "expanded_query": [
+      "ekspor",
+      "impor",
+      "zulhas",
+      "produksi",
+      "swasembada",
+      "layanan",
+      "wajib"
+    ],
+    "dokumen_relevan": [
+      "139",
+      "212",
+      "142",
+      "205",
+      "236",
+      "89",
+      "287",
+      "182"
+    ],
+    "dokumen_tidak_relevan": [
+      "107",
+      "8"
+    ],
+    "total_relevan": 8,
+    "total_tidak_relevan": 2
+  },
+  {
+    "query": "ekspor impor",
+    "model": "model-skipgramstr(300-3-0.01)",
+    "validator": "abdul",
+    "expanded_query": [
+      "ekspor",
+      "impor",
+      "cpo",
+      "produsen",
+      "gula",
+      "stabilisasi",
+      "produk"
+    ],
+    "dokumen_relevan": [
+      "236",
+      "1045",
+      "1061",
+      "182",
+      "142",
+      "11",
+      "139",
+      "350",
+      "247"
+    ],
+    "dokumen_tidak_relevan": [
+      "13"
+    ],
+    "total_relevan": 9,
+    "total_tidak_relevan": 1
+  },
+  {
+    "query": "ekspor impor",
+    "model": "model-skipgramstr(300-3-0.001)",
+    "validator": "abdul",
+    "expanded_query": [
+      "ekspor",
+      "impor",
+      "sisi",
+      "kendaraan",
+      "upaya",
+      "keputusan",
+      "kebijakan"
+    ],
+    "dokumen_relevan": [
+      "136",
+      "336",
+      "372",
+      "176",
+      "1300",
+      "247",
+      "236",
+      "11",
+      "338",
+      "287"
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0
+  },
+  {
+    "query": "ekspor impor",
+    "model": "model-skipgramstr(300-5-0.01)",
+    "validator": "abdul",
+    "expanded_query": [
+      "ekspor",
+      "impor",
+      "cpo",
+      "produsen",
+      "gandum",
+      "komoditi",
+      "produksinya"
+    ],
+    "dokumen_relevan": [
+      "236",
+      "372",
+      "139",
+      "350",
+      "247",
+      "182",
+      "89",
+      "233",
+      "287"
+    ],
+    "dokumen_tidak_relevan": [
+      "83"
+    ],
+    "total_relevan": 9,
+    "total_tidak_relevan": 1
+  },
+  {
+    "query": "ekspor impor",
+    "model": "model-skipgramstr(300-5-0.001)",
+    "validator": "abdul",
+    "expanded_query": [
+      "ekspor",
+      "impor",
+      "pasar",
+      "layanan",
+      "peningkatan",
+      "bbm",
+      "pengusaha"
+    ],
+    "dokumen_relevan": [
+      "11",
+      "372",
+      "247",
+      "136",
+      "182",
+      "287",
+      "1039",
+      "236"
+    ],
+    "dokumen_tidak_relevan": [
+      "59",
+      "24"
+    ],
+    "total_relevan": 8,
+    "total_tidak_relevan": 2
+  },
+  {
+    "query": "ekspor impor",
+    "model": "model-skipgramstr(300-9-0.01)",
+    "validator": "abdul",
+    "expanded_query": [
+      "ekspor",
+      "impor",
+      "produksinya",
+      "komoditi",
+      "cpo",
+      "produsen",
+      "gandum"
+    ],
+    "dokumen_relevan": [
+      "236",
+      "372",
+      "139",
+      "350",
+      "247",
+      "182",
+      "89",
+      "233",
+      "287"
+    ],
+    "dokumen_tidak_relevan": [
+      "83"
+    ],
+    "total_relevan": 9,
+    "total_tidak_relevan": 1
+  },
+  {
+    "query": "ekspor impor",
+    "model": "model-skipgramstr(300-9-0.001)",
+    "validator": "abdul",
+    "expanded_query": [
+      "ekspor",
+      "impor",
+      "penerimaan",
+      "swasembada",
+      "layanan",
+      "peningkatan",
+      "penghematan"
+    ],
+    "dokumen_relevan": [
+      "360",
+      "350",
+      "1039",
+      "139",
+      "309",
+      "294",
+      "247",
+      "11"
+    ],
+    "dokumen_tidak_relevan": [
+      "364",
+      "302"
+    ],
+    "total_relevan": 8,
+    "total_tidak_relevan": 2
+  },
+  {
+    "query": "ekspor impor",
+    "model": "model-skipgram-nostr(100-3-0.01)",
+    "validator": "abdul",
+    "dokumen_relevan": [
+      "236",
+      "142",
+      "139",
+      "317",
+      "287",
+      "89",
+      "1045",
+      "77",
+      "1061",
+      "372"
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0,
+    "expanded_query": [
+      "ekspor",
+      "impor",
+      "cpo",
+      "produksi",
+      "bruto",
+      "produk",
+      "gula"
+    ]
+  },
+  {
+    "query": "ekspor impor",
+    "model": "model-skipgram-nostr(100-3-0.001)",
+    "validator": "abdul",
+    "dokumen_relevan": [
+      "77",
+      "182",
+      "136",
+      "309",
+      "336",
+      "11",
+      "338"
+    ],
+    "dokumen_tidak_relevan": [
+      "836",
+      "203",
+      "793"
+    ],
+    "total_relevan": 7,
+    "total_tidak_relevan": 3,
+    "expanded_query": [
+      "ekspor",
+      "impor",
+      "positif",
+      "kesehatan",
+      "layanan",
+      "global",
+      "industri"
+    ]
+  },
+  {
+    "query": "ekspor impor",
+    "model": "model-skipgram-nostr(100-5-0.01)",
+    "validator": "abdul",
+    "dokumen_relevan": [
+      "372",
+      "236",
+      "139",
+      "317",
+      "237",
+      "287",
+      "89",
+      "297",
+      "142",
+      "11"
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0,
+    "expanded_query": [
+      "ekspor",
+      "impor",
+      "cpo",
+      "produk",
+      "produksi",
+      "olahan",
+      "gandum"
+    ]
+  },
+  {
+    "query": "ekspor impor",
+    "model": "model-skipgram-nostr(100-5-0.001)",
+    "validator": "abdul",
+    "dokumen_relevan": [
+      "1039",
+      "139",
+      "309",
+      "247",
+      "294",
+      "182",
+      "360"
+    ],
+    "dokumen_tidak_relevan": [
+      "24",
+      "6",
+      "364"
+    ],
+    "total_relevan": 7,
+    "total_tidak_relevan": 3,
+    "expanded_query": [
+      "ekspor",
+      "impor",
+      "misalnya",
+      "pengusaha",
+      "positif",
+      "swasembada",
+      "bbm"
+    ]
+  },
+  {
+    "query": "ekspor impor",
+    "model": "model-skipgram-nostr(100-9-0.01)",
+    "validator": "abdul",
+    "dokumen_relevan": [
+      "372",
+      "236",
+      "139",
+      "247",
+      "336",
+      "89",
+      "287",
+      "136",
+      "182"
+    ],
+    "dokumen_tidak_relevan": [
+      "83"
+    ],
+    "total_relevan": 9,
+    "total_tidak_relevan": 1,
+    "expanded_query": [
+      "ekspor",
+      "impor",
+      "gandum",
+      "produksinya",
+      "komoditi",
+      "cpo",
+      "murka"
+    ]
+  },
+  {
+    "query": "ekspor impor",
+    "model": "model-skipgram-nostr(100-9-0.001)",
+    "validator": "abdul",
+    "dokumen_relevan": [
+      "11",
+      "360",
+      "139",
+      "1039",
+      "247",
+      "294",
+      "182",
+      "338",
+      "317"
+    ],
+    "dokumen_tidak_relevan": [
+      "364"
+    ],
+    "total_relevan": 9,
+    "total_tidak_relevan": 1,
+    "expanded_query": [
+      "ekspor",
+      "impor",
+      "produk",
+      "memenuhi",
+      "pengusaha",
+      "mitra",
+      "swasembada"
+    ]
+  },
+  {
+    "query": "ekspor impor",
+    "model": "model-skipgram-nostr(300-3-0.01)",
+    "validator": "abdul",
+    "dokumen_relevan": [
+      "236",
+      "89",
+      "142",
+      "95",
+      "139",
+      "287",
+      "1045",
+      "1061",
+      "1203"
+    ],
+    "dokumen_tidak_relevan": [
+      "135"
+    ],
+    "total_relevan": 9,
+    "total_tidak_relevan": 1,
+    "expanded_query": [
+      "ekspor",
+      "impor",
+      "cpo",
+      "bruto",
+      "produksi",
+      "konsumsi",
+      "gula"
+    ]
+  },
+  {
+    "query": "ekspor impor",
+    "model": "model-skipgram-nostr(300-3-0.001)",
+    "validator": "abdul",
+    "dokumen_relevan": [
+      "195",
+      "309",
+      "247",
+      "136",
+      "205",
+      "287",
+      "89"
+    ],
+    "dokumen_tidak_relevan": [
+      "1141",
+      "1140",
+      "1143"
+    ],
+    "total_relevan": 7,
+    "total_tidak_relevan": 3,
+    "expanded_query": [
+      "ekspor",
+      "impor",
+      "melibatkan",
+      "mengajukan",
+      "tugas",
+      "ancaman",
+      "bahan"
+    ]
+  },
+  {
+    "query": "ekspor impor",
+    "model": "model-skipgram-nostr(300-5-0.01)",
+    "validator": "abdul",
+    "dokumen_relevan": [
+      "1045",
+      "1061",
+      "236",
+      "317",
+      "11",
+      "142",
+      "139",
+      "247",
+      "182"
+    ],
+    "dokumen_tidak_relevan": [
+      "69"
+    ],
+    "total_relevan": 9,
+    "total_tidak_relevan": 1,
+    "expanded_query": [
+      "ekspor",
+      "impor",
+      "cpo",
+      "gula",
+      "kristal",
+      "produk",
+      "proyeksi"
+    ]
+  },
+  {
+    "query": "ekspor impor",
+    "model": "model-skipgram-nostr(300-5-0.001)",
+    "validator": "abdul",
+    "dokumen_relevan": [
+      "1039",
+      "139",
+      "372",
+      "294",
+      "208",
+      "360",
+      "136",
+      "350",
+      "247",
+      "236"
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0,
+    "expanded_query": [
+      "ekspor",
+      "impor",
+      "petani",
+      "swasembada",
+      "tantangan",
+      "susu",
+      "bbm"
+    ]
+  },
+  {
+    "query": "ekspor impor",
+    "model": "model-skipgram-nostr(300-9-0.01)",
+    "validator": "abdul",
+    "dokumen_relevan": [
+      "372",
+      "236",
+      "139",
+      "247",
+      "350",
+      "182",
+      "233",
+      "89",
+      "336",
+      "287"
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0,
+    "expanded_query": [
+      "ekspor",
+      "impor",
+      "gandum",
+      "produsen",
+      "cpo",
+      "komoditi",
+      "singkong"
+    ]
+  },
+  {
+    "query": "ekspor impor",
+    "model": "model-skipgram-nostr(300-9-0.001)",
+    "validator": "abdul",
+    "dokumen_relevan": [
+      "11",
+      "139",
+      "317",
+      "287",
+      "360",
+      "89",
+      "372",
+      "142",
+      "182",
+      "1203"
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0,
+    "expanded_query": [
+      "ekspor",
+      "impor",
+      "memenuhi",
+      "produk",
+      "mitra",
+      "produksi",
+      "swasembada"
+    ]
+  },
+  {
+    "query": "ekspor impor",
+    "model": "Tanpa QE",
+    "validator": "abdul",
+    "dokumen_relevan": [
+      247,
+      287,
+      136,
+      182,
+      11,
+      338,
+      236,
+      372,
+      95,
+      309
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0
+  },
+   {
+    "query": "ham",
+    "model": "model-skipgramstr(100-3-0.01)",
+    "validator": "budi",
+    "expanded_query": [
+      "ham",
+      "komnas",
+      "hukumnya",
+      "penegak",
+      "pemasyarakatan",
+      "kebal"
+    ],
+    "dokumen_relevan": [
+      "1488",
+      "770",
+      "790",
+      "850",
+      "829",
+      "1145",
+      "835",
+      "816"
+    ],
+    "dokumen_tidak_relevan": [
+      "1073",
+      "313"
+    ],
+    "total_relevan": 8,
+    "total_tidak_relevan": 2
+  },
+  {
+    "query": "ham",
+    "model": "model-skipgramstr(100-3-0.001)",
+    "validator": "budi",
+    "expanded_query": [
+      "ham",
+      "pertumbuhan",
+      "fasilitas",
+      "pertemuan",
+      "kaki",
+      "tambahan"
+    ],
+    "dokumen_relevan": [
+      "1279",
+      "1210",
+      "1194"
+    ],
+    "dokumen_tidak_relevan": [
+      "55",
+      "309",
+      "50",
+      "583",
+      "175",
+      "1291",
+      "1379"
+    ],
+    "total_relevan": 3,
+    "total_tidak_relevan": 7
+  },
+  {
+    "query": "ham",
+    "model": "model-skipgramstr(100-5-0.01)",
+    "validator": "budi",
+    "expanded_query": [
+      "ham",
+      "komnas",
+      "asasi",
+      "pemasyarakatan",
+      "kemenham",
+      "menindaklanjuti"
+    ],
+    "dokumen_relevan": [
+      "1488",
+      "770",
+      "829",
+      "835",
+      "1194",
+      "847",
+      "790",
+      "1145"
+    ],
+    "dokumen_tidak_relevan": [
+      "1073",
+      "964"
+    ],
+    "total_relevan": 8,
+    "total_tidak_relevan": 2
+  },
+  {
+    "query": "ham",
+    "model": "model-skipgramstr(100-5-0.001)",
+    "validator": "budi",
+    "expanded_query": [
+      "ham",
+      "meninggalkan",
+      "penerbangan",
+      "berpotensi",
+      "pemberontakan",
+      "guru"
+    ],
+    "dokumen_relevan": [
+      "1005",
+      "1210",
+      "1062",
+      "4",
+      "1162"
+    ],
+    "dokumen_tidak_relevan": [
+      "328",
+      "707",
+      "1500",
+      "1397",
+      "1073"
+    ],
+    "total_relevan": 5,
+    "total_tidak_relevan": 5
+  },
+  {
+    "query": "ham",
+    "model": "model-skipgramstr(100-9-0.01)",
+    "validator": "budi",
+    "expanded_query": [
+      "ham",
+      "asasi",
+      "komnas",
+      "pemasyarakatan",
+      "ihza",
+      "pengesahan"
+    ],
+    "dokumen_relevan": [
+      "1488",
+      "829",
+      "835",
+      "847",
+      "770",
+      "1145",
+      "1194",
+      "1190"
+    ],
+    "dokumen_tidak_relevan": [
+      "1073",
+      "1080"
+    ],
+    "total_relevan": 8,
+    "total_tidak_relevan": 2
+  },
+  {
+    "query": "ham",
+    "model": "model-skipgramstr(100-9-0.001)",
+    "validator": "budi",
+    "expanded_query": [
+      "ham",
+      "penjelasan",
+      "mendengar",
+      "agama",
+      "diserahkan",
+      "terpisah"
+    ],
+    "dokumen_relevan": [
+      "1463",
+      "1493",
+      "1034",
+      "1154",
+      "1210",
+      "1164",
+      "796"
+    ],
+    "dokumen_tidak_relevan": [
+      "882",
+      "1116",
+      "1105"
+    ],
+    "total_relevan": 7,
+    "total_tidak_relevan": 3
+  },
+  {
+    "query": "ham",
+    "model": "model-skipgramstr(300-3-0.01)",
+    "validator": "budi",
+    "expanded_query": [
+      "ham",
+      "komnas",
+      "hukumnya",
+      "penegak",
+      "1982",
+      "asasi"
+    ],
+    "dokumen_relevan": [
+      "1488",
+      "770",
+      "1194",
+      "790",
+      "850",
+      "835",
+      "829",
+      "847"
+    ],
+    "dokumen_tidak_relevan": [
+      "313",
+      "1344"
+    ],
+    "total_relevan": 8,
+    "total_tidak_relevan": 2
+  },
+  {
+    "query": "ham",
+    "model": "model-skipgramstr(300-3-0.001)",
+    "validator": "budi",
+    "expanded_query": [
+      "ham",
+      "partai",
+      "masuk",
+      "turun",
+      "mengalami",
+      "sisi"
+    ],
+    "dokumen_relevan": [
+      "790",
+      "770",
+      "1342",
+      "943"
+    ],
+    "dokumen_tidak_relevan": [
+      "283",
+      "206",
+      "453",
+      "75",
+      "904",
+      "350"
+    ],
+    "total_relevan": 4,
+    "total_tidak_relevan": 6
+  },
+  {
+    "query": "ham",
+    "model": "model-skipgramstr(300-5-0.01)",
+    "validator": "budi",
+    "expanded_query": [
+      "ham",
+      "komnas",
+      "pemasyarakatan",
+      "asasi",
+      "kemenham",
+      "ihza"
+    ],
+    "dokumen_relevan": [
+      "1488",
+      "829",
+      "835",
+      "847",
+      "770",
+      "1145",
+      "1194",
+      "1190"
+    ],
+    "dokumen_tidak_relevan": [
+      "1073",
+      "1080"
+    ],
+    "total_relevan": 8,
+    "total_tidak_relevan": 2
+  },
+  {
+    "query": "ham",
+    "model": "model-skipgramstr(300-5-0.001)",
+    "validator": "budi",
+    "expanded_query": [
+      "ham",
+      "petani",
+      "melibatkan",
+      "mengeluarkan",
+      "lokal",
+      "pegawai"
+    ],
+    "dokumen_relevan": [
+      "1171",
+      "790"
+    ],
+    "dokumen_tidak_relevan": [
+      "372",
+      "90",
+      "203",
+      "92",
+      "135",
+      "295",
+      "342",
+      "815"
+    ],
+    "total_relevan": 2,
+    "total_tidak_relevan": 8
+  },
+  {
+    "query": "ham",
+    "model": "model-skipgramstr(300-9-0.01)",
+    "validator": "budi",
+    "expanded_query": [
+      "ham",
+      "asasi",
+      "komnas",
+      "pemasyarakatan",
+      "ihza",
+      "kemenham"
+    ],
+    "dokumen_relevan": [
+      "1488",
+      "829",
+      "835",
+      "847",
+      "770",
+      "1145",
+      "1194",
+      "1190"
+    ],
+    "dokumen_tidak_relevan": [
+      "1073",
+      "1080"
+    ],
+    "total_relevan": 8,
+    "total_tidak_relevan": 2
+  },
+  {
+    "query": "ham",
+    "model": "model-skipgramstr(300-9-0.001)",
+    "validator": "budi",
+    "expanded_query": [
+      "ham",
+      "mendengar",
+      "aspek",
+      "menghalangi",
+      "agama",
+      "diselesaikan"
+    ],
+    "dokumen_relevan": [
+      "796",
+      "1493",
+      "1154",
+      "847"
+    ],
+    "dokumen_tidak_relevan": [
+      "882",
+      "947",
+      "1116",
+      "296",
+      "1105",
+      "1266"
+    ],
+    "total_relevan": 4,
+    "total_tidak_relevan": 6
+  },
+  {
+    "query": "ham",
+    "model": "model-skipgram-nostr(100-3-0.01)",
+    "validator": "budi",
+    "expanded_query": [
+      "ham",
+      "asasi",
+      "pemasyarakatan",
+      "komnas",
+      "imigrasi",
+      "stafsus"
+    ],
+    "dokumen_relevan": [
+      "1488",
+      "829",
+      "835",
+      "847",
+      "770",
+      "1145",
+      "1194"
+    ],
+    "dokumen_tidak_relevan": [
+      "964",
+      "1057",
+      "1073"
+    ],
+    "total_relevan": 7,
+    "total_tidak_relevan": 3
+  },
+  {
+    "query": "ham",
+    "model": "model-skipgram-nostr(100-3-0.001)",
+    "validator": "budi",
+    "expanded_query": [
+      "ham",
+      "melepaskan",
+      "selaku",
+      "sekretaris",
+      "pertamina",
+      "hasan"
+    ],
+    "dokumen_relevan": [
+      "790"
+    ],
+    "dokumen_tidak_relevan": [
+      "81",
+      "788",
+      "12",
+      "168",
+      "128",
+      "100",
+      "951",
+      "1043",
+      "1050"
+    ],
+    "total_relevan": 1,
+    "total_tidak_relevan": 9
+  },
+  {
+    "query": "ham",
+    "model": "model-skipgram-nostr(100-5-0.01)",
+    "validator": "budi",
+    "expanded_query": [
+      "ham",
+      "asasi",
+      "komnas",
+      "pemasyarakatan",
+      "ihza",
+      "kemenham"
+    ],
+    "dokumen_relevan": [
+      "1488",
+      "829",
+      "835",
+      "847",
+      "770",
+      "1145",
+      "1194",
+      "1190"
+    ],
+    "dokumen_tidak_relevan": [
+      "1073",
+      "1080"
+    ],
+    "total_relevan": 8,
+    "total_tidak_relevan": 2
+  },
+  {
+    "query": "ham",
+    "model": "model-skipgram-nostr(100-5-0.001)",
+    "validator": "budi",
+    "expanded_query": [
+      "ham",
+      "sekretaris",
+      "propam",
+      "biro",
+      "pj",
+      "esdm"
+    ],
+    "dokumen_relevan": [
+      "932",
+      "790",
+      "1056",
+      "855"
+    ],
+    "dokumen_tidak_relevan": [
+      "974",
+      "91",
+      "51",
+      "951",
+      "1464",
+      "759"
+    ],
+    "total_relevan": 4,
+    "total_tidak_relevan": 6
+  },
+  {
+    "query": "ham",
+    "model": "model-skipgram-nostr(100-9-0.01)",
+    "validator": "budi",
+    "expanded_query": [
+      "ham",
+      "asasi",
+      "komnas",
+      "pemasyarakatan",
+      "ihza",
+      "kemenham"
+    ],
+    "dokumen_relevan": [
+      "1488",
+      "829",
+      "835",
+      "847",
+      "770",
+      "1145",
+      "1194",
+      "1190"
+    ],
+    "dokumen_tidak_relevan": [
+      "1073",
+      "1080"
+    ],
+    "total_relevan": 8,
+    "total_tidak_relevan": 2
+  },
+  {
+    "query": "ham",
+    "model": "model-skipgram-nostr(100-9-0.001)",
+    "validator": "budi",
+    "expanded_query": [
+      "ham",
+      "pemasyarakatan",
+      "irjen",
+      "asasi",
+      "imigrasi",
+      "syarif"
+    ],
+    "dokumen_relevan": [
+      "829",
+      "835",
+      "847",
+      "1488",
+      "1145",
+      "1194"
+    ],
+    "dokumen_tidak_relevan": [
+      "964",
+      "1057",
+      "1073",
+      "1080"
+    ],
+    "total_relevan": 6,
+    "total_tidak_relevan": 4
+  },
+  {
+    "query": "ham",
+    "model": "modelskipgram-nostr(300-3-0.01)",
+    "validator": "budi",
+    "expanded_query": [
+      "ham",
+      "pemasyarakatan",
+      "asasi",
+      "komnas",
+      "stafsus",
+      "imigrasi"
+    ],
+    "dokumen_relevan": [
+      "1488",
+      "829",
+      "835",
+      "847",
+      "770",
+      "1145",
+      "1194"
+    ],
+    "dokumen_tidak_relevan": [
+      "964",
+      "1057",
+      "1073"
+    ],
+    "total_relevan": 7,
+    "total_tidak_relevan": 3
+  },
+  {
+    "query": "ham",
+    "model": "model-skipgram-nostr(300-3-0.001)",
+    "validator": "budi",
+    "expanded_query": [
+      "ham",
+      "pm",
+      "gus",
+      "ratusan",
+      "online",
+      "sugiono"
+    ],
+    "dokumen_relevan": [
+      "1226",
+      "849",
+      "1311"
+    ],
+    "dokumen_tidak_relevan": [
+      "1298",
+      "1464",
+      "755",
+      "837",
+      "767",
+      "846",
+      "764"
+    ],
+    "total_relevan": 3,
+    "total_tidak_relevan": 7
+  },
+  {
+    "query": "ham",
+    "model": "model-skipgram-nostr(300-5-0.01)",
+    "validator": "budi",
+    "expanded_query": [
+      "ham",
+      "komnas",
+      "pemasyarakatan",
+      "asasi",
+      "ihza",
+      "yoav"
+    ],
+    "dokumen_relevan": [
+      "1488",
+      "829",
+      "835",
+      "847",
+      "770",
+      "1145",
+      "1194",
+      "1190"
+    ],
+    "dokumen_tidak_relevan": [
+      "1073",
+      "1080"
+    ],
+    "total_relevan": 8,
+    "total_tidak_relevan": 2
+  },
+  {
+    "query": "ham",
+    "model": "model-skipgram-nostr(300-5-0.001)",
+    "validator": "budi",
+    "expanded_query": [
+      "ham",
+      "imigrasi",
+      "said",
+      "anwar",
+      "arief",
+      "kemendag"
+    ],
+    "dokumen_relevan": [
+      "959",
+      "829",
+      "790",
+      "960",
+      "1070",
+      "1145",
+      "988"
+    ],
+    "dokumen_tidak_relevan": [
+      "1004",
+      "11",
+      "1057"
+    ],
+    "total_relevan": 7,
+    "total_tidak_relevan": 3
+  },
+  {
+    "query": "ham",
+    "model": "model-skipgram-nostr(300-9-0.01)",
+    "validator": "budi",
+    "expanded_query": [
+      "ham",
+      "asasi",
+      "komnas",
+      "pemasyarakatan",
+      "ihza",
+      "kemenham"
+    ],
+    "dokumen_relevan": [
+      "1488",
+      "829",
+      "835",
+      "847",
+      "770",
+      "1145",
+      "1194",
+      "1190"
+    ],
+    "dokumen_tidak_relevan": [
+      "1073",
+      "1080"
+    ],
+    "total_relevan": 8,
+    "total_tidak_relevan": 2
+  },
+  {
+    "query": "ham",
+    "model": "model-skipgram-nostr(300-9-0.001)",
+    "validator": "budi",
+    "expanded_query": [
+      "ham",
+      "imigrasi",
+      "perindustrian",
+      "kewilayahan",
+      "pemasyarakatan",
+      "muhaimin"
+    ],
+    "dokumen_relevan": [
+      "829",
+      "1145",
+      "835",
+      "847",
+      "1190"
+    ],
+    "dokumen_tidak_relevan": [
+      "964",
+      "1057",
+      "919",
+      "1073",
+      "1080"
+    ],
+    "total_relevan": 5,
+    "total_tidak_relevan": 5
+  },
+  {
+    "query": "ham",
+    "model": "Tanpa QE",
+    "validator": "budi",
+    "dokumen_relevan": [
+      "1488",
+      "770",
+      "1194",
+      "790",
+      "1372",
+      "1227",
+      "1154"
+    ],
+    "dokumen_tidak_relevan": [
+      "707",
+      "951",
+      "1042"
+    ],
+    "total_relevan": 7,
+    "total_tidak_relevan": 3
+  },
+  {
+    "query": "aturan hukum",
+    "model": "model-skipgram(100-3-0.01)",
+    "validator": "budi",
+    "dokumen_relevan": [
+      "1022",
+      "286",
+      "1044",
+      "238",
+      "357",
+      "273",
+      "298",
+      "847",
+      "1452",
+      "343"
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0,
+    "expanded_query": [
+      "aturan",
+      "hukum",
+      "penegakan",
+      "perkawinan",
+      "prosedur",
+      "koridor",
+      "perundang"
+    ]
+  },
+  {
+    "query": "aturan hukum",
+    "model": "model-skipgram(100-3-0.001)",
+    "validator": "budi",
+    "dokumen_relevan": [
+      "1005",
+      "844",
+      "357",
+      "356",
+      "1036",
+      "1473",
+      "314",
+      "270"
+    ],
+    "dokumen_tidak_relevan": [
+      "1256",
+      "1301"
+    ],
+    "total_relevan": 8,
+    "total_tidak_relevan": 2,
+    "expanded_query": [
+      "aturan",
+      "hukum",
+      "pelaku",
+      "sesuai",
+      "china",
+      "proses",
+      "lingkungan"
+    ]
+  },
+  {
+    "query": "aturan hukum",
+    "model": "model-skipgram(100-5-0.01)",
+    "validator": "budi",
+    "dokumen_relevan": [
+      "1022",
+      "1005",
+      "321",
+      "238",
+      "357",
+      "847",
+      "1452",
+      "981",
+      "903",
+      "1120"
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0,
+    "expanded_query": [
+      "aturan",
+      "hukum",
+      "perkawinan",
+      "perundang",
+      "penegakan",
+      "bertentangan",
+      "mengacu"
+    ]
+  },
+  {
+    "query": "aturan hukum",
+    "model": "model-skipgram(100-5-0.001)",
+    "validator": "budi",
+    "dokumen_relevan": [
+      "780",
+      "990",
+      "835",
+      "832",
+      "757",
+      "847",
+      "788",
+      "1118",
+      "1120"
+    ],
+    "dokumen_tidak_relevan": [
+      "1311"
+    ],
+    "total_relevan": 9,
+    "total_tidak_relevan": 1,
+    "expanded_query": [
+      "aturan",
+      "hukum",
+      "pidana",
+      "sesuai",
+      "tindak",
+      "surat",
+      "dugaan"
+    ]
+  },
+  {
+    "query": "aturan hukum",
+    "model": "model-skipgram(100-9-0.01)",
+    "validator": "budi",
+    "dokumen_relevan": [
+      "1022",
+      "217",
+      "357",
+      "1005",
+      "348",
+      "903",
+      "321",
+      "1120",
+      "865",
+      "1116"
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0,
+    "expanded_query": [
+      "aturan",
+      "hukum",
+      "atasan",
+      "praktek",
+      "perundang",
+      "bertentangan",
+      "penegak"
+    ]
+  },
+  {
+    "query": "aturan hukum",
+    "model": "model-skipgram(100-9-0.001)",
+    "validator": "budi",
+    "dokumen_relevan": [
+      "1120",
+      "825",
+      "358",
+      "780",
+      "990",
+      "835",
+      "847",
+      "1118",
+      "757",
+      "977"
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0,
+    "expanded_query": [
+      "aturan",
+      "hukum",
+      "tindak",
+      "terkait",
+      "pidana",
+      "jenderal",
+      "surat"
+    ]
+  },
+  {
+    "query": "aturan hukum",
+    "model": "model-skipgram(300-3-0.01)",
+    "validator": "budi",
+    "dokumen_relevan": [
+      "1022",
+      "286",
+      "1044",
+      "238",
+      "357",
+      "273",
+      "298",
+      "847",
+      "1452",
+      "343"
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0,
+    "expanded_query": [
+      "aturan",
+      "hukum",
+      "penegakan",
+      "perundang",
+      "perkawinan",
+      "prosedur",
+      "koridor"
+    ]
+  },
+  {
+    "query": "aturan hukum",
+    "model": "model-skipgram(300-3-0.001)",
+    "validator": "budi",
+    "dokumen_relevan": [
+      "978",
+      "1120",
+      "356",
+      "920",
+      "1109",
+      "1266",
+      "923",
+      "1194",
+      "757"
+    ],
+    "dokumen_tidak_relevan": [
+      "1257"
+    ],
+    "total_relevan": 9,
+    "total_tidak_relevan": 1,
+    "expanded_query": [
+      "aturan",
+      "hukum",
+      "diduga",
+      "proses",
+      "surat",
+      "data",
+      "pelaku"
+    ]
+  },
+  {
+    "query": "aturan hukum",
+    "model": "model-skipgram(300-5-0.01)",
+    "validator": "budi",
+    "dokumen_relevan": [
+      "1022",
+      "1434",
+      "1199",
+      "238",
+      "357",
+      "847",
+      "1452",
+      "1005",
+      "981",
+      "903"
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0,
+    "expanded_query": [
+      "aturan",
+      "hukum",
+      "perkawinan",
+      "perundang",
+      "penegakan",
+      "bertentangan",
+      "perceraian"
+    ]
+  },
+  {
+    "query": "aturan hukum",
+    "model": "model-skipgram(300-5-0.001)",
+    "validator": "budi",
+    "dokumen_relevan": [
+      "780",
+      "1120",
+      "990",
+      "1110",
+      "757",
+      "887",
+      "358",
+      "1111",
+      "847"
+    ],
+    "dokumen_tidak_relevan": [
+      "1035"
+    ],
+    "total_relevan": 9,
+    "total_tidak_relevan": 1,
+    "expanded_query": [
+      "aturan",
+      "hukum",
+      "pidana",
+      "dugaan",
+      "penyelidikan",
+      "tindak",
+      "proses"
+    ]
+  },
+  {
+    "query": "aturan hukum",
+    "model": "model-skipgram(300-9-0.01)",
+    "validator": "budi",
+    "dokumen_relevan": [
+      "1022",
+      "217",
+      "1452",
+      "1005",
+      "903",
+      "321",
+      "1116",
+      "17",
+      "1445",
+      "238"
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0,
+    "expanded_query": [
+      "aturan",
+      "hukum",
+      "praktek",
+      "atasan",
+      "perundang",
+      "perkawinan",
+      "bertentangan"
+    ]
+  },
+  {
+    "query": "aturan hukum",
+    "model": "model-skipgram(300-9-0.001)",
+    "validator": "budi",
+    "dokumen_relevan": [
+      "1120",
+      "825",
+      "358",
+      "780",
+      "990",
+      "835",
+      "847",
+      "1118",
+      "757",
+      "977"
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0,
+    "expanded_query": [
+      "aturan",
+      "hukum",
+      "tindak",
+      "terkait",
+      "pidana",
+      "surat",
+      "jenderal"
+    ]
+  },
+  {
+    "query": "aturan hukum",
+    "model": "model-skipgram-nostr(100-3-0.01)",
+    "validator": "budi",
+    "dokumen_relevan": [
+      "1194",
+      "1139",
+      "286",
+      "1463",
+      "318",
+      "1044",
+      "298",
+      "847",
+      "314"
+    ],
+    "dokumen_tidak_relevan": [
+      "1138"
+    ],
+    "total_relevan": 9,
+    "total_tidak_relevan": 1,
+    "expanded_query": [
+      "aturan",
+      "hukum",
+      "prosedur",
+      "penegakan",
+      "hijab",
+      "hukumnya",
+      "berpakaian"
+    ]
+  },
+  {
+    "query": "aturan hukum",
+    "model": "model-skipgram-nostr(100-3-0.001)",
+    "validator": "budi",
+    "dokumen_relevan": [
+      "947",
+      "1120",
+      "931",
+      "978",
+      "1131",
+      "949",
+      "940",
+      "985",
+      "976"
+    ],
+    "dokumen_tidak_relevan": [
+      "958"
+    ],
+    "total_relevan": 9,
+    "total_tidak_relevan": 1,
+    "expanded_query": [
+      "aturan",
+      "hukum",
+      "pelaku",
+      "tindakan",
+      "jelas",
+      "hasto",
+      "diduga"
+    ]
+  },
+  {
+    "query": "aturan hukum",
+    "model": "model-skipgram-nostr(100-5-0.01)",
+    "validator": "budi",
+    "dokumen_relevan": [
+      "1194",
+      "1139",
+      "1463",
+      "1022",
+      "314",
+      "1434",
+      "1452",
+      "318",
+      "343"
+    ],
+    "dokumen_tidak_relevan": [
+      "1138"
+    ],
+    "total_relevan": 9,
+    "total_tidak_relevan": 1,
+    "expanded_query": [
+      "aturan",
+      "hukum",
+      "prosedur",
+      "hijab",
+      "melanggar",
+      "perkawinan",
+      "berpakaian"
+    ]
+  },
+  {
+    "query": "aturan hukum",
+    "model": "model-skipgram-nostr(100-5-0.001)",
+    "validator": "budi",
+    "dokumen_relevan": [
+      "1069",
+      "987",
+      "1056",
+      "985",
+      "1063",
+      "931",
+      "976",
+      "883",
+      "865",
+      "978"
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0,
+    "expanded_query": [
+      "aturan",
+      "hukum",
+      "pelaku",
+      "diduga",
+      "hasto",
+      "informasi",
+      "bukti"
+    ]
+  },
+  {
+    "query": "aturan hukum",
+    "model": "model-skipgram-nostr(100-9-0.01)",
+    "validator": "budi",
+    "dokumen_relevan": [
+      "1022",
+      "1139",
+      "1194",
+      "273",
+      "1452",
+      "314",
+      "318",
+      "343",
+      "321"
+    ],
+    "dokumen_tidak_relevan": [
+      "1138"
+    ],
+    "total_relevan": 9,
+    "total_tidak_relevan": 1,
+    "expanded_query": [
+      "aturan",
+      "hukum",
+      "perundang",
+      "prosedur",
+      "perkawinan",
+      "hijab",
+      "praktek"
+    ]
+  },
+  {
+    "query": "aturan hukum",
+    "model": "model-skipgram-nostr(100-9-0.001)",
+    "validator": "budi",
+    "dokumen_relevan": [
+      "757",
+      "1466",
+      "238",
+      "990",
+      "887",
+      "321",
+      "290",
+      "1120"
+    ],
+    "dokumen_tidak_relevan": [
+      "1229",
+      "1470"
+    ],
+    "total_relevan": 8,
+    "total_tidak_relevan": 2,
+    "expanded_query": [
+      "aturan",
+      "hukum",
+      "bukti",
+      "sesuai",
+      "informasi",
+      "lembaga",
+      "penyelidikan"
+    ]
+  },
+  {
+    "query": "aturan hukum",
+    "model": "model-skipgram-nostr(300-3-0.01)",
+    "validator": "budi",
+    "dokumen_relevan": [
+      "286",
+      "1139",
+      "1194",
+      "318",
+      "1044",
+      "238",
+      "357",
+      "273",
+      "298",
+      "847"
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0,
+    "expanded_query": [
+      "aturan",
+      "hukum",
+      "prosedur",
+      "perundang",
+      "hukumnya",
+      "penegakan",
+      "hijab"
+    ]
+  },
+  {
+    "query": "aturan hukum",
+    "model": "model-skipgram-nostr(300-3-0.001)",
+    "validator": "budi",
+    "dokumen_relevan": [
+      "1120",
+      "1089",
+      "1131",
+      "899",
+      "1463",
+      "815",
+      "979",
+      "847",
+      "909"
+    ],
+    "dokumen_tidak_relevan": [
+      "211"
+    ],
+    "total_relevan": 9,
+    "total_tidak_relevan": 1,
+    "expanded_query": [
+      "aturan",
+      "hukum",
+      "jelas",
+      "tindakan",
+      "diduga",
+      "pelaku",
+      "informasi"
+    ]
+  },
+  {
+    "query": "aturan hukum",
+    "model": "model-skipgram-nostr(300-5-0.01)",
+    "validator": "budi",
+    "dokumen_relevan": [
+      "1022",
+      "1139",
+      "1194",
+      "238",
+      "357",
+      "273",
+      "286",
+      "298",
+      "1452",
+      "847"
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0,
+    "expanded_query": [
+      "aturan",
+      "hukum",
+      "prosedur",
+      "perundang",
+      "hijab",
+      "perkawinan",
+      "penegakan"
+    ]
+  },
+  {
+    "query": "aturan hukum",
+    "model": "model-skipgram-nostr(300-5-0.001)",
+    "validator": "budi",
+    "dokumen_relevan": [
+      "1069",
+      "987",
+      "1056",
+      "985",
+      "1063",
+      "931",
+      "976",
+      "883",
+      "865",
+      "978"
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0,
+    "expanded_query": [
+      "aturan",
+      "hukum",
+      "pelaku",
+      "diduga",
+      "hasto",
+      "informasi",
+      "bukti"
+    ]
+  },
+  {
+    "query": "aturan hukum",
+    "model": "model-skipgram-nostr(300-9-0.01)",
+    "validator": "budi",
+    "dokumen_relevan": [
+      "1022",
+      "1139",
+      "1194",
+      "238",
+      "357",
+      "1452",
+      "847",
+      "757",
+      "981",
+      "1120"
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0,
+    "expanded_query": [
+      "aturan",
+      "hukum",
+      "perundang",
+      "kuhap",
+      "perkawinan",
+      "penegakan",
+      "hijab"
+    ]
+  },
+  {
+    "query": "aturan hukum",
+    "model": "model-skipgram-nostr(300-9-0.001)",
+    "validator": "budi",
+    "dokumen_relevan": [
+      "757",
+      "1466",
+      "238",
+      "990",
+      "887",
+      "321",
+      "290",
+      "1120"
+    ],
+    "dokumen_tidak_relevan": [
+      "1229",
+      "1470"
+    ],
+    "total_relevan": 8,
+    "total_tidak_relevan": 2,
+    "expanded_query": [
+      "aturan",
+      "hukum",
+      "bukti",
+      "lembaga",
+      "informasi",
+      "sesuai",
+      "penyelidikan"
+    ]
+  },
+  {
+    "query": "aturan hukum",
+    "model": "Tanpa QE",
+    "validator": "budi",
+    "dokumen_relevan": [
+      1131,
+      1022,
+      1463,
+      1473,
+      1005,
+      335,
+      847,
+      1120
+    ],
+    "dokumen_tidak_relevan": [
+      1301,
+      958
+    ],
+    "total_relevan": 8,
+    "total_tidak_relevan": 2
+  },
+  {
+    "query": "cabang olahraga",
+    "model": "model-skipgramstr(100-3-0.01)",
+    "validator": "ruri",
+    "expanded_query": [
+      "cabang",
+      "olahraga",
+      "pencak",
+      "silat",
+      "kebanggaan",
+      "tangkis",
+      "warisan"
+    ],
+    "dokumen_relevan": [
+      429,
+      489,
+      427,
+      744,
+      695,
+      566,
+      681
+    ],
+    "dokumen_tidak_relevan": [
+      1193,
+      1114,
+      650
+    ],
+    "total_relevan": 7,
+    "total_tidak_relevan": 3
+  },
+  {
+    "query": "cabang olahraga",
+    "model": "model-skipgramstr(100-3-0.001)",
+    "validator": "ruri",
+    "expanded_query": [
+      "cabang",
+      "olahraga",
+      "dukungan",
+      "situasi",
+      "politik",
+      "target",
+      "kekuatan"
+    ],
+    "dokumen_relevan": [
+      429,
+      744,
+      585,
+      695,
+      566,
+      616
+    ],
+    "dokumen_tidak_relevan": [
+      1143,
+      1297,
+      1033,
+      1357
+    ],
+    "total_relevan": 6,
+    "total_tidak_relevan": 4
+  },
+  {
+    "query": "cabang olahraga",
+    "model": "model-skipgramstr(100-5-0.01)",
+    "validator": "ruri",
+    "expanded_query": [
+      "cabang",
+      "olahraga",
+      "pencak",
+      "jadikan",
+      "silat",
+      "kebanggaan",
+      "dito"
+    ],
+    "dokumen_relevan": [
+      429,
+      489,
+      427,
+      744,
+      695,
+      566,
+      585,
+      615
+    ],
+    "dokumen_tidak_relevan": [
+      1193,
+      1114
+    ],
+    "total_relevan": 8,
+    "total_tidak_relevan": 2
+  },
+  {
+    "query": "cabang olahraga",
+    "model": "model-skipgramstr(100-5-0.001)",
+    "validator": "ruri",
+    "expanded_query": [
+      "cabang",
+      "olahraga",
+      "berupaya",
+      "jerman",
+      "kelas",
+      "perjuangan",
+      "terbesar"
+    ],
+    "dokumen_relevan": [
+      744,
+      695,
+      566,
+      429,
+      431,
+      585
+    ],
+    "dokumen_tidak_relevan": [
+      1,
+      846,
+      1323,
+      1327
+    ],
+    "total_relevan": 6,
+    "total_tidak_relevan": 4
+  },
+  {
+    "query": "cabang olahraga",
+    "model": "model-skipgramstr(100-9-0.01)",
+    "validator": "ruri",
+    "expanded_query": [
+      "cabang",
+      "olahraga",
+      "pencak",
+      "jadikan",
+      "silat",
+      "tangkis",
+      "dito"
+    ],
+    "dokumen_relevan": [
+      429,
+      427,
+      489,
+      416,
+      456,
+      646,
+      589,
+      658
+    ],
+    "dokumen_tidak_relevan": [
+      1193,
+      1114
+    ],
+    "total_relevan": 8,
+    "total_tidak_relevan": 2
+  },
+  {
+    "query": "cabang olahraga",
+    "model": "model-skipgramstr(100-9-0.001)",
+    "validator": "ruri",
+    "expanded_query": [
+      "cabang",
+      "olahraga",
+      "pembalap",
+      "memegang",
+      "keberhasilan",
+      "kepastian",
+      "misi"
+    ],
+    "dokumen_relevan": [
+      585,
+      744,
+      715,
+      695,
+      566,
+      429,
+      489,
+      663,
+      568,
+      396
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0
+  },
+  {
+    "query": "cabang olahraga",
+    "model": "model-skipgramstr(300-3-0.01)",
+    "validator": "ruri",
+    "expanded_query": [
+      "cabang",
+      "olahraga",
+      "pencak",
+      "silat",
+      "djalal",
+      "tangkis",
+      "jadikan"
+    ],
+    "dokumen_relevan": [
+      429,
+      427,
+      489,
+      744,
+      695,
+      566,
+      681
+    ],
+    "dokumen_tidak_relevan": [
+      1193,
+      1114,
+      1344
+    ],
+    "total_relevan": 7,
+    "total_tidak_relevan": 3
+  },
+  {
+    "query": "cabang olahraga",
+    "model": "model-skipgramstr(300-3-0.001)",
+    "validator": "ruri",
+    "expanded_query": [
+      "cabang",
+      "olahraga",
+      "mantan",
+      "upaya",
+      "mengalami",
+      "masuk",
+      "membawa"
+    ],
+    "dokumen_relevan": [
+      744,
+      566,
+      695,
+      429,
+      693,
+      574,
+      585,
+      541,
+      578
+    ],
+    "dokumen_tidak_relevan": [
+      1253
+    ],
+    "total_relevan": 9,
+    "total_tidak_relevan": 1
+  },
+  {
+    "query": "cabang olahraga",
+    "model": "model-skipgramstr(300-5-0.01)",
+    "validator": "ruri",
+    "expanded_query": [
+      "cabang",
+      "olahraga",
+      "pencak",
+      "silat",
+      "jadikan",
+      "tangkis",
+      "dito"
+    ],
+    "dokumen_relevan": [
+      429,
+      489,
+      427,
+      744,
+      695,
+      566,
+      681,
+      585
+    ],
+    "dokumen_tidak_relevan": [
+      1193,
+      1114
+    ],
+    "total_relevan": 8,
+    "total_tidak_relevan": 2
+  },
+  {
+    "query": "cabang olahraga",
+    "model": "model-skipgramstr(300-5-0.001)",
+    "validator": "ruri",
+    "expanded_query": [
+      "cabang",
+      "olahraga",
+      "berat",
+      "aktif",
+      "berupaya",
+      "pendapat",
+      "fokus"
+    ],
+    "dokumen_relevan": [
+      566,
+      695,
+      574,
+      744,
+      585,
+      429,
+      578
+    ],
+    "dokumen_tidak_relevan": [
+      29,
+      27,
+      1314
+    ],
+    "total_relevan": 7,
+    "total_tidak_relevan": 3
+  },
+  {
+    "query": "cabang olahraga",
+    "model": "model-skipgramstr(300-9-0.01)",
+    "validator": "ruri",
+    "expanded_query": [
+      "cabang",
+      "olahraga",
+      "pencak",
+      "jadikan",
+      "silat",
+      "dito",
+      "kebanggaan"
+    ],
+    "dokumen_relevan": [
+      429,
+      489,
+      427,
+      744,
+      695,
+      566,
+      585,
+      615
+    ],
+    "dokumen_tidak_relevan": [
+      1193,
+      1114
+    ],
+    "total_relevan": 8,
+    "total_tidak_relevan": 2
+  },
+  {
+    "query": "cabang olahraga",
+    "model": "model-skipgramstr(300-9-0.001)",
+    "validator": "ruri",
+    "expanded_query": [
+      "cabang",
+      "olahraga",
+      "kedatangan",
+      "pastinya",
+      "kepastian",
+      "ucapkan",
+      "veddriq"
+    ],
+    "dokumen_relevan": [
+      744,
+      566,
+      578,
+      695,
+      429,
+      585,
+      579
+    ],
+    "dokumen_tidak_relevan": [
+      750,
+      545,
+      581
+    ],
+    "total_relevan": 7,
+    "total_tidak_relevan": 3
+  },
+  {
+    "query": "cabang olahraga",
+    "model": "model-skipgram-nostr(100-3-0.01)",
+    "validator": "ruri",
+    "expanded_query": [
+      "cabang",
+      "olahraga",
+      "tangkis",
+      "tokoh",
+      "bulu",
+      "pengurus",
+      "bergengsi"
+    ],
+    "dokumen_relevan": [
+      681,
+      744,
+      429,
+      589,
+      695,
+      416,
+      566,
+      541,
+      585
+    ],
+    "dokumen_tidak_relevan": [
+      986
+    ],
+    "total_relevan": 9,
+    "total_tidak_relevan": 1
+  },
+  {
+    "query": "cabang olahraga",
+    "model": "model-skipgram-nostr(100-3-0.001)",
+    "validator": "ruri",
+    "expanded_query": [
+      "cabang",
+      "olahraga",
+      "tolak",
+      "pertamina",
+      "ratusan",
+      "tertinggi",
+      "kanada"
+    ],
+    "dokumen_relevan": [
+      744,
+      695,
+      566,
+      429,
+      715,
+      585
+    ],
+    "dokumen_tidak_relevan": [
+      64,
+      1437,
+      1290,
+      986
+    ],
+    "total_relevan": 6,
+    "total_tidak_relevan": 4
+  },
+  {
+    "query": "cabang olahraga",
+    "model": "model-skipgram-nostr(100-5-0.01)",
+    "validator": "ruri",
+    "expanded_query": [
+      "cabang",
+      "olahraga",
+      "bergengsi",
+      "pb",
+      "pelepasan",
+      "silat",
+      "tangkis"
+    ],
+    "dokumen_relevan": [
+      429,
+      681,
+      427,
+      744,
+      489,
+      416,
+      695,
+      566,
+      541,
+      585
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0
+  },
+  {
+    "query": "cabang olahraga",
+    "model": "model-skipgram-nostr(100-5-0.001)",
+    "validator": "ruri",
+    "expanded_query": [
+      "cabang",
+      "olahraga",
+      "penonton",
+      "tokoh",
+      "inflasi",
+      "jenis",
+      "hijau"
+    ],
+    "dokumen_relevan": [
+      744,
+      695,
+      566,
+      429,
+      585,
+      693
+    ],
+    "dokumen_tidak_relevan": [
+      1254,
+      1088,
+      986,
+      1251
+    ],
+    "total_relevan": 6,
+    "total_tidak_relevan": 4
+  },
+  {
+    "query": "cabang olahraga",
+    "model": "model-skipgram-nostr(100-9-0.01)",
+    "validator": "ruri",
+    "expanded_query": [
+      "cabang",
+      "olahraga",
+      "pencak",
+      "silat",
+      "dhabi",
+      "kebanggaan",
+      "veddriq"
+    ],
+    "dokumen_relevan": [
+      429,
+      489,
+      427,
+      744,
+      566,
+      695,
+      585,
+      587
+    ],
+    "dokumen_tidak_relevan": [
+      1193,
+      1114
+    ],
+    "total_relevan": 8,
+    "total_tidak_relevan": 2
+  },
+  {
+    "query": "cabang olahraga",
+    "model": "model-skipgram-nostr(100-9-0.001)",
+    "validator": "ruri",
+    "expanded_query": [
+      "cabang",
+      "olahraga",
+      "pahlawan",
+      "agen",
+      "diisi",
+      "simbol",
+      "talenta"
+    ],
+    "dokumen_relevan": [
+      744,
+      695,
+      489,
+      566,
+      429,
+      555,
+      462,
+      585
+    ],
+    "dokumen_tidak_relevan": [
+      1033,
+      36
+    ],
+    "total_relevan": 8,
+    "total_tidak_relevan": 2
+  },
+  {
+    "query": "cabang olahraga",
+    "model": "model-skipgram-nostr(300-3-0.01)",
+    "validator": "ruri",
+    "expanded_query": [
+      "cabang",
+      "olahraga",
+      "tangkis",
+      "bulu",
+      "terpopuler",
+      "figure",
+      "bergengsi"
+    ],
+    "dokumen_relevan": [
+      681,
+      744,
+      635,
+      589,
+      693,
+      695,
+      416,
+      566
+    ],
+    "dokumen_tidak_relevan": [
+      551,
+      737
+    ],
+    "total_relevan": 8,
+    "total_tidak_relevan": 2
+  },
+  {
+    "query": "cabang olahraga",
+    "model": "model-skipgram-nostr(300-3-0.001)",
+    "validator": "ruri",
+    "expanded_query": [
+      "cabang",
+      "olahraga",
+      "selanjutnya",
+      "jenis",
+      "ratusan",
+      "eks",
+      "pertamina"
+    ],
+    "dokumen_relevan": [
+      566,
+      744,
+      695,
+      429,
+      666,
+      663,
+      578,
+      585
+    ],
+    "dokumen_tidak_relevan": [
+      1458,
+      207
+    ],
+    "total_relevan": 8,
+    "total_tidak_relevan": 2
+  },
+  {
+    "query": "cabang olahraga",
+    "model": "model-skipgram-nostr(300-5-0.01)",
+    "validator": "ruri",
+    "expanded_query": [
+      "cabang",
+      "olahraga",
+      "tangkis",
+      "silat",
+      "bergengsi",
+      "pelepasan",
+      "pencak"
+    ],
+    "dokumen_relevan": [
+      429,
+      427,
+      489,
+      744,
+      681,
+      695,
+      566,
+      541
+    ],
+    "dokumen_tidak_relevan": [
+      1193,
+      1114
+    ],
+    "total_relevan": 8,
+    "total_tidak_relevan": 2
+  },
+  {
+    "query": "cabang olahraga",
+    "model": "model-skipgram-nostr(300-5-0.001)",
+    "validator": "ruri",
+    "expanded_query": [
+      "cabang",
+      "olahraga",
+      "jenis",
+      "miskin",
+      "pengaturan",
+      "paulus",
+      "karyawan"
+    ],
+    "dokumen_relevan": [
+      744,
+      695,
+      566,
+      429
+    ],
+    "dokumen_tidak_relevan": [
+      326,
+      258,
+      1455,
+      816,
+      1077,
+      127
+    ],
+    "total_relevan": 4,
+    "total_tidak_relevan": 6
+  },
+  {
+    "query": "cabang olahraga",
+    "model": "model-skipgram-nostr(300-9-0.01)",
+    "validator": "ruri",
+    "expanded_query": [
+      "cabang",
+      "olahraga",
+      "pencak",
+      "silat",
+      "jadikan",
+      "hadiyanto",
+      "bergengsi"
+    ],
+    "dokumen_relevan": [
+      429,
+      427,
+      489,
+      681,
+      744,
+      695,
+      566,
+      541
+    ],
+    "dokumen_tidak_relevan": [
+      1193,
+      1114
+    ],
+    "total_relevan": 8,
+    "total_tidak_relevan": 2
+  },
+  {
+    "query": "cabang olahraga",
+    "model": "model-skipgram-nostr(300-9-0.001)",
+    "validator": "ruri",
+    "expanded_query": [
+      "cabang",
+      "olahraga",
+      "solidaritas",
+      "agen",
+      "simbol",
+      "pembalap",
+      "dorongan"
+    ],
+    "dokumen_relevan": [
+      744,
+      715,
+      695,
+      489,
+      566,
+      429,
+      585,
+      663
+    ],
+    "dokumen_tidak_relevan": [
+      1313,
+      627
+    ],
+    "total_relevan": 8,
+    "total_tidak_relevan": 2
+  },
+  {
+    "query": "cabang olahraga",
+    "model": "Tanpa QE",
+    "validator": "ruri",
+    "dokumen_relevan": [
+      "744",
+      "695",
+      "566",
+      "429",
+      "585",
+      "635",
+      "489"
+    ],
+    "dokumen_tidak_relevan": [
+      "986",
+      "326",
+      "27"
+    ],
+    "total_relevan": 7,
+    "total_tidak_relevan": 3
+  },
+  {
+    "query": "final",
+    "model": "model-skipgramstr(100-3-0.01)",
+    "validator": "ruri",
+    "expanded_query": [
+      "final",
+      "semifinal",
+      "perempat",
+      "deg",
+      "leg",
+      "bwf"
+    ],
+    "dokumen_relevan": [
+      530,
+      531,
+      520,
+      523,
+      521,
+      503,
+      519
+    ],
+    "dokumen_tidak_relevan": [
+      430,
+      495,
+      642
+    ],
+    "total_relevan": 7,
+    "total_tidak_relevan": 3
+  },
+  {
+    "query": "final",
+    "model": "model-skipgramstr(100-3-0.001)",
+    "validator": "ruri",
+    "expanded_query": [
+      "final",
+      "lolos",
+      "asia",
+      "semifinal",
+      "grup",
+      "kualifikasi"
+    ],
+    "dokumen_relevan": [
+      552,
+      382,
+      480
+    ],
+    "dokumen_tidak_relevan": [
+      497,
+      541,
+      459,
+      475,
+      621,
+      620,
+      455
+    ],
+    "total_relevan": 3,
+    "total_tidak_relevan": 7
+  },
+  {
+    "query": "final",
+    "model": "model-skipgramstr(100-5-0.01)",
+    "validator": "ruri",
+    "expanded_query": [
+      "final",
+      "semifinal",
+      "deg",
+      "leg",
+      "perempat",
+      "lolos"
+    ],
+    "dokumen_relevan": [
+      530,
+      503,
+      520,
+      523,
+      521,
+      665,
+      519,
+      512
+    ],
+    "dokumen_tidak_relevan": [
+      642,
+      495
+    ],
+    "total_relevan": 8,
+    "total_tidak_relevan": 2
+  },
+  {
+    "query": "final",
+    "model": "model-skipgramstr(100-5-0.001)",
+    "validator": "ruri",
+    "expanded_query": [
+      "final",
+      "semifinal",
+      "grup",
+      "lolos",
+      "asia",
+      "kualifikasi"
+    ],
+    "dokumen_relevan": [
+      552,
+      382,
+      480
+    ],
+    "dokumen_tidak_relevan": [
+      497,
+      541,
+      459,
+      475,
+      621,
+      620,
+      455
+    ],
+    "total_relevan": 3,
+    "total_tidak_relevan": 7
+  },
+  {
+    "query": "final",
+    "model": "model-skipgramstr(100-9-0.01)",
+    "validator": "ruri",
+    "expanded_query": [
+      "final",
+      "semifinal",
+      "agregat",
+      "lolos",
+      "perempat",
+      "leg"
+    ],
+    "dokumen_relevan": [
+      520,
+      523,
+      521,
+      519,
+      503,
+      512,
+      510,
+      506
+    ],
+    "dokumen_tidak_relevan": [
+      642,
+      495
+    ],
+    "total_relevan": 8,
+    "total_tidak_relevan": 2
+  },
+  {
+    "query": "final",
+    "model": "model-skipgramstr(100-9-0.001)",
+    "validator": "ruri",
+    "expanded_query": [
+      "final",
+      "semifinal",
+      "lolos",
+      "grup",
+      "skuad",
+      "b"
+    ],
+    "dokumen_relevan": [
+      382,
+      480
+    ],
+    "dokumen_tidak_relevan": [
+      442,
+      459,
+      445,
+      497,
+      463,
+      475,
+      541,
+      430
+    ],
+    "total_relevan": 2,
+    "total_tidak_relevan": 8
+  },
+  {
+    "query": "final",
+    "model": "model-skipgramstr(300-3-0.01)",
+    "validator": "ruri",
+    "expanded_query": [
+      "final",
+      "semifinal",
+      "perempat",
+      "deg",
+      "leg",
+      "2024hasil"
+    ],
+    "dokumen_relevan": [
+      530,
+      531,
+      520,
+      523,
+      521,
+      503,
+      382,
+      519
+    ],
+    "dokumen_tidak_relevan": [
+      495,
+      642
+    ],
+    "total_relevan": 8,
+    "total_tidak_relevan": 2
+  },
+  {
+    "query": "final",
+    "model": "model-skipgramstr(300-3-0.001)",
+    "validator": "ruri",
+    "expanded_query": [
+      "final",
+      "semifinal",
+      "asia",
+      "lolos",
+      "grup",
+      "kualifikasi"
+    ],
+    "dokumen_relevan": [
+      552,
+      382,
+      480
+    ],
+    "dokumen_tidak_relevan": [
+      497,
+      541,
+      459,
+      475,
+      621,
+      620,
+      455
+    ],
+    "total_relevan": 3,
+    "total_tidak_relevan": 7
+  },
+  {
+    "query": "final",
+    "model": "model-skipgramstr(300-5-0.01)",
+    "validator": "ruri",
+    "expanded_query": [
+      "final",
+      "semifinal",
+      "deg",
+      "leg",
+      "perempat",
+      "lolos"
+    ],
+    "dokumen_relevan": [
+      530,
+      503,
+      520,
+      523,
+      521,
+      665,
+      519,
+      512
+    ],
+    "dokumen_tidak_relevan": [
+      642,
+      495
+    ],
+    "total_relevan": 8,
+    "total_tidak_relevan": 2
+  },
+  {
+    "query": "final",
+    "model": "model-skipgramstr(300-5-0.001)",
+    "validator": "ruri",
+    "expanded_query": [
+      "final",
+      "asia",
+      "grup",
+      "semifinal",
+      "lolos",
+      "kualifikasi"
+    ],
+    "dokumen_relevan": [
+      552,
+      382,
+      480
+    ],
+    "dokumen_tidak_relevan": [
+      497,
+      541,
+      459,
+      475,
+      621,
+      620,
+      455
+    ],
+    "total_relevan": 3,
+    "total_tidak_relevan": 7
+  },
+  {
+    "query": "final",
+    "model": "model-skipgramstr(300-9-0.01)",
+    "validator": "ruri",
+    "expanded_query": [
+      "final",
+      "semifinal",
+      "agregat",
+      "perempat",
+      "lolos",
+      "leg"
+    ],
+    "dokumen_relevan": [
+      520,
+      523,
+      521,
+      519,
+      503,
+      512,
+      510,
+      506
+    ],
+    "dokumen_tidak_relevan": [
+      642,
+      495
+    ],
+    "total_relevan": 8,
+    "total_tidak_relevan": 2
+  },
+  {
+    "query": "final",
+    "model": "model-skipgramstr(300-9-0.001)",
+    "validator": "ruri",
+    "expanded_query": [
+      "final",
+      "semifinal",
+      "lolos",
+      "grup",
+      "skuad",
+      "myanmar"
+    ],
+    "dokumen_relevan": [
+      382,
+      552,
+      519,
+      404
+    ],
+    "dokumen_tidak_relevan": [
+      381,
+      442,
+      463,
+      541,
+      440,
+      497
+    ],
+    "total_relevan": 4,
+    "total_tidak_relevan": 6
+  },
+  {
+    "query": "final",
+    "model": "model-skipgramstr-nostr(100-3-0.01)",
+    "validator": "ruri",
+    "expanded_query": [
+      "final",
+      "semifinal",
+      "perempat",
+      "deg",
+      "gugur",
+      "leg"
+    ],
+    "dokumen_relevan": [
+      530,
+      531,
+      552,
+      520,
+      521,
+      523,
+      503,
+      512
+    ],
+    "dokumen_tidak_relevan": [
+      495,
+      642
+    ],
+    "total_relevan": 8,
+    "total_tidak_relevan": 2
+  },
+  {
+    "query": "final",
+    "model": "model-skipgramstr-nostr(100-3-0.001)",
+    "validator": "ruri",
+    "expanded_query": [
+      "final",
+      "semifinal",
+      "asia",
+      "kualifikasi",
+      "2026",
+      "grup"
+    ],
+    "dokumen_relevan": [
+      552,
+      556,
+      587
+    ],
+    "dokumen_tidak_relevan": [
+      541,
+      459,
+      497,
+      431,
+      475,
+      455,
+      488
+    ],
+    "total_relevan": 3,
+    "total_tidak_relevan": 7
+  },
+  {
+    "query": "final",
+    "model": "model-skipgramstr-nostr(100-5-0.01)",
+    "validator": "ruri",
+    "expanded_query": [
+      "final",
+      "semifinal",
+      "deg",
+      "perempat",
+      "melangkah",
+      "leg"
+    ],
+    "dokumen_relevan": [
+      530,
+      531,
+      520,
+      521,
+      523,
+      503,
+      512
+    ],
+    "dokumen_tidak_relevan": [
+      648,
+      495,
+      642
+    ],
+    "total_relevan": 7,
+    "total_tidak_relevan": 3
+  },
+  {
+    "query": "final",
+    "model": "model-skipgramstr-nostr(100-5-0.001)",
+    "validator": "ruri",
+    "expanded_query": [
+      "final",
+      "semifinal",
+      "asia",
+      "kualifikasi",
+      "grup",
+      "lolos"
+    ],
+    "dokumen_relevan": [
+      552,
+      382,
+      480
+    ],
+    "dokumen_tidak_relevan": [
+      541,
+      459,
+      497,
+      621,
+      455,
+      475,
+      620
+    ],
+    "total_relevan": 3,
+    "total_tidak_relevan": 7
+  },
+  {
+    "query": "final",
+    "model": "model-skipgramstr-nostr(100-9-0.01)",
+    "validator": "ruri",
+    "expanded_query": [
+      "final",
+      "semifinal",
+      "melangkah",
+      "agregat",
+      "deg",
+      "perempat"
+    ],
+    "dokumen_relevan": [
+      520,
+      519,
+      521,
+      523,
+      665,
+      530,
+      503
+    ],
+    "dokumen_tidak_relevan": [
+      648,
+      642,
+      659
+    ],
+    "total_relevan": 7,
+    "total_tidak_relevan": 3
+  },
+  {
+    "query": "final",
+    "model": "model-skipgramstr-nostr(100-9-0.001)",
+    "validator": "ruri",
+    "expanded_query": [
+      "final",
+      "semifinal",
+      "lolos",
+      "asia",
+      "kualifikasi",
+      "skuad"
+    ],
+    "dokumen_relevan": [
+      552,
+      519,
+      382,
+      523
+    ],
+    "dokumen_tidak_relevan": [
+      541,
+      497,
+      455,
+      459,
+      475,
+      621
+    ],
+    "total_relevan": 4,
+    "total_tidak_relevan": 6
+  },
+  {
+    "query": "final",
+    "model": "model-skipgram-nostr(300-3-0.01)",
+    "validator": "ruri",
+    "expanded_query": [
+      "final",
+      "semifinal",
+      "perempat",
+      "deg",
+      "gugur",
+      "2024hasil"
+    ],
+    "dokumen_relevan": [
+      530,
+      552,
+      382,
+      665,
+      480,
+      383,
+      644
+    ],
+    "dokumen_tidak_relevan": [
+      642,
+      541,
+      430
+    ],
+    "total_relevan": 7,
+    "total_tidak_relevan": 3
+  },
+  {
+    "query": "final",
+    "model": "model-skipgram-nostr(300-3-0.001)",
+    "validator": "ruri",
+    "expanded_query": [
+      "final",
+      "semifinal",
+      "asia",
+      "grup",
+      "lolos",
+      "vietnam"
+    ],
+    "dokumen_relevan": [
+      480,
+      552,
+      523,
+      382
+    ],
+    "dokumen_tidak_relevan": [
+      459,
+      541,
+      497,
+      445,
+      620,
+      442
+    ],
+    "total_relevan": 4,
+    "total_tidak_relevan": 6
+  },
+  {
+    "query": "final",
+    "model": "model-skipgram-nostr(300-5-0.01)",
+    "validator": "ruri",
+    "expanded_query": [
+      "final",
+      "semifinal",
+      "deg",
+      "perempat",
+      "leg",
+      "melangkah"
+    ],
+    "dokumen_relevan": [
+      530,
+      531,
+      520,
+      521,
+      523,
+      503,
+      512
+    ],
+    "dokumen_tidak_relevan": [
+      648,
+      495,
+      642
+    ],
+    "total_relevan": 7,
+    "total_tidak_relevan": 3
+  },
+  {
+    "query": "final",
+    "model": "model-skipgram-nostr(300-5-0.001)",
+    "validator": "ruri",
+    "expanded_query": [
+      "final",
+      "asia",
+      "semifinal",
+      "grup",
+      "kualifikasi",
+      "thailand"
+    ],
+    "dokumen_relevan": [
+      552,
+      480,
+      523,
+      556,
+      382,
+      587
+    ],
+    "dokumen_tidak_relevan": [
+      459,
+      497,
+      541,
+      537
+    ],
+    "total_relevan": 6,
+    "total_tidak_relevan": 4
+  },
+  {
+    "query": "final",
+    "model": "model-skipgram-nostr(300-9-0.01)",
+    "validator": "ruri",
+    "expanded_query": [
+      "final",
+      "semifinal",
+      "agregat",
+      "perempat",
+      "melangkah",
+      "deg"
+    ],
+    "dokumen_relevan": [
+      520,
+      519,
+      521,
+      523,
+      665,
+      530,
+      503
+    ],
+    "dokumen_tidak_relevan": [
+      648,
+      642,
+      659
+    ],
+    "total_relevan": 7,
+    "total_tidak_relevan": 3
+  },
+  {
+    "query": "final",
+    "model": "model-skipgram-nostr(300-9-0.001)",
+    "validator": "ruri",
+    "expanded_query": [
+      "final",
+      "semifinal",
+      "asia",
+      "lolos",
+      "kualifikasi",
+      "laos"
+    ],
+    "dokumen_relevan": [
+      552,
+      556,
+      382,
+      587,
+      523
+    ],
+    "dokumen_tidak_relevan": [
+      541,
+      497,
+      459,
+      455,
+      621
+    ],
+    "total_relevan": 5,
+    "total_tidak_relevan": 5
+  },
+  {
+    "query": "final",
+    "model": "Tanpa QE",
+    "validator": "ruri",
+    "dokumen_relevan": [
+      519,
+      523,
+      520,
+      382,
+      383,
+      521,
+      503,
+      530,
+      662
+    ],
+    "dokumen_tidak_relevan": [
+      642
+    ],
+    "total_relevan": 9,
+    "total_tidak_relevan": 1
+  },
+  {
+    "query": "bulu tangkis",
+    "model": "model-skipgramstr(100-3-0.01)",
+    "validator": "shandy",
+    "expanded_query": [
+      "bulu",
+      "tangkis",
+      "kebanggaan",
+      "perguruan",
+      "kontingen",
+      "lambang",
+      "jadikan"
+    ],
+    "dokumen_relevan": [
+      681,
+      589,
+      416
+    ],
+    "dokumen_tidak_relevan": [
+      429,
+      650,
+      703,
+      427,
+      744,
+      1354,
+      587
+    ],
+    "total_relevan": 3,
+    "total_tidak_relevan": 7
+  },
+  {
+    "query": "bulu tangkis",
+    "model": "model-skipgramstr(100-3-0.001)",
+    "validator": "shandy",
+    "expanded_query": [
+      "bulu",
+      "tangkis",
+      "penalti",
+      "kartu",
+      "terbaik",
+      "pertemuan",
+      "peringkat"
+    ],
+    "dokumen_relevan": [
+      681,
+      589,
+      416
+    ],
+    "dokumen_tidak_relevan": [
+      719,
+      508,
+      744,
+      465,
+      703,
+      413,
+      63
+    ],
+    "total_relevan": 3,
+    "total_tidak_relevan": 7
+  },
+  {
+    "query": "bulu tangkis",
+    "model": "model-skipgramstr(100-5-0.01)",
+    "validator": "shandy",
+    "expanded_query": [
+      "bulu",
+      "tangkis",
+      "hadiyanto",
+      "kebanggaan",
+      "badminton",
+      "jadikan",
+      "balapan"
+    ],
+    "dokumen_relevan": [
+      681,
+      416,
+      589,
+      642,
+      585
+    ],
+    "dokumen_tidak_relevan": [
+      429,
+      615,
+      666,
+      744,
+      376
+    ],
+    "total_relevan": 5,
+    "total_tidak_relevan": 5
+  },
+  {
+    "query": "bulu tangkis",
+    "model": "model-skipgramstr(100-5-0.001)",
+    "validator": "shandy",
+    "expanded_query": [
+      "bulu",
+      "tangkis",
+      "cepat",
+      "semoga",
+      "sosok",
+      "berubah",
+      "pmi"
+    ],
+    "dokumen_relevan": [
+      681,
+      589,
+      416,
+      676
+    ],
+    "dokumen_tidak_relevan": [
+      307,
+      850,
+      744,
+      84,
+      41,
+      773
+    ],
+    "total_relevan": 4,
+    "total_tidak_relevan": 6
+  },
+  {
+    "query": "bulu tangkis",
+    "model": "model-skipgramstr(100-9-0.01)",
+    "validator": "shandy",
+    "expanded_query": [
+      "bulu",
+      "tangkis",
+      "hadiyanto",
+      "badminton",
+      "iman",
+      "kejuaraan",
+      "bergengsi"
+    ],
+    "dokumen_relevan": [
+      681,
+      589,
+      416,
+      457,
+      585,
+      456,
+      642
+    ],
+    "dokumen_tidak_relevan": [
+      744,
+      541,
+      579
+    ],
+    "total_relevan": 7,
+    "total_tidak_relevan": 3
+  },
+  {
+    "query": "bulu tangkis",
+    "model": "model-skipgramstr(100-9-0.001)",
+    "validator": "shandy",
+    "expanded_query": [
+      "bulu",
+      "tangkis",
+      "berpikir",
+      "ambil",
+      "kedatangan",
+      "misi",
+      "pembalap"
+    ],
+    "dokumen_relevan": [
+      681,
+      589,
+      416
+    ],
+    "dokumen_tidak_relevan": [
+      715,
+      744,
+      663,
+      376,
+      1496,
+      750,
+      12
+    ],
+    "total_relevan": 3,
+    "total_tidak_relevan": 7
+  },
+  {
+    "query": "bulu tangkis",
+    "model": "model-skipgramstr(300-3-0.01)",
+    "validator": "shandy",
+    "expanded_query": [
+      "bulu",
+      "tangkis",
+      "kebanggaan",
+      "perguruan",
+      "dihormati",
+      "1979",
+      "lambang"
+    ],
+    "dokumen_relevan": [
+      681,
+      589,
+      416
+    ],
+    "dokumen_tidak_relevan": [
+      650,
+      429,
+      703,
+      744,
+      562,
+      587,
+      1114
+    ],
+    "total_relevan": 3,
+    "total_tidak_relevan": 7
+  },
+  {
+    "query": "bulu tangkis",
+    "model": "model-skipgramstr(300-3-0.001)",
+    "validator": "shandy",
+    "expanded_query": [
+      "bulu",
+      "tangkis",
+      "bencana",
+      "satunya",
+      "kanan",
+      "berjalan",
+      "situasi"
+    ],
+    "dokumen_relevan": [
+      681,
+      589,
+      416
+    ],
+    "dokumen_tidak_relevan": [
+      1390,
+      1299,
+      731,
+      744,
+      1482,
+      1393,
+      1216
+    ],
+    "total_relevan": 3,
+    "total_tidak_relevan": 7
+  },
+  {
+    "query": "bulu tangkis",
+    "model": "model-skipgramstr(300-5-0.01)",
+    "validator": "shandy",
+    "expanded_query": [
+      "bulu",
+      "tangkis",
+      "kebanggaan",
+      "hadiyanto",
+      "jadikan",
+      "badminton",
+      "perguruan"
+    ],
+    "dokumen_relevan": [
+      681,
+      416,
+      589,
+      642,
+      585
+    ],
+    "dokumen_tidak_relevan": [
+      429,
+      427,
+      744,
+      587,
+      1114
+    ],
+    "total_relevan": 5,
+    "total_tidak_relevan": 5
+  },
+  {
+    "query": "bulu tangkis",
+    "model": "model-skipgramstr(300-5-0.001)",
+    "validator": "shandy",
+    "expanded_query": [
+      "bulu",
+      "tangkis",
+      "tantangan",
+      "perjuangan",
+      "satunya",
+      "hitam",
+      "menahan"
+    ],
+    "dokumen_relevan": [
+      681,
+      589,
+      416,
+      659
+      
+    ],
+    "dokumen_tidak_relevan": [
+      744,
+      1464,
+      1331,
+      1326,
+      960,
+      874
+    ],
+    "total_relevan": 4,
+    "total_tidak_relevan": 6
+  },
+  {
+    "query": "bulu tangkis",
+    "model": "model-skipgramstr(300-9-0.01)",
+    "validator": "shandy",
+    "expanded_query": [
+      "bulu",
+      "tangkis",
+      "hadiyanto",
+      "badminton",
+      "iman",
+      "bakat",
+      "kejuaraan"
+    ],
+    "dokumen_relevan": [
+      681,
+      589,
+      416,
+      457,
+      585,
+      456,
+      642,
+      684
+    ],
+    "dokumen_tidak_relevan": [
+      744,
+      579
+    ],
+    "total_relevan": 8,
+    "total_tidak_relevan": 2
+  },
+  {
+    "query": "bulu tangkis",
+    "model": "model-skipgramstr(300-9-0.001)",
+    "validator": "shandy",
+    "expanded_query": [
+      "bulu",
+      "tangkis",
+      "promosi",
+      "doa",
+      "kedatangan",
+      "suasana",
+      "in"
+    ],
+    "dokumen_relevan": [
+      681,
+      589,
+      416
+    ],
+    "dokumen_tidak_relevan": [
+      744,
+      119,
+      21,
+      620,
+      750,
+      573,
+      46
+    ],
+    "total_relevan": 3,
+    "total_tidak_relevan": 7
+  },
+  {
+    "query": "bulu tangkis",
+    "model": "model-skipgram-nostr(100-3-0.01)",
+    "validator": "shandy",
+    "expanded_query": [
+      "bulu",
+      "tangkis",
+      "lgbtq",
+      "onic",
+      "lambang",
+      "terkemuka",
+      "wayang"
+    ],
+    "dokumen_relevan": [
+      "681",
+      "589",
+      "416"
+    ],
+    "dokumen_tidak_relevan": [
+      "476",
+      "119",
+      "744",
+      "650",
+      "1473",
+      "391",
+      "418"
+    ],
+    "total_relevan": 3,
+    "total_tidak_relevan": 7
+  },
+  {
+    "query": "bulu tangkis",
+    "model": "model-skipgram-nostr(100-3-0.001)",
+    "validator": "shandy",
+    "expanded_query": [
+      "bulu",
+      "tangkis",
+      "membeberkan",
+      "gaji",
+      "pembentukan",
+      "meninjau",
+      "eks"
+    ],
+    "dokumen_relevan": [
+      "681",
+      "589",
+      "416"
+    ],
+    "dokumen_tidak_relevan": [
+      "744",
+      "91",
+      "1494",
+      "645",
+      "670",
+      "825",
+      "1329"
+    ],
+    "total_relevan": 3,
+    "total_tidak_relevan": 7
+  },
+  {
+    "query": "bulu tangkis",
+    "model": "model-skipgram-nostr(100-5-0.01)",
+    "validator": "shandy",
+    "expanded_query": [
+      "bulu",
+      "tangkis",
+      "bergengsi",
+      "hadiyanto",
+      "jpe",
+      "wayang",
+      "lgbtq"
+    ],
+    "dokumen_relevan": [
+      "681",
+      "589",
+      "416"
+    ],
+    "dokumen_tidak_relevan": [
+      "514",
+      "119",
+      "744",
+      "1473",
+      "541",
+      "391",
+      "418"
+    ],
+    "total_relevan": 3,
+    "total_tidak_relevan": 7
+  },
+  {
+    "query": "bulu tangkis",
+    "model": "model-skipgram-nostr(100-5-0.001)",
+    "validator": "shandy",
+    "expanded_query": [
+      "bulu",
+      "tangkis",
+      "membeberkan",
+      "meninjau",
+      "pln",
+      "sarana",
+      "kemendag"
+    ],
+    "dokumen_relevan": [
+      "681",
+      "589",
+      "416"
+    ],
+    "dokumen_tidak_relevan": [
+      "11",
+      "303",
+      "744",
+      "195",
+      "60",
+      "361",
+      "185"
+    ],
+    "total_relevan": 3,
+    "total_tidak_relevan": 7
+  },
+  {
+    "query": "bulu tangkis",
+    "model": "model-skipgram-nostr(100-9-0.01)",
+    "validator": "shandy",
+    "expanded_query": [
+      "bulu",
+      "tangkis",
+      "hadiyanto",
+      "bergengsi",
+      "jpe",
+      "wayang",
+      "lgbtq"
+    ],
+    "dokumen_relevan": [
+      "681",
+      "589",
+      "416"
+    ],
+    "dokumen_tidak_relevan": [
+      "514",
+      "119",
+      "744",
+      "1473",
+      "541",
+      "391",
+      "418"
+    ],
+    "total_relevan": 3,
+    "total_tidak_relevan": 7
+  },
+  {
+    "query": "bulu tangkis",
+    "model": "model-skipgram-nostr(100-9-0.001)",
+    "validator": "shandy",
+    "expanded_query": [
+      "bulu",
+      "tangkis",
+      "kendali",
+      "turki",
+      "tiongkok",
+      "pb",
+      "merdeka"
+    ],
+    "dokumen_relevan": [
+      "681",
+      "416",
+      "589"
+    ],
+    "dokumen_tidak_relevan": [
+      "744",
+      "1216",
+      "109",
+      "1220",
+      "877",
+      "915",
+      "826"
+    ],
+    "total_relevan": 3,
+    "total_tidak_relevan": 7
+  },
+  {
+    "query": "bulu tangkis",
+    "model": "model-skipgram-nostr(300-3-0.01)",
+    "validator": "shandy",
+    "expanded_query": [
+      "bulu",
+      "tangkis",
+      "onic",
+      "terkemuka",
+      "jpe",
+      "lambang",
+      "ikatan"
+    ],
+    "dokumen_relevan": [
+      "681",
+      "589",
+      "416"
+    ],
+    "dokumen_tidak_relevan": [
+      "514",
+      "476",
+      "744",
+      "650",
+      "1302",
+      "703",
+      "150"
+    ],
+    "total_relevan": 3,
+    "total_tidak_relevan": 7
+  },
+  {
+    "query": "bulu tangkis",
+    "model": "model-skipgram-nostr(300-3-0.001)",
+    "validator": "shandy",
+    "expanded_query": [
+      "bulu",
+      "tangkis",
+      "eks",
+      "ukraina",
+      "bahlil",
+      "tunggal",
+      "pengumuman"
+    ],
+    "dokumen_relevan": [
+      "681",
+      "589",
+      "416",
+      "642",
+      "659"
+    ],
+    "dokumen_tidak_relevan": [
+      "60",
+      "744",
+      "1130",
+      "803",
+      "804"
+    ],
+    "total_relevan": 5,
+    "total_tidak_relevan": 5
+  },
+  {
+    "query": "bulu tangkis",
+    "model": "model-skipgram-nostr(300-5-0.01)",
+    "validator": "shandy",
+    "expanded_query": [
+      "bulu",
+      "tangkis",
+      "wayang",
+      "hadiyanto",
+      "lgbtq",
+      "bergengsi",
+      "jpe"
+    ],
+    "dokumen_relevan": [
+      "681",
+      "589",
+      "416"
+    ],
+    "dokumen_tidak_relevan": [
+      "514",
+      "119",
+      "744",
+      "1473",
+      "541",
+      "391",
+      "418"
+    ],
+    "total_relevan": 3,
+    "total_tidak_relevan": 7
+  },
+  {
+    "query": "bulu tangkis",
+    "model": "model-skipgram-nostr(300-5-0.001)",
+    "validator": "shandy",
+    "expanded_query": [
+      "bulu",
+      "tangkis",
+      "eks",
+      "membeberkan",
+      "khabib",
+      "arif",
+      "kian"
+    ],
+    "dokumen_relevan": [
+      "681",
+      "589",
+      "416",
+      "659",
+      "652"
+    ],
+    "dokumen_tidak_relevan": [
+      "744",
+      "774",
+      "1007",
+      "522",
+      "584"
+    ],
+    "total_relevan": 5,
+    "total_tidak_relevan": 5
+  },
+  {
+    "query": "bulu tangkis",
+    "model": "model-skipgram-nostr(300-9-0.01)",
+    "validator": "shandy",
+    "expanded_query": [
+      "bulu",
+      "tangkis",
+      "hadiyanto",
+      "bergengsi",
+      "jpe",
+      "bakat",
+      "insan"
+    ],
+    "dokumen_relevan": [
+      "681",
+      "589",
+      "416"
+    ],
+    "dokumen_tidak_relevan": [
+      "514",
+      "744",
+      "21",
+      "541",
+      "733",
+      "64",
+      "568"
+    ],
+    "total_relevan": 3,
+    "total_tidak_relevan": 7
+  },
+  {
+    "query": "bulu tangkis",
+    "model": "model-skipgram-nostr(300-9-0.001)",
+    "validator": "shandy",
+    "expanded_query": [
+      "bulu",
+      "tangkis",
+      "mewakili",
+      "terkemuka",
+      "tiongkok",
+      "tes",
+      "campuran"
+    ],
+    "dokumen_relevan": [
+      "681",
+      "589",
+      "416",
+      "642",
+      "599"
+    ],
+    "dokumen_tidak_relevan": [
+      "744",
+      "921",
+      "1350",
+      "109",
+      "915"
+    ],
+    "total_relevan": 5,
+    "total_tidak_relevan": 5
+  },
+  {
+    "query": "bulu tangkis",
+    "model": "Tanpa QE",
+    "validator": "shandy",
+    "dokumen_relevan": [
+      "681",
+      "589",
+      "416",
+      "1482",
+      "659",
+      "642"
+    ],
+    "dokumen_tidak_relevan": [
+      "774",
+      "1216",
+      "1299",
+      "660"
+    ],
+    "total_relevan": 6,
+    "total_tidak_relevan": 4
+  },
+  {
+    "query": "wasit",
+    "model": "model-skipgram(100-3-0.01)",
+    "validator": "shandy",
+    "dokumen_relevan": [
+      508,
+      446,
+      399,
+      493,
+      491,
+      511,
+      506,
+      510,
+      413,
+      451
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0,
+    "expanded_query": [
+      "wasit",
+      "var",
+      "menganulir",
+      "lutfullin",
+      "ramli",
+      "offside"
+    ]
+  },
+  {
+    "query": "wasit",
+    "model": "model-skipgram(100-3-0.001)",
+    "validator": "shandy",
+    "dokumen_relevan": [
+      426,
+      531,
+      491,
+      446,
+      467,
+      510,
+      719
+    ],
+    "dokumen_tidak_relevan": [
+      739,
+      106,
+      228
+    ],
+    "total_relevan": 7,
+    "total_tidak_relevan": 3,
+    "expanded_query": [
+      "wasit",
+      "keras",
+      "berjalan",
+      "layanan",
+      "upaya",
+      "tangan"
+    ]
+  },
+  {
+    "query": "wasit",
+    "model": "model-skipgram(100-5-0.01)",
+    "validator": "shandy",
+    "dokumen_relevan": [
+      508,
+      493,
+      399,
+      491,
+      511,
+      446,
+      510,
+      413,
+      451,
+      586
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0,
+    "expanded_query": [
+      "wasit",
+      "var",
+      "lutfullin",
+      "menganulir",
+      "offside",
+      "handball"
+    ]
+  },
+  {
+    "query": "wasit",
+    "model": "model-skipgram(100-5-0.001)",
+    "validator": "shandy",
+    "dokumen_relevan": [
+      508,
+      413,
+      493,
+      510,
+      511,
+      506,
+      446,
+      586,
+      426
+    ],
+    "dokumen_tidak_relevan": [
+      496
+    ],
+    "total_relevan": 9,
+    "total_tidak_relevan": 1,
+    "expanded_query": [
+      "wasit",
+      "keras",
+      "tendangan",
+      "bek",
+      "kartu",
+      "umpan"
+    ]
+  },
+  {
+    "query": "wasit",
+    "model": "model-skipgram(100-9-0.01)",
+    "validator": "shandy",
+    "dokumen_relevan": [
+      508,
+      491,
+      493,
+      534,
+      399,
+      511,
+      451,
+      446,
+      510,
+      465
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0,
+    "expanded_query": [
+      "wasit",
+      "var",
+      "lutfullin",
+      "dimitrievski",
+      "menganulir",
+      "handball"
+    ]
+  },
+  {
+    "query": "wasit",
+    "model": "model-skipgram(100-9-0.001)",
+    "validator": "shandy",
+    "dokumen_relevan": [
+      506,
+      508,
+      493,
+      510,
+      413,
+      511,
+      460,
+      395
+    ],
+    "dokumen_tidak_relevan": [
+      524,
+      441
+    ],
+    "total_relevan": 8,
+    "total_tidak_relevan": 2,
+    "expanded_query": [
+      "wasit",
+      "sundulan",
+      "xuan",
+      "kiri",
+      "membobol",
+      "tendangan"
+    ]
+  },
+  {
+    "query": "wasit",
+    "model": "model-skipgram(300-3-0.01)",
+    "validator": "shandy",
+    "dokumen_relevan": [
+      508,
+      446,
+      491,
+      399,
+      493,
+      511,
+      451,
+      510,
+      506
+    ],
+    "dokumen_tidak_relevan": [
+      448
+    ],
+    "total_relevan": 9,
+    "total_tidak_relevan": 1,
+    "expanded_query": [
+      "wasit",
+      "var",
+      "menganulir",
+      "lutfullin",
+      "ramli",
+      "lionel"
+    ]
+  },
+  {
+    "query": "wasit",
+    "model": "model-skipgram(300-3-0.001)",
+    "validator": "shandy",
+    "dokumen_relevan": [
+      413,
+      424,
+      458,
+      531,
+      508,
+      467,
+      577
+    ],
+    "dokumen_tidak_relevan": [
+      109,
+      1479,
+      206
+    ],
+    "total_relevan": 7,
+    "total_tidak_relevan": 3,
+    "expanded_query": [
+      "wasit",
+      "sektor",
+      "tambahan",
+      "pertemuan",
+      "aksi",
+      "periode"
+    ]
+  },
+  {
+    "query": "wasit",
+    "model": "model-skipgram(300-5-0.01)",
+    "validator": "shandy",
+    "dokumen_relevan": [
+      508,
+      493,
+      399,
+      491,
+      511,
+      446,
+      510,
+      413,
+      451,
+      586
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0,
+    "expanded_query": [
+      "wasit",
+      "var",
+      "lutfullin",
+      "menganulir",
+      "handball",
+      "offside"
+    ]
+  },
+  {
+    "query": "wasit",
+    "model": "model-skipgram(300-5-0.001)",
+    "validator": "shandy",
+    "dokumen_relevan": [
+      506,
+      510,
+      395,
+      399,
+      511,
+      413,
+      446,
+      575,
+      508
+    ],
+    "dokumen_tidak_relevan": [
+      407
+    ],
+    "total_relevan": 9,
+    "total_tidak_relevan": 1,
+    "expanded_query": [
+      "wasit",
+      "umpan",
+      "tendangan",
+      "sundulan",
+      "keras",
+      "time"
+    ]
+  },
+  {
+    "query": "wasit",
+    "model": "model-skipgram(300-9-0.01)",
+    "validator": "shandy",
+    "dokumen_relevan": [
+      508,
+      491,
+      493,
+      534,
+      399,
+      511,
+      451,
+      446,
+      510,
+      465
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0,
+    "expanded_query": [
+      "wasit",
+      "var",
+      "lutfullin",
+      "dimitrievski",
+      "handball",
+      "menganulir"
+    ]
+  },
+  {
+    "query": "wasit",
+    "model": "model-skipgram(300-9-0.001)",
+    "validator": "shandy",
+    "dokumen_relevan": [
+      508,
+      506,
+      413,
+      493,
+      510,
+      399,
+      410,
+      395,
+      473
+    ],
+    "dokumen_tidak_relevan": [
+      524
+    ],
+    "total_relevan": 9,
+    "total_tidak_relevan": 1,
+    "expanded_query": [
+      "wasit",
+      "sundulan",
+      "kiri",
+      "tercipta",
+      "membobol",
+      "xuan"
+    ]
+  },
+  {
+    "query": "wasit",
+    "model": "model-skipgram-nostr(100-3-0.01)",
+    "validator": "shandy",
+    "dokumen_relevan": [
+      508,
+      491,
+      493,
+      446,
+      506,
+      451,
+      399,
+      413,
+      511,
+      510
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0,
+    "expanded_query": [
+      "wasit",
+      "dianulir",
+      "menganulir",
+      "var",
+      "faris",
+      "lutfullin"
+    ]
+  },
+  {
+    "query": "wasit",
+    "model": "model-skipgram-nostr(100-3-0.001)",
+    "validator": "shandy",
+    "dokumen_relevan": [
+      410,
+      399,
+      508,
+      413,
+      395,
+      470,
+      506,
+      426,
+      510
+    ],
+    "dokumen_tidak_relevan": [
+      917
+    ],
+    "total_relevan": 9,
+    "total_tidak_relevan": 1,
+    "expanded_query": [
+      "wasit",
+      "rs",
+      "menggantikan",
+      "pengembangan",
+      "pensiun",
+      "sundulan"
+    ]
+  },
+  {
+    "query": "wasit",
+    "model": "model-skipgram-nostr(100-5-0.01)",
+    "validator": "shandy",
+    "dokumen_relevan": [
+      491,
+      508,
+      493,
+      399,
+      451,
+      413,
+      511,
+      446,
+      510,
+      465
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0,
+    "expanded_query": [
+      "wasit",
+      "var",
+      "menganulir",
+      "lutfullin",
+      "handball",
+      "dianulir"
+    ]
+  },
+  {
+    "query": "wasit",
+    "model": "model-skipgram-nostr(100-5-0.001)",
+    "validator": "shandy",
+    "dokumen_relevan": [
+      493,
+      460,
+      510,
+      508,
+      511,
+      451,
+      413,
+      399
+    ],
+    "dokumen_tidak_relevan": [
+      526,
+      722
+    ],
+    "total_relevan": 8,
+    "total_tidak_relevan": 2,
+    "expanded_query": [
+      "wasit",
+      "kiri",
+      "bek",
+      "melepaskan",
+      "bawa",
+      "penyerang"
+    ]
+  },
+  {
+    "query": "wasit",
+    "model": "model-skipgram-nostr(100-9-0.01)",
+    "validator": "shandy",
+    "dokumen_relevan": [
+      508,
+      491,
+      493,
+      399,
+      511,
+      451,
+      446,
+      510,
+      465,
+      413
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0,
+    "expanded_query": [
+      "wasit",
+      "var",
+      "lutfullin",
+      "menganulir",
+      "handball",
+      "mengamuk"
+    ]
+  },
+  {
+    "query": "wasit",
+    "model": "model-skipgram-nostr(100-9-0.001)",
+    "validator": "shandy",
+    "dokumen_relevan": [
+      460,
+      510,
+      413,
+      395,
+      511,
+      399,
+      575
+    ],
+    "dokumen_tidak_relevan": [
+      501,
+      526,
+      524
+    ],
+    "total_relevan": 7,
+    "total_tidak_relevan": 3,
+    "expanded_query": [
+      "wasit",
+      "kiri",
+      "melepaskan",
+      "memanfaatkan",
+      "sundulan",
+      "kanan"
+    ]
+  },
+  {
+    "query": "wasit",
+    "model": "model-skipgram-nostr(300-3-0.01)",
+    "validator": "shandy",
+    "dokumen_relevan": [
+      508,
+      446,
+      491,
+      506,
+      493,
+      451,
+      399,
+      460,
+      413
+    ],
+    "dokumen_tidak_relevan": [
+      448
+    ],
+    "total_relevan": 9,
+    "total_tidak_relevan": 1,
+    "expanded_query": [
+      "wasit",
+      "var",
+      "menganulir",
+      "dianulir",
+      "ramli",
+      "faris"
+    ]
+  },
+  {
+    "query": "wasit",
+    "model": "model-skipgram-nostr(300-3-0.001)",
+    "validator": "shandy",
+    "dokumen_relevan": [
+      493,
+      510,
+      511,
+      413,
+      399,
+      506,
+      470
+    ],
+    "dokumen_tidak_relevan": [
+      598,
+      432,
+      501
+    ],
+    "total_relevan": 7,
+    "total_tidak_relevan": 3,
+    "expanded_query": [
+      "wasit",
+      "selanjutnya",
+      "yaitu",
+      "kiper",
+      "melepaskan",
+      "mu"
+    ]
+  },
+  {
+    "query": "wasit",
+    "model": "model-skipgram-nostr(300-5-0.01)",
+    "validator": "shandy",
+    "dokumen_relevan": [
+      508,
+      491,
+      493,
+      399,
+      511,
+      451,
+      446,
+      510,
+      465,
+      413
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0,
+    "expanded_query": [
+      "wasit",
+      "var",
+      "menganulir",
+      "lutfullin",
+      "mengamuk",
+      "handball"
+    ]
+  },
+  {
+    "query": "wasit",
+    "model": "model-skipgram-nostr(300-5-0.001)",
+    "validator": "shandy",
+    "dokumen_relevan": [
+      413,
+      510,
+      460,
+      511,
+      493,
+      451,
+      473,
+      506
+    ],
+    "dokumen_tidak_relevan": [
+      526,
+      524
+    ],
+    "total_relevan": 8,
+    "total_tidak_relevan": 2,
+    "expanded_query": [
+      "wasit",
+      "melepaskan",
+      "tendangan",
+      "kanan",
+      "mengancam",
+      "kiri"
+    ]
+  },
+  {
+    "query": "wasit",
+    "model": "model-skipgram-nostr(300-9-0.01)",
+    "validator": "shandy",
+    "dokumen_relevan": [
+      508,
+      491,
+      493,
+      399,
+      511,
+      451,
+      446,
+      510,
+      465,
+      413
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0,
+    "expanded_query": [
+      "wasit",
+      "var",
+      "lutfullin",
+      "menganulir",
+      "handball",
+      "mengamuk"
+    ]
+  },
+  {
+    "query": "wasit",
+    "model": "model-skipgram-nostr(300-9-0.001)",
+    "validator": "shandy",
+    "dokumen_relevan": [
+      460,
+      451,
+      395,
+      506,
+      575
+    ],
+    "dokumen_tidak_relevan": [
+      526,
+      501,
+      661,
+      524,
+      384
+    ],
+    "total_relevan": 5,
+    "total_tidak_relevan": 5,
+    "expanded_query": [
+      "wasit",
+      "kiri",
+      "melepaskan",
+      "memanfaatkan",
+      "kanan",
+      "kaki"
+    ]
+  },
+  {
+    "query": "wasit",
+    "model": "Tanpa QE",
+    "validator": "shandy",
+    "dokumen_relevan": [
+      508,
+      491,
+      465,
+      534,
+      399,
+      531,
+      446,
+      493,
+      413,
+      467
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0
+  },
+   {
+    "query": "demonstrasi",
+    "model": "model-skipgramstr(100-3-0.01)",
+    "validator": "ali",
+    "expanded_query": [
+      "demonstrasi",
+      "menuntut",
+      "pembenaran",
+      "tuntut",
+      "yun",
+      "mengabaikan"
+    ],
+    "dokumen_relevan": [
+      "1239",
+      "1156",
+      "806",
+      "183"
+    ],
+    "dokumen_tidak_relevan": [
+      "1285",
+      "1179",
+      "989",
+      "987",
+      "1252",
+      "1196"
+    ],
+    "total_relevan": 4,
+    "total_tidak_relevan": 6
+  },
+  {
+    "query": "demonstrasi",
+    "model": "model-skipgramstr(100-3-0.001)",
+    "validator": "ali",
+    "expanded_query": [
+      "demonstrasi",
+      "alex",
+      "dinyatakan",
+      "menambah",
+      "tornado",
+      "hakim"
+    ],
+    "dokumen_relevan": [
+      "1239",
+      "183"
+    ],
+    "dokumen_tidak_relevan": [
+      "1349",
+      "689",
+      "1333",
+      "1018",
+      "1355",
+      "87",
+      "1338",
+      "555"
+    ],
+    "total_relevan": 2,
+    "total_tidak_relevan": 8
+  },
+  {
+    "query": "demonstrasi",
+    "model": "model-skipgramstr(100-5-0.01)",
+    "validator": "ali",
+    "expanded_query": [
+      "demonstrasi",
+      "pembenaran",
+      "menuntut",
+      "dekrit",
+      "kremlin",
+      "penjahat"
+    ],
+    "dokumen_relevan": [
+      "1135",
+      "1239",
+      "1156",
+      "1182",
+      "806",
+      "183",
+      "1321",
+      "1142"
+    ],
+    "dokumen_tidak_relevan": [
+      "1184",
+      "1454"
+    ],
+    "total_relevan": 8,
+    "total_tidak_relevan": 2
+  },
+  {
+    "query": "demonstrasi",
+    "model": "model-skipgramstr(100-5-0.001)",
+    "validator": "ali",
+    "expanded_query": [
+      "demonstrasi",
+      "dinyatakan",
+      "bakar",
+      "terkena",
+      "memicu",
+      "mengimbau"
+    ],
+    "dokumen_relevan": [
+      "1239",
+      "1321",
+      "1156",
+      "1135",
+      "183",
+      "33"
+    ],
+    "dokumen_tidak_relevan": [
+      "1315",
+      "1138",
+      "129",
+      "1119"
+    ],
+    "total_relevan": 6,
+    "total_tidak_relevan": 4
+  },
+  {
+    "query": "demonstrasi",
+    "model": "model-skipgramstr(100-9-0.01)",
+    "validator": "ali",
+    "expanded_query": [
+      "demonstrasi",
+      "jabatannya",
+      "kemarahan",
+      "militernya",
+      "dekrit",
+      "menyuarakan"
+    ],
+    "dokumen_relevan": [
+      "1135",
+      "1156",
+      "799",
+      "1239",
+      "183",
+      "1321",
+      "1175"
+    ],
+    "dokumen_tidak_relevan": [
+      "1184",
+      "1130",
+      "1466"
+    ],
+    "total_relevan": 7,
+    "total_tidak_relevan": 3
+  },
+  {
+    "query": "demonstrasi",
+    "model": "model-skipgramstr(100-9-0.001)",
+    "validator": "ali",
+    "expanded_query": [
+      "demonstrasi",
+      "tuntutan",
+      "platform",
+      "fbi",
+      "gugatan",
+      "judha"
+    ],
+    "dokumen_relevan": [
+      "183",
+      "1156",
+      "1239"
+    ],
+    "dokumen_tidak_relevan": [
+      "1410",
+      "1226",
+      "1148",
+      "1241",
+      "1130",
+      "150",
+      "1265"
+    ],
+    "total_relevan": 3,
+    "total_tidak_relevan": 7
+  },
+  {
+    "query": "demonstrasi",
+    "model": "model-skipgramstr(300-3-0.01)",
+    "validator": "ali",
+    "expanded_query": [
+      "demonstrasi",
+      "pembelaan",
+      "menuntut",
+      "yun",
+      "desakan",
+      "tuntut"
+    ],
+    "dokumen_relevan": [
+      "1239",
+      "1062",
+      "1156"
+    ],
+    "dokumen_tidak_relevan": [
+      "1179",
+      "1177",
+      "989",
+      "987",
+      "1252",
+      "1285",
+      "797"
+    ],
+    "total_relevan": 3,
+    "total_tidak_relevan": 7
+  },
+  {
+    "query": "demonstrasi",
+    "model": "model-skipgramstr(300-3-0.001)",
+    "validator": "ali",
+    "expanded_query": [
+      "demonstrasi",
+      "permintaan",
+      "buka",
+      "sejarah",
+      "cepat",
+      "republik"
+    ],
+    "dokumen_relevan": [
+      "1135",
+      "183",
+      "1156",
+      "1239",
+      "1176"
+    ],
+    "dokumen_tidak_relevan": [
+      "1021",
+      "1396",
+      "1023",
+      "1313",
+      "1253"
+    ],
+    "total_relevan": 5,
+    "total_tidak_relevan": 5
+  },
+  {
+    "query": "demonstrasi",
+    "model": "model-skipgramstr(300-5-0.01)",
+    "validator": "ali",
+    "expanded_query": [
+      "demonstrasi",
+      "pembenaran",
+      "desakan",
+      "menuntut",
+      "nazi",
+      "pembelaan"
+    ],
+    "dokumen_relevan": [
+      "1239",
+      "1062",
+      "1156",
+      "806",
+      "183",
+      "1135",
+      "1321"
+    ],
+    "dokumen_tidak_relevan": [
+      "1177",
+      "1436",
+      "797"
+    ],
+    "total_relevan": 7,
+    "total_tidak_relevan": 3
+  },
+  {
+    "query": "demonstrasi",
+    "model": "model-skipgramstr(300-5-0.001)",
+    "validator": "ali",
+    "expanded_query": [
+      "demonstrasi",
+      "cepat",
+      "kolaborasi",
+      "lokal",
+      "online",
+      "status"
+    ],
+    "dokumen_relevan": [
+      "1135",
+      "1239"
+    ],
+    "dokumen_tidak_relevan": [
+      "24",
+      "203",
+      "71",
+      "59",
+      "74",
+      "1226",
+      "65",
+      "837"
+    ],
+    "total_relevan": 2,
+    "total_tidak_relevan": 8
+  },
+  {
+    "query": "demonstrasi",
+    "model": "model-skipgramstr(300-9-0.01)",
+    "validator": "ali",
+    "expanded_query": [
+      "demonstrasi",
+      "jabatannya",
+      "penjahat",
+      "kemarahan",
+      "menyuarakan",
+      "kekacauan"
+    ],
+    "dokumen_relevan": [
+      "1135",
+      "1175",
+      "1165",
+      "1136",
+      "1156",
+      "799",
+      "1239"
+    ],
+    "dokumen_tidak_relevan": [
+      "1130",
+      "1184",
+      "1466"
+    ],
+    "total_relevan": 7,
+    "total_tidak_relevan": 3
+  },
+  {
+    "query": "demonstrasi",
+    "model": "model-skipgramstr(300-9-0.001)",
+    "validator": "ali",
+    "expanded_query": [
+      "demonstrasi",
+      "platform",
+      "imigran",
+      "menghindari",
+      "mao",
+      "menanggapi"
+    ],
+    "dokumen_relevan": [
+      "1239",
+      "183",
+      "1268"
+    ],
+    "dokumen_tidak_relevan": [
+      "1468",
+      "1217",
+      "1480",
+      "1257",
+      "1269",
+      "1458",
+      "150"
+    ],
+    "total_relevan": 3,
+    "total_tidak_relevan": 7
+  },
+  {
+    "query": "demonstrasi",
+    "model": "model-skipgram-nostr(100-3-0.01)",
+    "validator": "ali",
+    "expanded_query": ["demonstrasi", "hara", "huru", "senat", "lai", "menyuarakan"],
+    "dokumen_relevan": ["1321", "1178", "1397", "1239", "183"],
+    "dokumen_tidak_relevan": ["1169", "1323", "336", "1462", "1370"],
+    "total_relevan": 5,
+    "total_tidak_relevan": 5
+  },
+  {
+    "query": "demonstrasi",
+    "model": "model-skipgram-nostr(100-3-0.001)",
+    "validator": "ali",
+    "expanded_query": ["demonstrasi", "nya", "penerima", "dadan", "pemulihan", "motor"],
+    "dokumen_relevan": [],
+    "dokumen_tidak_relevan": ["263", "149", "260", "261", "197", "293", "240", "189", "196", "359"],
+    "total_relevan": 0,
+    "total_tidak_relevan": 10
+  },
+  {
+    "query": "demonstrasi",
+    "model": "model-skipgram-nostr(100-5-0.01)",
+    "validator": "ali",
+    "expanded_query": ["demonstrasi", "huru", "hara", "pemerintahannya", "lai", "dikritik"],
+    "dokumen_relevan": ["1321", "1178", "1397", "1239", "183", "1135"],
+    "dokumen_tidak_relevan": ["1169", "1323", "336", "1164"],
+    "total_relevan": 6,
+    "total_tidak_relevan": 4
+  },
+  {
+    "query": "demonstrasi",
+    "model": "model-skipgram-nostr(100-5-0.001)",
+    "validator": "ali",
+    "expanded_query": ["demonstrasi", "pemulihan", "dapur", "pembiayaan", "membeberkan", "membayar"],
+    "dokumen_relevan": ["1239", "183", "1135"],
+    "dokumen_tidak_relevan": ["82", "998", "199", "351", "29", "1048", "115"],
+    "total_relevan": 3,
+    "total_tidak_relevan": 7
+  },
+  {
+    "query": "demonstrasi",
+    "model": "model-skipgram-nostr(100-9-0.01)",
+    "validator": "ali",
+    "expanded_query": ["demonstrasi", "dikritik", "menangguhkan", "desakan", "penggulingan", "berbincang"],
+    "dokumen_relevan": ["1156", "1135", "1239", "183", "1321", "1062"],
+    "dokumen_tidak_relevan": ["1340", "767", "1157", "779"],
+    "total_relevan": 6,
+    "total_tidak_relevan": 4
+  },
+  {
+    "query": "demonstrasi",
+    "model": "model-skipgram-nostr(100-9-0.001)",
+    "validator": "ali",
+    "expanded_query": ["demonstrasi", "rinci", "pengambilan", "penilaian", "mengembalikan", "kcic"],
+    "dokumen_relevan": ["1239", "183", "1135", "1321"],
+    "dokumen_tidak_relevan": ["215", "73", "112", "1006", "103", "1087"],
+    "total_relevan": 4,
+    "total_tidak_relevan": 6
+  },
+  {
+    "query": "demonstrasi",
+    "model": "model-skipgram-nostr(300-3-0.01)",
+    "validator": "ali",
+    "expanded_query": ["demonstrasi", "huru", "hara", "kamisan", "fransiskus", "menyuarakan"],
+    "dokumen_relevan": ["1321", "799", "1178", "1397", "1239"],
+    "dokumen_tidak_relevan": ["1230", "1379", "1206", "1323", "336"],
+    "total_relevan": 5,
+    "total_tidak_relevan": 5
+  },
+  {
+    "query": "demonstrasi",
+    "model": "model-skipgram-nostr(300-3-0.001)",
+    "validator": "ali",
+    "expanded_query": ["demonstrasi", "hakim", "panggilan", "siswa", "hasan", "raya"],
+    "dokumen_relevan": ["1321", "1175"],
+    "dokumen_tidak_relevan": ["929", "1189", "114", "773", "197", "1063", "1407", "1184"],
+    "total_relevan": 2,
+    "total_tidak_relevan": 8
+  },
+  {
+    "query": "demonstrasi",
+    "model": "model-skipgram-nostr(300-5-0.01)",
+    "validator": "ali",
+    "expanded_query": ["demonstrasi", "hara", "huru", "pemerintahannya", "militernya", "dekrit"],
+    "dokumen_relevan": ["1321", "1135", "1178", "1397", "1239", "183"],
+    "dokumen_tidak_relevan": ["1184", "1323", "336", "1164"],
+    "total_relevan": 6,
+    "total_tidak_relevan": 4
+  },
+  {
+    "query": "demonstrasi",
+    "model": "model-skipgram-nostr(300-5-0.001)",
+    "validator": "ali",
+    "expanded_query": ["demonstrasi", "bulog", "transportasi", "penipuan", "penerapan", "pinjaman"],
+    "dokumen_relevan": ["33", "1239", "183"],
+    "dokumen_tidak_relevan": ["369", "110", "264", "254", "15", "55", "1029"],
+    "total_relevan": 3,
+    "total_tidak_relevan": 7
+  },
+  {
+    "query": "demonstrasi",
+    "model": "model-skipgram-nostr(300-9-0.01)",
+    "validator": "ali",
+    "expanded_query": ["demonstrasi", "menangguhkan", "kemarahan", "menyuarakan", "dekrit", "penggulingan"],
+    "dokumen_relevan": ["1135", "1156", "1182", "1239", "183", "1175", "1321", "1142"],
+    "dokumen_tidak_relevan": ["1130", "1157"],
+    "total_relevan": 8,
+    "total_tidak_relevan": 2
+  },
+  {
+    "query": "demonstrasi",
+    "model": "model-skipgram-nostr(300-9-0.001)",
+    "validator": "ali",
+    "expanded_query": ["demonstrasi", "penelitian", "fbi", "imigran", "york", "komite"],
+    "dokumen_relevan": ["1156", "1239"],
+    "dokumen_tidak_relevan": ["1410", "1468", "1130", "1458", "1462", "1317", "1265", "1166"],
+    "total_relevan": 2,
+    "total_tidak_relevan": 8
+  },
+
+
+   {
+    "query": "kondisi bencana",
+    "model": "Tanpa QE",
+    "validator": "ali",
+    "dokumen_relevan": [
+      "1055",
+      "1032",
+      "1020",
+      "1115",
+      "1123",
+      "966",
+      "1231",
+      "1119"
+    ],
+    "dokumen_tidak_relevan": [
+      "1103",
+      "65"
+    ],
+    "total_relevan": 8,
+    "total_tidak_relevan": 2
+  },
+  {
+    "query": "kondisi bencana",
+    "model": "model-skipgram-nostr(100-3-0.01)",
+    "validator": "ali",
+    "expanded_query": [
+      "kondisi",
+      "bencana",
+      "cuaca",
+      "ekstrem",
+      "rob",
+      "gempabumi",
+      "rawan"
+    ],
+    "dokumen_relevan": [
+      "819",
+      "992",
+      "894",
+      "966",
+      "1115",
+      "852",
+      "1026"
+    ],
+    "dokumen_tidak_relevan": [
+      "31",
+      "224",
+      "106"
+    ],
+    "total_relevan": 7,
+    "total_tidak_relevan": 3
+  },
+  {
+    "query": "kondisi bencana",
+    "model": "model-skipgram-nostr(100-3-0.001)",
+    "validator": "ali",
+    "expanded_query": [
+      "kondisi",
+      "bencana",
+      "situasi",
+      "petugas",
+      "sendiri",
+      "lembaga",
+      "hidup"
+    ],
+    "dokumen_relevan": [
+      "1020",
+      "1319",
+      "966",
+      "1371",
+      "1296",
+      "1123"
+    ],
+    "dokumen_tidak_relevan": [
+      "864",
+      "137",
+      "770",
+      "65"
+    ],
+    "total_relevan": 6,
+    "total_tidak_relevan": 4
+  },
+  {
+    "query": "kondisi bencana",
+    "model": "model-skipgram-nostr(100-5-0.01)",
+    "validator": "ali",
+    "expanded_query": [
+      "kondisi",
+      "bencana",
+      "tergerus",
+      "cuaca",
+      "memperburuk",
+      "sekitarnya",
+      "rob"
+    ],
+    "dokumen_relevan": [
+      "1115",
+      "1125",
+      "992",
+      "1320",
+      "1322",
+      "966",
+      "1319",
+      "1123",
+      "1327",
+      "819"
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0
+  },
+  {
+    "query": "kondisi bencana",
+    "model": "model-skipgram-nostr(100-5-0.001)",
+    "validator": "ali",
+    "expanded_query": [
+      "kondisi",
+      "bencana",
+      "berkoordinasi",
+      "sana",
+      "hidup",
+      "tempat",
+      "diambil"
+    ],
+    "dokumen_relevan": [
+      "1067",
+      "1119",
+      "1429",
+      "1020",
+      "1371",
+      "1232"
+    ],
+    "dokumen_tidak_relevan": [
+      "1359",
+      "1433",
+      "278",
+      "1103"
+    ],
+    "total_relevan": 6,
+    "total_tidak_relevan": 4
+  },
+  {
+    "query": "kondisi bencana",
+    "model": "model-skipgram-nostr(100-9-0.01)",
+    "validator": "ali",
+    "expanded_query": [
+      "kondisi",
+      "bencana",
+      "cuaca",
+      "lebat",
+      "nws",
+      "vulkanologi",
+      "kebanjiran"
+    ],
+    "dokumen_relevan": [
+      "1262",
+      "1319",
+      "1320",
+      "1322",
+      "1031",
+      "1125",
+      "1055",
+      "894",
+      "1054",
+      "992"
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0
+  },
+  {
+    "query": "kondisi bencana",
+    "model": "model-skipgram-nostr(100-9-0.001)",
+    "validator": "ali",
+    "expanded_query": [
+      "kondisi",
+      "bencana",
+      "evakuasi",
+      "tempat",
+      "tinggal",
+      "luas",
+      "wni"
+    ],
+    "dokumen_relevan": [
+      "1324",
+      "1319",
+      "1315",
+      "1447",
+      "1020",
+      "1322",
+      "1123",
+      "1032"
+    ],
+    "dokumen_tidak_relevan": [
+      "1205",
+      "1495"
+    ],
+    "total_relevan": 8,
+    "total_tidak_relevan": 2
+  },
+  {
+    "query": "kondisi bencana",
+    "model": "model-skipgram-nostr(300-3-0.01)",
+    "validator": "ali",
+    "expanded_query": [
+      "kondisi",
+      "bencana",
+      "terkini",
+      "rawan",
+      "cuaca",
+      "rob",
+      "ekstrem"
+    ],
+    "dokumen_relevan": [
+      "819",
+      "992",
+      "894",
+      "966",
+      "1115",
+      "1125",
+      "852"
+    ],
+    "dokumen_tidak_relevan": [
+      "31",
+      "65",
+      "224"
+    ],
+    "total_relevan": 7,
+    "total_tidak_relevan": 3
+  },
+  {
+    "query": "kondisi bencana",
+    "model": "model-skipgram-nostr(300-3-0.001)",
+    "validator": "ali",
+    "expanded_query": [
+      "kondisi",
+      "bencana",
+      "aturan",
+      "perkara",
+      "terlibat",
+      "petugas",
+      "pelanggaran"
+    ],
+    "dokumen_relevan": [
+      "966",
+      "1115",
+      "1020"
+    ],
+    "dokumen_tidak_relevan": [
+      "344",
+      "770",
+      "584",
+      "73",
+      "1075",
+      "298",
+      "1036"
+    ],
+    "total_relevan": 3,
+    "total_tidak_relevan": 7
+  },
+  {
+    "query": "kondisi bencana",
+    "model": "model-skipgram-nostr(300-5-0.01)",
+    "validator": "ali",
+    "expanded_query": [
+      "kondisi",
+      "bencana",
+      "cuaca",
+      "rob",
+      "rawan",
+      "memperburuk",
+      "melanda"
+    ],
+    "dokumen_relevan": [
+      "1322",
+      "852",
+      "819",
+      "992",
+      "1125",
+      "1320",
+      "966",
+      "1115",
+      "1327"
+    ],
+    "dokumen_tidak_relevan": [
+      "31"
+    ],
+    "total_relevan": 9,
+    "total_tidak_relevan": 1
+  },
+  {
+    "query": "kondisi bencana",
+    "model": "model-skipgram-nostr(300-5-0.001)",
+    "validator": "ali",
+    "expanded_query": [
+      "kondisi",
+      "bencana",
+      "sebab",
+      "sekolah",
+      "berkoordinasi",
+      "diambil",
+      "kecil"
+    ],
+    "dokumen_relevan": [
+      "1119",
+      "1020",
+      "1390",
+      "1067",
+      "1074",
+      "1115"
+    ],
+    "dokumen_tidak_relevan": [
+      "995",
+      "1258",
+      "325",
+      "211"
+    ],
+    "total_relevan": 6,
+    "total_tidak_relevan": 4
+  },
+  {
+    "query": "kondisi bencana",
+    "model": "model-skipgram-nostr(300-9-0.01)",
+    "validator": "ali",
+    "expanded_query": [
+      "kondisi",
+      "bencana",
+      "meteorologi",
+      "penanggulangan",
+      "pompa",
+      "batang",
+      "vulkanologi"
+    ],
+    "dokumen_relevan": [
+      "1054",
+      "966",
+      "1123",
+      "1067",
+      "992",
+      "1000",
+      "1020",
+      "1115",
+      "1119",
+      "1125"
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0
+  },
+  {
+    "query": "kondisi bencana",
+    "model": "model-skipgram-nostr(300-9-0.001)",
+    "validator": "ali",
+    "expanded_query": [
+      "kondisi",
+      "bencana",
+      "evakuasi",
+      "tempat",
+      "tinggal",
+      "sejauh",
+      "luas"
+    ],
+    "dokumen_relevan": [
+      "1020",
+      "1319",
+      "1447",
+      "1123",
+      "1055",
+      "1032",
+      "1119",
+      "1324",
+      "1339"
+    ],
+    "dokumen_tidak_relevan": [
+      "1495"
+    ],
+    "total_relevan": 9,
+    "total_tidak_relevan": 1
+  },
+  {
+    "query": "kondisi bencana",
+    "model": "model-skipgramstr(100-3-0.01)",
+    "validator": "ali",
+    "expanded_query": [
+      "kondisi",
+      "bencana",
+      "cuaca",
+      "penanggulangan",
+      "kritis",
+      "terkini",
+      "ekstrem"
+    ],
+    "dokumen_relevan": [
+      1125,
+      1320,
+      1322,
+      1000,
+      65,
+      1319,
+      1418,
+      992
+    ],
+    "dokumen_tidak_relevan": [
+      31,
+      224
+    ],
+    "total_relevan": 8,
+    "total_tidak_relevan": 2
+  },
+  {
+    "query": "kondisi bencana",
+    "model": "model-skipgramstr(100-3-0.001)",
+    "validator": "ali",
+    "expanded_query": [
+      "kondisi",
+      "bencana",
+      "upaya",
+      "china",
+      "insiden",
+      "politik",
+      "data"
+    ],
+    "dokumen_relevan": [
+      "1429",
+      "1020",
+      "1296",
+      "1267"
+    ],
+    "dokumen_tidak_relevan": [
+      "1257",
+      "1326",
+      "1314",
+      "1179",
+      "1332",
+      "1295"
+    ],
+    "total_relevan": 4,
+    "total_tidak_relevan": 6
+  },
+  {
+    "query": "kondisi bencana",
+    "model": "model-skipgramstr(100-5-0.01)",
+    "validator": "ali",
+    "expanded_query": [
+      "kondisi",
+      "bencana",
+      "cuaca",
+      "kritis",
+      "penanggulangan",
+      "nws",
+      "ekstrem"
+    ],
+    "dokumen_relevan": [
+      "1320",
+      "1322",
+      "1319",
+      "1327",
+      "1125",
+      "1418",
+      "992",
+      "894"
+    ],
+    "dokumen_tidak_relevan": [
+      "31",
+      "224"
+    ],
+    "total_relevan": 8,
+    "total_tidak_relevan": 2
+  },
+  {
+    "query": "kondisi bencana",
+    "model": "model-skipgramstr(100-5-0.001)",
+    "validator": "ali",
+    "expanded_query": [
+      "kondisi",
+      "bencana",
+      "kejadian",
+      "aparat",
+      "penembakan",
+      "gunung",
+      "arah"
+    ],
+    "dokumen_relevan": [
+      "1000",
+      "1020",
+      "918",
+      "1124",
+      "812",
+      "894",
+      "886",
+      "1028"
+    ],
+    "dokumen_tidak_relevan": [
+      "983",
+      "897"
+    ],
+    "total_relevan": 8,
+    "total_tidak_relevan": 2
+  },
+  {
+    "query": "kondisi bencana",
+    "model": "model-skipgramstr(100-9-0.01)",
+    "validator": "ali",
+    "expanded_query": [
+      "kondisi",
+      "bencana",
+      "penanggulangan",
+      "vulkanologi",
+      "meteorologi",
+      "peraliya",
+      "cuaca"
+    ],
+    "dokumen_relevan": [
+      "1000",
+      "1231",
+      "1123",
+      "1020",
+      "1320",
+      "1322",
+      "1125",
+      "1319",
+      "1418",
+      "894"
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0
+  },
+  {
+    "query": "kondisi bencana",
+    "model": "model-skipgramstr(100-9-0.001)",
+    "validator": "ali",
+    "expanded_query": [
+      "kondisi",
+      "bencana",
+      "melanda",
+      "evakuasi",
+      "hanyut",
+      "mengakibatkan",
+      "arus"
+    ],
+    "dokumen_relevan": [
+      "1024",
+      "1032",
+      "1011",
+      "1013",
+      "1012",
+      "1008",
+      "871",
+      "860",
+      "1125",
+      "1101"
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0
+  },
+  {
+    "query": "kondisi bencana",
+    "model": "model-skipgramstr(300-3-0.01)",
+    "validator": "ali",
+    "expanded_query": [
+      "kondisi",
+      "bencana",
+      "cuaca",
+      "terkini",
+      "kritis",
+      "ekstrem",
+      "penanggulangan"
+    ],
+    "dokumen_relevan": [
+      "1125",
+      "1320",
+      "1322",
+      "1000",
+      "1319",
+      "1418",
+      "992"
+    ],
+    "dokumen_tidak_relevan": [
+      "31",
+      "65",
+      "224"
+    ],
+    "total_relevan": 7,
+    "total_tidak_relevan": 3
+  },
+  {
+    "query": "kondisi bencana",
+    "model": "model-skipgramstr(300-3-0.001)",
+    "validator": "ali",
+    "expanded_query": [
+      "kondisi",
+      "bencana",
+      "data",
+      "keluarga",
+      "upaya",
+      "mengalami",
+      "mobil"
+    ],
+    "dokumen_relevan": [
+      "966",
+      "1055",
+      "1020",
+      "1390"
+    ],
+    "dokumen_tidak_relevan": [
+      "994",
+      "1332",
+      "954",
+      "950",
+      "38",
+      "1001"
+    ],
+    "total_relevan": 4,
+    "total_tidak_relevan": 6
+  },
+  {
+    "query": "kondisi bencana",
+    "model": "model-skipgramstr(300-5-0.01)",
+    "validator": "ali",
+    "expanded_query": [
+      "kondisi",
+      "bencana",
+      "cuaca",
+      "kritis",
+      "nws",
+      "ekstrem",
+      "penanggulangan"
+    ],
+    "dokumen_relevan": [
+      "1320",
+      "1322",
+      "1319",
+      "1327",
+      "1125",
+      "1418",
+      "992"
+    ],
+    "dokumen_tidak_relevan": [
+      "31",
+      "224",
+      "894"
+    ],
+    "total_relevan": 7,
+    "total_tidak_relevan": 3
+  },
+  {
+    "query": "kondisi bencana",
+    "model": "model-skipgramstr(300-5-0.001)",
+    "validator": "ali",
+    "expanded_query": [
+      "kondisi",
+      "bencana",
+      "kejadian",
+      "gunung",
+      "arus",
+      "potensi",
+      "keselamatan"
+    ],
+    "dokumen_relevan": [
+      "1000",
+      "1020",
+      "812",
+      "918",
+      "894",
+      "1032",
+      "1123",
+      "1124",
+      "992"
+    ],
+    "dokumen_tidak_relevan": [
+      "65"
+    ],
+    "total_relevan": 9,
+    "total_tidak_relevan": 1
+  },
+  {
+    "query": "kondisi bencana",
+    "model": "model-skipgramstr(300-9-0.01)",
+    "validator": "ali",
+    "expanded_query": [
+      "kondisi",
+      "bencana",
+      "peraliya",
+      "penanggulangan",
+      "meteorologi",
+      "cuaca",
+      "vulkanologi"
+    ],
+    "dokumen_relevan": [
+      "1000",
+      "1231",
+      "1123",
+      "1020",
+      "1320",
+      "1322",
+      "1125",
+      "1319",
+      "1418",
+      "894"
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0
+  },
+  {
+    "query": "kondisi bencana",
+    "model": "model-skipgramstr(300-9-0.001)",
+    "validator": "ali",
+    "expanded_query": [
+      "kondisi",
+      "bencana",
+      "mengakibatkan",
+      "arus",
+      "hanyut",
+      "peristiwa",
+      "jiwa"
+    ],
+    "dokumen_relevan": [
+      "1024",
+      "1032",
+      "1013",
+      "1055",
+      "1125",
+      "871",
+      "1101",
+      "1017",
+      "1123",
+      "1011"
+    ],
+    "dokumen_tidak_relevan": [],
+    "total_relevan": 10,
+    "total_tidak_relevan": 0
+  }
+  
+]
