@@ -3,10 +3,11 @@ import numpy as np
 import pandas as pd
 import ast
 import time
+import nltk
 from gensim.models import Word2Vec
 from nltk.corpus import stopwords
 from rank_bm25 import BM25Plus
-
+nltk.download('stopwords')
 stop_words = set(stopwords.words('indonesian'))
 
 #preprocessing
@@ -114,4 +115,5 @@ def load_model_and_search(query, model_name, mode):
         "expanded_query": expanded_query,
         "results": results,
         #"elapsed_time": elapsed_time,
+
     }
